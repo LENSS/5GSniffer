@@ -55,9 +55,9 @@ git clone --recurse-submodules https://github.com/spritelab/5GSniffer.git
 cd 5GSniffer/5gsniffer
 mkdir -p build
 cd build
-export CXX=/usr/bin/clang++14
+export CXX=/usr/bin/clang++-14
 export CC=/usr/bin/clang-14
-cmake -DCMAKE_C_COMPILER=/usr/bin/clang-14 -DCMAKE_CXX_COMPILER=/usr/bin/clang++14 ..
+cmake -DCMAKE_C_COMPILER=/usr/bin/clang-14 -DCMAKE_CXX_COMPILER=/usr/bin/clang++-14 ..
 make -j 8
 ```
 
@@ -120,7 +120,7 @@ The sniffer can operate from recorded files offline, or using a SDR.
 
 **rnti_start** and **rnti_end:** these values specify the range of RNTIs we want to sniff. From our network operation survey we found that operators only allocate RNTIs in specific subsets of RNTIs.
 
-**interleaving_pattern:** indicates the interleaving pattern used. Corresponds to “_cce-REG-MappingType_” parameter in “_pdcch-Config_” in RRC.
+**coreset_interleaving_pattern:** indicates the interleaving pattern used. Corresponds to “_cce-REG-MappingType_” parameter in “_pdcch-Config_” in RRC.
 
 **coreset_interleaver_size:** corresponds to “_interleaverSize_” parameter in “_pdcch-Config_” in RRC.
 
