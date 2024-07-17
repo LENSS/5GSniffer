@@ -130,6 +130,8 @@ The sniffer can operate from recorded files offline, or using a SDR.
 
 **coreset_nshift:** indicates the cyclic shift used for the interleaving pattern. Corresponds to “_shiftIndex_” parameter in “_pdcch-Config_” in RRC.
 
+**coreset_ofdm_symbol_start:** indicates the starting OFDM symbol in the slot that corresponds to the CORESET.
+
 **AL_corr_thresholds:** indicates, for each aggregation level, what is the correlation threshold over which we will try to decode a DCI. Lowering this value increases the speed of the decoder, but also increases the probability of missing DCIs.
 
 **num_candidates_per_AL:** indicates how many candidates should the sniffer look for per each aggregation level. Corresponds to “_nrofCandidates_” parameter in “_pdcch-Config_” in RRC.
