@@ -31,6 +31,7 @@
 #include <unordered_map>
 
 std::binary_semaphore rnti_list_mutex(1);
+std::binary_semaphore dmrs_table_mutex(1);
 
 pdcch::pdcch(){
   RNTI = 0;
@@ -109,9 +110,11 @@ void pdcch::initialize_dmrs_seq(){
         }
         std::string key = std::to_string(scrambling_id) + std::to_string(agg_level) + std::to_string(slot_index) + std::to_string(candidate_idx);
         
+        dmrs_table_mutex.acquire();
         this->dmrs_seq_table.emplace(key, pdcch_dmrs_symbols);
         this->dmrs_sc_indices_table.emplace(key, pdcch_dmrs_sc_indices);
         this->data_sc_indices_table.emplace(key, pdcch_data_sc_indices);
+        dmrs_table_mutex.release();
       }
     }
   }
@@ -255,10 +258,12 @@ std::vector<std::complex<float>> pdcch::estimate_channel_dci(symbol& symbol, dci
     bool user_search_space = false;
     
     std::string key = std::to_string(dci_.get_pdcch_scrambling_id()) + std::to_string((uint8_t)log2(dci_.get_found_aggregation_level())) + std::to_string(dci_.get_n_slot()) + std::to_string(dci_.get_found_candidate());
-
+    
+    dmrs_table_mutex.acquire();
     std::vector<uint64_t> pdcch_dmrs_sc_indices = dmrs_sc_indices_table[key];
     std::vector<std::complex<float>> pdcch_dmrs_symbols = dmrs_seq_table[key];
     std::vector<uint16_t> pdcch_data_sc_indices = data_sc_indices_table[key];
+    dmrs_table_mutex.release();
 
     symbol.channel_estimate(pdcch_dmrs_symbols, pdcch_dmrs_sc_indices, pdcch_data_sc_indices.at(0), pdcch_data_sc_indices.at(pdcch_data_sc_indices.size() - 1 ));
 
@@ -497,8 +502,11 @@ bool pdcch::correlate_DMRS(symbol& symbol, std::vector<dci>& found_dci_list){
       max_num_candidate = coreset_info.get_candidates_search_space().at(agg_level);
       for (int candidate_idx = 0; candidate_idx < max_num_candidate; candidate_idx++){
         std::string key = std::to_string(pdcch_scrambling_id) + std::to_string(agg_level) + std::to_string(symbol.slot_index) + std::to_string(candidate_idx);
+        
+        dmrs_table_mutex.acquire();
         pdcch_dmrs_sc_indices = dmrs_sc_indices_table[key];
         pdcch_dmrs_symbols = dmrs_seq_table[key];
+        dmrs_table_mutex.release();
 
         correlation_value_per_candidate.at(candidate_idx) = compute_correlation_DMRS(symbol, pdcch_dmrs_symbols, pdcch_dmrs_sc_indices);
         if ((agg_level == 0 && correlation_value_per_candidate.at(candidate_idx) > threshold_per_AL.at(0)) | (agg_level == 1 && correlation_value_per_candidate.at(candidate_idx) > threshold_per_AL.at(1)) | 
