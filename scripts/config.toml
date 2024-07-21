@@ -1,0 +1,81 @@
+[[pdcch]]
+coreset_id = 4
+subcarrier_offset = -310
+num_prbs = 96
+numerology = 0
+dci_sizes_list = [ 40, 49,]
+scrambling_id_start = 9202
+scrambling_id_end = 9202
+rnti_start = 2278
+rnti_end = 2278
+coreset_interleaving_pattern = "interleaved"
+coreset_reg_bundle_size = 2
+coreset_interleaver_size = 3
+coreset_nshift = 123
+coreset_duration = 1
+coreset_ofdm_symbol_start = 1
+AL_corr_thresholds = [ 1, 0.1, 0.1, 0.1, 1,]
+num_candidates_per_AL = [ 0, 3, 2, 2, 0,]
+
+[[pdcch]]
+coreset_id = 4
+subcarrier_offset = -310
+num_prbs = 96
+numerology = 0
+dci_sizes_list = [ 40, 49,]
+scrambling_id_start = 9202
+scrambling_id_end = 9202
+rnti_start = 2278
+rnti_end = 2278
+coreset_interleaving_pattern = "interleaved"
+coreset_reg_bundle_size = 2
+coreset_interleaver_size = 3
+coreset_nshift = 123
+coreset_duration = 1
+coreset_ofdm_symbol_start = 0
+AL_corr_thresholds = [ 1, 0.1, 0.1, 0.1, 1,]
+num_candidates_per_AL = [ 0, 2, 2, 2, 0,]
+
+[[pdcch]]
+coreset_id = 4
+subcarrier_offset = -310
+num_prbs = 96
+numerology = 0
+dci_sizes_list = [ 40, 49,]
+scrambling_id_start = 9202
+scrambling_id_end = 9202
+rnti_start = 2278
+rnti_end = 2278
+coreset_interleaving_pattern = "interleaved"
+coreset_reg_bundle_size = 2
+coreset_interleaver_size = 3
+coreset_nshift = 123
+coreset_duration = 1
+coreset_ofdm_symbol_start = 0
+AL_corr_thresholds = [ 1, 0.1, 0.1, 0.1, 1,]
+num_candidates_per_AL = [ 0, 3, 3, 2, 0,]
+
+[[pdcch]]
+coreset_id = 4
+subcarrier_offset = -310
+num_prbs = 96
+numerology = 0
+dci_sizes_list = [ 40, 49,]
+scrambling_id_start = 9202
+scrambling_id_end = 9202
+rnti_start = 2278
+rnti_end = 2278
+coreset_interleaving_pattern = "interleaved"
+coreset_reg_bundle_size = 2
+coreset_interleaver_size = 3
+coreset_nshift = 123
+coreset_duration = 1
+coreset_ofdm_symbol_start = 1
+AL_corr_thresholds = [ 1, 1, 0.1, 0.1, 1,]
+num_candidates_per_AL = [ 0, 0, 1, 1, 0,]
+
+[sniffer]
+file_path = "/tmp/n71.fc32"
+sample_rate = 23040000
+frequency = 626450000
+ssb_numerology = 0

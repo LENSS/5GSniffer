@@ -14,7 +14,7 @@ def calculate_offset(ssb_freq = -0.1, offsetToPointA = -1, pointAFreq = -0.1, k_
         # Calculate PDCCH BW and PDCCH center frqeuncy
         PDCCH_bw = frequencyDomainResources * 6 * 12 * sc
         PDCCH_center = pointAFreq + (PDCCH_bw/2)
-        print(PDCCH_bw/2)
+        # print(PDCCH_center)
         # Get offset between PDCCH and ssb and return
         return round((ssb_freq-PDCCH_center)/sc)
     else:
@@ -39,9 +39,9 @@ calculate_offset(ssb_freq=1939.25,\
                 frequencyDomainResources=16,\
                 sc=0.015)
 # %%
-calculate_offset(ssb_freq=627.75,\
-                pointAFreq = 622.32,\
-                frequencyDomainResources=8,\
+calculate_offset(ssb_freq=	626.45,\
+                pointAFreq = 622.46,\
+                frequencyDomainResources=16,\
                 sc=0.015)
 # %%
 310/0.015
