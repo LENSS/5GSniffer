@@ -32,7 +32,7 @@ mcs_table = {
         27: 1244.25}
 }
 
-def allocated_bits_in_DCI_1_1(raw_dci):
+def allocated_bits_in_DCI_1_1(raw_dci, corr):
     freq_res = raw_dci[2:20]
     time_res = raw_dci[20:24]
     mcs_scheme = raw_dci[24:29]
@@ -46,13 +46,13 @@ def allocated_bits_in_DCI_1_1(raw_dci):
     try: 
         RBs = RBs * TimeDomainAllocationList[int(time_res,2)]
     except:
-        print(f"Wrong value for TimeDomainAllocationList. There are 8 entries but got {int(time_res,2)}.")
+        print(f"[Warning] Wrong value for TimeDomainAllocationList. There are 0-8 entries but got {int(time_res,2)}.\n\t DCI correlation is {corr}")
         return -1
     # Apply MCS table
     try:
         allocated_bits = RBs * mcs_table['Effective Bits per RB'][int(mcs_scheme,2)]
     except:
-        print(f"Wrong value for MCS index. There are 27 entries but got {int(mcs_scheme,2)}.")
+        print(f"[Warning] Wrong value for MCS index. There are 27 entries but got {int(mcs_scheme,2)}.\n\t DCI correlation is {corr}")
         return -1
 
     return allocated_bits
@@ -75,27 +75,52 @@ uplink = {}
 
 for i in range(dci_info['entry_cnt']):
     if dci_info['size'][i] == 49 :
-        allocated_bits = allocated_bits_in_DCI_1_1(dci_info["rawDCI"][i])
+        allocated_bits = allocated_bits_in_DCI_1_1(dci_info["rawDCI"][i], dci_info["corr"][i])
         if allocated_bits != -1:
             downlink["time"].append(dci_info["time"][i])
             downlink["allocated_bits"].append(allocated_bits)
 #%%
 import pandas as pd
 import matplotlib.pyplot as plt
-downlink_df = pd.DataFrame(downlink)
-downlink_df['aggregated_bits'] = downlink_df['allocated_bits'].cumsum()
-downlink_df['aggregated_bytes'] = downlink_df['aggregated_bits'] / 8
+import matplotlib.dates as mdates
 
-# Plotting the data
-plt.figure(figsize=(10, 6))
-plt.plot(downlink_df['time'].to_numpy(), downlink_df['aggregated_bytes'].to_numpy(), label='Aggregated Bytes')
-plt.xlabel('Time (seconds)')
-plt.ylabel('Aggregated Bytes Allocated by DCI 1_1')
-#plt.title('Aggregated  Over Time')
-plt.legend()
+downlink_df = pd.DataFrame(downlink)
+
+downlink_df['datetime'] = pd.to_datetime(downlink_df['time'], unit='s')
+
+# Set the datetime column as the index
+downlink_df.set_index('datetime', inplace=True)
+
+# Resample the DataFrame to 0.2 second frequency
+resampled_df = downlink_df.resample('200L').sum()
+
+
+#%%
+# Plotting
+plt.rcParams['font.family'] = 'serif'
+plt.rcParams['font.serif'] = 'Times New Roman'
+
+fig, ax = plt.subplots()
+ax.plot(resampled_df.index, resampled_df['allocated_bits'])
+# Set the x-axis limits
+start_time = resampled_df.index.min()
+end_time = resampled_df.index.max()
+ax.set_xlim([start_time, end_time])
+# Create custom ticks at every 5 seconds starting from zero
+tick_times = pd.date_range(start=start_time, end=end_time, freq='5S')
+ax.set_xticks(tick_times)
+# Set format for the x-axis
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%S')) # Format: Hours:Minutes:Seconds
+
+plt.xlabel('Time(s)', fontsize=14)
+plt.ylabel('Allocated Bits', fontsize=14)
+plt.title('DCI 1_1 Allocated Resource', fontsize=14)
+# Set the font size for tick labels
+ax.tick_params(axis='both', which='major', labelsize=12)
 plt.grid(True)
 plt.show()
-#%%
+
+
 #%%
 """
 1110010010000000000001100100000000010000000010000
