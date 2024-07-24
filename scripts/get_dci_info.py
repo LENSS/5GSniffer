@@ -61,7 +61,7 @@ def allocated_bits_in_DCI_1_1(raw_dci, corr):
 #%%
 # if __name__=="__main__": 
 dci_info = {"size":[], "time":[], "rawDCI":[], "corr":[], "entry_cnt":0}
-with open('../collected_data/output_2.txt', 'r') as file:
+with open('../collected_data/output_0.txt', 'r') as file:
     for line in file:
         if "Found DCI" in line:
             dci_info['size'].append(int(line.split(',')[2][-2:])) # DCI size
@@ -123,13 +123,12 @@ plt.show()
 
 #%%
 """
-1110010010000000000001100100000000010000000010000
-  100100100000000000
-                    0110
+Example: 1110010010000000000001100100000000010000000010000
 
 DCI format identifier: 1 bit
+BWP identifier: 1 bit
 Frequency domain resource: 8 bits -> type0 and configuration 1
-Time domain resource: 4 bits
+Time domain resource: 4 bits -> There were 9 candidates so celi(log2(9)) = 4 
           pdsch-TimeDomainAllocationList -> setup
            [0]
             mappingType : typeA
@@ -159,7 +158,7 @@ Time domain resource: 4 bits
             mappingType : typeA
             startSymbolAndLength : 94 -> start: 3, length: 9
 MCS: 5 bits
-    Related parameters: "mcs-Table: 256qam", following Table 5.1.3.1-2
+    Related parameters: "mcs-Table: 256qam", so it uses Table 5.1.3.1-2
 """
 # import pandas as pd
 # # Define the MCS table

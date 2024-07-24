@@ -1,0 +1,6256 @@
+[2024-07-24 14:13:31.092] [info] [main.cc:48] === This is a debug mode build ===
+[info] [14:13:31.092622 thread 10196] [config.h:77] Loading configuration file ./config.toml
+[info] [14:13:31.671739 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [14:13:32.456714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[info] [14:13:32.505790 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 494, SCS: 0 
+[info] [14:13:32.611065 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 502, SCS: 0 
+[info] [14:13:33.012323 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 530, SCS: 0 
+[info] [14:13:33.170976 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 542, SCS: 0 
+[info] [14:13:33.220145 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 546, SCS: 0 
+[info] [14:13:33.378821 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 558, SCS: 0 
+[info] [14:13:33.593104 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 574, SCS: 0 
+[info] [14:13:33.750713 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 586, SCS: 0 
+[info] [14:13:33.910714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [14:13:33.955091 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 602, SCS: 0 
+[info] [14:13:34.343699 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 630, SCS: 0 
+[info] [14:13:34.608953 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 650, SCS: 0 
+[info] [14:13:34.658502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:13:34.758831 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 662, SCS: 0 
+[info] [14:13:34.809775 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 666, SCS: 0 
+[info] [14:13:34.855824 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 670, SCS: 0 
+[info] [14:13:35.017606 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 682, SCS: 0 
+[info] [14:13:35.117393 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 690, SCS: 0 
+[info] [14:13:35.220562 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 698, SCS: 0 
+[info] [14:13:35.382547 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 710, SCS: 0 
+[info] [14:13:35.594811 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 726, SCS: 0 
+[info] [14:13:35.925280 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 750, SCS: 0 
+[info] [14:13:36.031333 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[info] [14:13:36.234995 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 774, SCS: 0 
+[info] [14:13:36.245003 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 776, SCS: 0 
+[info] [14:13:36.257725 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [14:13:36.269324 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 780, SCS: 0 
+[c0 24 09 c1 10 00 00 ];
+[info] [14:13:36.279724 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.4729998836517333, Samples from start = 3.472, Slots from samples from start = 1 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000100100000010011100000100010000000000000, correlation is 0.65308857
+[info] [14:13:36.282797 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[info] [14:13:36.345517 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 786, SCS: 0 
+[info] [14:13:36.356164 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 788, SCS: 0 
+[info] [14:13:36.369592 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [14:13:36.387767 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [14:13:36.408972 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [14:13:36.425321 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 796, SCS: 0 
+[e4 9a 08 8a 10 00 00 ];
+[info] [14:13:36.436705 thread 10221] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.6609998989105224, Samples from start = 3.656, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110010010011010000010001000101000010000000000000, correlation is 0.5585587
+[info] [14:13:36.445292 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 798, SCS: 0 
+[c9 92 09 0e 10 00 00 ];
+[info] [14:13:36.451773 thread 10209] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.690999963760376, Samples from start = 3.688, Slots from samples from start = 3 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100110010010000010010000111000010000000000000, correlation is 0.56447357
+[info] [14:13:36.466234 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 800, SCS: 0 
+[info] [14:13:36.489257 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 802, SCS: 0 
+[info] [14:13:36.508574 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 804, SCS: 0 
+[info] [14:13:36.525942 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 806, SCS: 0 
+[info] [14:13:36.540822 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [14:13:36.567143 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[info] [14:13:36.585424 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 812, SCS: 0 
+[info] [14:13:36.606593 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 814, SCS: 0 
+[info] [14:13:36.819960 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 830, SCS: 0 
+[info] [14:13:36.834187 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 832, SCS: 0 
+[info] [14:13:36.871845 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 836, SCS: 0 
+[info] [14:13:36.884768 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 838, SCS: 0 
+[info] [14:13:36.894761 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 840, SCS: 0 
+[info] [14:13:36.918262 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 842, SCS: 0 
+[info] [14:13:36.935449 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[d0 04 08 88 10 00 00 ];
+[info] [14:13:36.948509 thread 10224] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.133999782562256, Samples from start = 4.128, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1101000000000100000010001000100000010000000000000, correlation is 0.7414863
+[info] [14:13:36.962402 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 846, SCS: 0 
+[info] [14:13:36.974997 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 848, SCS: 0 
+[info] [14:13:36.995854 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[f6 ec 19 00 10 00 00 ];
+[info] [14:13:37.012287 thread 10209] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.192000015258789, Samples from start = 4.184, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111011011101100000110010000000000010000000000000, correlation is 0.5288533
+[info] [14:13:37.018488 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 852, SCS: 0 
+[info] [14:13:37.037687 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 854, SCS: 0 
+[info] [14:13:37.093741 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 858, SCS: 0 
+[info] [14:13:37.102736 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 860, SCS: 0 
+[info] [14:13:37.114739 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 862, SCS: 0 
+[info] [14:13:37.129492 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 864, SCS: 0 
+[info] [14:13:37.154290 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 866, SCS: 0 
+[info] [14:13:37.174813 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [14:13:37.273443 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 876, SCS: 0 
+[info] [14:13:37.284679 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 878, SCS: 0 
+[info] [14:13:37.294873 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 880, SCS: 0 
+[info] [14:13:37.311842 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 882, SCS: 0 
+[info] [14:13:37.325560 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 884, SCS: 0 
+[42 66 38 56 81 ];
+[info] [14:13:37.329117 thread 10224] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.51400008392334, Samples from start = 4.512, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001100110001110000101011010000001, correlation is 0.41645288
+[info] [14:13:37.347561 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 886, SCS: 0 
+[42 26 3e 16 81 ];
+[info] [14:13:37.356304 thread 10230] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.554000045776367, Samples from start = 4.552, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001000100110001111100001011010000001, correlation is 0.5944118
+[info] [14:13:37.361478 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 888, SCS: 0 
+[info] [14:13:37.401334 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 890, SCS: 0 
+[info] [14:13:37.411565 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 892, SCS: 0 
+[info] [14:13:37.606442 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 906, SCS: 0 
+[info] [14:13:37.618385 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 908, SCS: 0 
+[info] [14:13:37.629126 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 910, SCS: 0 
+[info] [14:13:37.646293 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 912, SCS: 0 
+[info] [14:13:37.666501 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 914, SCS: 0 
+[info] [14:13:37.688493 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 916, SCS: 0 
+[info] [14:13:37.699962 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 918, SCS: 0 
+[info] [14:13:37.729537 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 920, SCS: 0 
+[42 2e 44 76 81 ];
+[info] [14:13:37.734418 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.875000217437744, Samples from start = 4.872, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001000101110010001000111011010000001, correlation is 0.70387495
+[info] [14:13:37.749827 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 922, SCS: 0 
+[42 26 3a 2e 81 ];
+[info] [14:13:37.753101 thread 10212] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.902391723632812, Samples from start = 4.8983917, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000100110001110100010111010000001, correlation is 0.40584618
+[info] [14:13:37.768192 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 924, SCS: 0 
+[info] [14:13:37.782542 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 926, SCS: 0 
+[info] [14:13:37.810776 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 928, SCS: 0 
+[info] [14:13:37.824485 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 930, SCS: 0 
+[info] [14:13:37.849590 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 932, SCS: 0 
+[info] [14:13:37.863326 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 934, SCS: 0 
+[info] [14:13:37.880783 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 936, SCS: 0 
+[info] [14:13:37.901695 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [14:13:37.920366 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 940, SCS: 0 
+[info] [14:13:38.389502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 974, SCS: 0 
+[info] [14:13:38.402444 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 976, SCS: 0 
+[info] [14:13:38.471656 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 982, SCS: 0 
+[info] [14:13:38.483901 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 984, SCS: 0 
+[info] [14:13:38.494359 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 986, SCS: 0 
+[info] [14:13:38.511393 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 988, SCS: 0 
+[info] [14:13:38.530797 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 990, SCS: 0 
+[info] [14:13:38.552340 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 992, SCS: 0 
+[info] [14:13:38.562897 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 994, SCS: 0 
+[info] [14:13:38.588222 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 996, SCS: 0 
+[info] [14:13:38.615721 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [14:13:38.828922 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1016, SCS: 0 
+[info] [14:13:39.013534 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 6, SCS: 0 
+[info] [14:13:39.023462 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 8, SCS: 0 
+[info] [14:13:39.037107 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 10, SCS: 0 
+[info] [14:13:39.051256 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 12, SCS: 0 
+[info] [14:13:39.072495 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 14, SCS: 0 
+[info] [14:13:39.189244 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 22, SCS: 0 
+[info] [14:13:39.199377 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 24, SCS: 0 
+[info] [14:13:39.210437 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 26, SCS: 0 
+[info] [14:13:39.227049 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 28, SCS: 0 
+[info] [14:13:39.261766 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 30, SCS: 0 
+[info] [14:13:39.275878 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 32, SCS: 0 
+[info] [14:13:40.304588 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:13:40.314781 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:13:40.327470 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [14:13:41.196156 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [14:13:41.209579 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 176, SCS: 0 
+[c9 22 08 c3 10 00 00 ];
+[info] [14:13:41.217847 thread 10203] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.597000007629394, Samples from start = 7.592, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100100100010000010001100001100010000000000000, correlation is 0.5804887
+[e0 00 00 42 10 0c 00 ];
+[info] [14:13:41.219168 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.596000007629394, Samples from start = 7.592, Slots from samples from start = 4 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110000000000000000000000100001000010000000011000, correlation is 0.44750834
+[info] [14:13:41.220128 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 178, SCS: 0 
+[c9 22 08 c3 10 00 00 ];
+[info] [14:13:41.221212 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.597000007629394, Samples from start = 7.592, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100100100010000010001100001100010000000000000, correlation is 0.5804887
+[42 66 4a 4e 81 ];
+[info] [14:13:41.225325 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.599000007629394, Samples from start = 7.592, Slots from samples from start = 7 Slot within frame = 7, Symbol within slot = 0, binary dci is 0100001001100110010010100100111010000001, correlation is 0.40929076
+[42 26 3e 66 01 ];
+[info] [14:13:41.226573 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.615518859863281, Samples from start = 7.611519, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000100110001111100110011000000001, correlation is 0.41031393
+[41 e6 42 56 81 ];
+[info] [14:13:41.244389 thread 10203] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.614999801635742, Samples from start = 7.608, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010000100101011010000001, correlation is 0.5294834
+[info] [14:13:41.244632 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 180, SCS: 0 
+[c9 24 08 c4 10 00 00 ];
+[info] [14:13:41.244873 thread 10203] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.614999801635742, Samples from start = 7.608, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100100100100000010001100010000010000000000000, correlation is 0.5416189
+[41 e6 42 56 81 ];
+[info] [14:13:41.254649 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.614999801635742, Samples from start = 7.608, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010000100101011010000001, correlation is 0.5294834
+[c9 24 08 c4 10 00 00 ];
+[info] [14:13:41.255232 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.614999801635742, Samples from start = 7.608, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100100100100000010001100010000010000000000000, correlation is 0.5416189
+[c1 00 10 4d 10 0c 00 ];
+[info] [14:13:41.262808 thread 10236] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.6565188217163085, Samples from start = 7.651519, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000100000000000100000100110100010000000011000, correlation is 0.44340923
+[info] [14:13:41.264381 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 182, SCS: 0 
+[info] [14:13:41.287313 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 184, SCS: 0 
+[41 ee 40 4e 81 ];
+[info] [14:13:41.300753 thread 10242] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.686999828338623, Samples from start = 7.68, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 1, binary dci is 0100000111101110010000000100111010000001, correlation is 0.5205765
+[42 66 40 56 81 ];
+[d3 64 19 80 10 00 00 ];
+[info] [14:13:41.303625 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.695519260406494, Samples from start = 7.6915193, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001100110010000000101011010000001, correlation is 0.18530567
+[info] [14:13:41.303625 thread 10203] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.690000202178955, Samples from start = 7.688, Slots from samples from start = 2 Slot within frame = 0, Symbol within slot = 0, binary dci is 1101001101100100000110011000000000010000000000000, correlation is 0.47116718
+[info] [14:13:41.305406 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 186, SCS: 0 
+[d3 64 19 80 10 00 00 ];
+[info] [14:13:41.313996 thread 10233] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.690000202178955, Samples from start = 7.688, Slots from samples from start = 2 Slot within frame = 0, Symbol within slot = 0, binary dci is 1101001101100100000110011000000000010000000000000, correlation is 0.47116718
+[info] [14:13:41.325603 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 188, SCS: 0 
+[41 ee 40 4e 81 ];
+[info] [14:13:41.326468 thread 10200] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.695000202178955, Samples from start = 7.688, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 1, binary dci is 0100000111101110010000000100111010000001, correlation is 0.5205765
+[e4 88 19 81 10 00 00 ];
+[info] [14:13:41.334329 thread 10233] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.690000202178955, Samples from start = 7.688, Slots from samples from start = 2 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110010010001000000110011000000100010000000000000, correlation is 0.5217156
+[42 26 42 16 81 ];
+[info] [14:13:41.339446 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.735519222259521, Samples from start = 7.731519, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000100110010000100001011010000001, correlation is 0.4300655
+[42 66 40 7e 81 ];
+[info] [14:13:41.342427 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.72699979019165, Samples from start = 7.72, Slots from samples from start = 7 Slot within frame = 7, Symbol within slot = 0, binary dci is 0100001001100110010000000111111010000001, correlation is 0.40449062
+[info] [14:13:41.345783 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 190, SCS: 0 
+[41 e6 42 0e 81 ];
+[info] [14:13:41.350430 thread 10224] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.735000164031982, Samples from start = 7.728, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010000100000111010000001, correlation is 0.58568895
+[info] [14:13:41.363757 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 192, SCS: 0 
+[d2 48 19 86 10 00 00 ];
+[info] [14:13:41.367081 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.733000164031982, Samples from start = 7.728, Slots from samples from start = 5 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001001001000000110011000011000010000000000000, correlation is 0.41190672
+[41 e6 42 0e 81 ];
+[info] [14:13:41.370161 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.735000164031982, Samples from start = 7.728, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010000100000111010000001, correlation is 0.58568895
+[info] [14:13:41.386543 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 194, SCS: 0 
+[c2 40 08 c0 10 00 00 ];
+[info] [14:13:41.419745 thread 10221] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 7.808000190734863, Samples from start = 7.8, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100001001000000000010001100000000010000000000000, correlation is 0.44635615
+[42 26 42 66 81 ];
+[info] [14:13:41.433549 thread 10209] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.807000190734863, Samples from start = 7.8, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100001000100110010000100110011010000001, correlation is 0.5430002
+[42 26 42 66 81 ];
+[info] [14:13:41.440375 thread 10221] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.807000190734863, Samples from start = 7.8, Slots from samples from start = 7 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100001000100110010000100110011010000001, correlation is 0.5430002
+[info] [14:13:41.486569 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 202, SCS: 0 
+[info] [14:13:41.499516 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[info] [14:13:41.513018 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 206, SCS: 0 
+[42 06 44 7e 81 ];
+[info] [14:13:41.538325 thread 10230] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 7.910999805450439, Samples from start = 7.904, Slots from samples from start = 7 Slot within frame = 1, Symbol within slot = 0, binary dci is 0100001000000110010001000111111010000001, correlation is 0.48435116
+[info] [14:13:42.872607 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 302, SCS: 0 
+[info] [14:13:43.261081 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [14:13:43.274773 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:13:43.285921 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:13:43.307322 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[info] [14:13:43.335974 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 338, SCS: 0 
+[info] [14:13:43.349081 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [14:13:43.362918 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:13:44.212824 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[info] [14:13:44.222375 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[info] [14:13:44.233942 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[info] [14:13:44.245733 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 408, SCS: 0 
+[info] [14:13:44.753325 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[info] [14:13:47.406682 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 630, SCS: 0 
+[info] [14:13:47.508228 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 638, SCS: 0 
+[info] [14:13:48.985372 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 744, SCS: 0 
+[info] [14:13:51.681529 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 930, SCS: 0 
+[info] [14:13:51.690980 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 932, SCS: 0 
+[info] [14:13:51.702884 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 934, SCS: 0 
+[info] [14:13:51.715480 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 936, SCS: 0 
+[info] [14:13:51.748745 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [14:13:51.764847 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 940, SCS: 0 
+[info] [14:13:51.781306 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 942, SCS: 0 
+[info] [14:13:51.794141 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 944, SCS: 0 
+[info] [14:13:51.813940 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 946, SCS: 0 
+[info] [14:13:51.837313 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 948, SCS: 0 
+[info] [14:13:51.854764 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 950, SCS: 0 
+[info] [14:13:51.874975 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 952, SCS: 0 
+[info] [14:13:51.891684 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 954, SCS: 0 
+[info] [14:13:51.911860 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 956, SCS: 0 
+[info] [14:13:53.333395 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 34, SCS: 0 
+[info] [14:13:53.714453 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 62, SCS: 0 
+[info] [14:13:53.726277 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 64, SCS: 0 
+[info] [14:13:53.736927 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 66, SCS: 0 
+[info] [14:13:53.756295 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [14:13:53.784636 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 70, SCS: 0 
+[info] [14:13:53.808634 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:13:53.819596 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 74, SCS: 0 
+[info] [14:13:53.838156 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 76, SCS: 0 
+[info] [14:13:53.861169 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 78, SCS: 0 
+[info] [14:13:53.875009 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 80, SCS: 0 
+[info] [14:13:53.890064 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 82, SCS: 0 
+[info] [14:13:53.916765 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 84, SCS: 0 
+[info] [14:13:53.935654 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 86, SCS: 0 
+[info] [14:13:53.961628 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [14:13:54.007395 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 92, SCS: 0 
+[info] [14:13:54.019946 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[info] [14:13:54.031040 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 96, SCS: 0 
+[info] [14:13:54.046543 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 98, SCS: 0 
+[info] [14:13:54.074266 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [14:13:54.095117 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [14:13:54.107435 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [14:13:54.121712 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:13:54.145587 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:13:54.278971 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 118, SCS: 0 
+[info] [14:13:54.291628 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [14:13:54.689803 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 150, SCS: 0 
+[info] [14:13:54.702144 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 152, SCS: 0 
+[info] [14:13:54.713223 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 154, SCS: 0 
+[info] [14:13:54.729617 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 156, SCS: 0 
+[info] [14:13:54.746065 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 158, SCS: 0 
+[info] [14:13:54.773633 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 160, SCS: 0 
+[info] [14:13:54.788561 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 162, SCS: 0 
+[info] [14:13:54.809809 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 164, SCS: 0 
+[info] [14:13:54.829148 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 166, SCS: 0 
+[info] [14:13:54.845000 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [14:13:54.862271 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [14:13:54.906752 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [14:13:55.236379 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 198, SCS: 0 
+[info] [14:13:55.247740 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [14:13:55.259241 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 202, SCS: 0 
+[info] [14:13:55.279139 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[info] [14:13:55.291508 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 206, SCS: 0 
+[info] [14:13:55.319892 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 208, SCS: 0 
+[info] [14:13:55.335436 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 210, SCS: 0 
+[info] [14:13:55.354326 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 212, SCS: 0 
+[info] [14:13:55.374665 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 214, SCS: 0 
+[info] [14:13:58.377198 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[info] [14:13:58.389674 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:13:58.400812 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 430, SCS: 0 
+[info] [14:13:58.416196 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:13:58.432957 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [14:13:58.909556 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:13:58.920788 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:14:01.519084 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:14:01.532634 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 656, SCS: 0 
+[info] [14:14:01.542001 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 658, SCS: 0 
+[info] [14:14:01.558312 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 660, SCS: 0 
+[info] [14:14:01.575012 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 662, SCS: 0 
+[info] [14:14:01.601835 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 664, SCS: 0 
+[info] [14:14:01.677680 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 670, SCS: 0 
+[info] [14:14:01.690139 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 672, SCS: 0 
+[info] [14:14:01.701049 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 674, SCS: 0 
+[info] [14:14:01.751359 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 678, SCS: 0 
+[info] [14:14:01.787839 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 682, SCS: 0 
+[info] [14:14:02.952341 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 766, SCS: 0 
+[info] [14:14:02.965818 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 768, SCS: 0 
+[info] [14:14:03.342308 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [14:14:05.246465 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 928, SCS: 0 
+[info] [14:14:05.569124 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 952, SCS: 0 
+[info] [14:14:05.582853 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 954, SCS: 0 
+[info] [14:14:05.593124 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 956, SCS: 0 
+[info] [14:14:05.614467 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 958, SCS: 0 
+[info] [14:14:05.632474 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 960, SCS: 0 
+[info] [14:14:05.650151 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 962, SCS: 0 
+[info] [14:14:06.449602 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1020, SCS: 0 
+[info] [14:14:06.477461 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 0, SCS: 0 
+[info] [14:14:06.514027 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 4, SCS: 0 
+[info] [14:14:06.765835 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 22, SCS: 0 
+[info] [14:14:06.798165 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 26, SCS: 0 
+[info] [14:14:06.811098 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 28, SCS: 0 
+[info] [14:14:06.821038 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 30, SCS: 0 
+[info] [14:14:07.036270 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 46, SCS: 0 
+[info] [14:14:07.049502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 48, SCS: 0 
+[info] [14:14:07.058263 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 50, SCS: 0 
+[info] [14:14:07.078433 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 52, SCS: 0 
+[info] [14:14:07.104131 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 54, SCS: 0 
+[info] [14:14:07.126258 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 56, SCS: 0 
+[info] [14:14:07.137989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 58, SCS: 0 
+[info] [14:14:07.174081 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 62, SCS: 0 
+[info] [14:14:07.190847 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 64, SCS: 0 
+[info] [14:14:07.235584 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [14:14:07.244573 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 70, SCS: 0 
+[info] [14:14:07.256604 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:14:07.272553 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 74, SCS: 0 
+[info] [14:14:07.347864 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 80, SCS: 0 
+[info] [14:14:07.360646 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 82, SCS: 0 
+[info] [14:14:07.373016 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 84, SCS: 0 
+[info] [14:14:07.387079 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 86, SCS: 0 
+[info] [14:14:07.407113 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [14:14:07.434708 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 90, SCS: 0 
+[info] [14:14:07.492168 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[info] [14:14:07.501898 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 96, SCS: 0 
+[info] [14:14:07.512694 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 98, SCS: 0 
+[info] [14:14:07.531482 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [14:14:07.554953 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [14:14:07.579091 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [14:14:07.595511 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:14:07.607438 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:14:07.634207 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [14:14:07.645615 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [14:14:07.667718 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [14:14:07.683742 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 116, SCS: 0 
+[info] [14:14:07.707231 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 118, SCS: 0 
+[info] [14:14:07.721975 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [14:14:07.745989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 122, SCS: 0 
+[info] [14:14:09.235978 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 232, SCS: 0 
+[info] [14:14:09.457427 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[info] [14:14:09.668701 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 264, SCS: 0 
+[info] [14:14:09.679137 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [14:14:09.868447 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 280, SCS: 0 
+[info] [14:14:09.941173 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 286, SCS: 0 
+[info] [14:14:09.955075 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 288, SCS: 0 
+[info] [14:14:10.053722 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 296, SCS: 0 
+[info] [14:14:10.090674 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 300, SCS: 0 
+[info] [14:14:10.103403 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 302, SCS: 0 
+[42 5e 38 66 81 ];
+[info] [14:14:10.118310 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 28.861000900268554, Samples from start = 28.856, Slots from samples from start = 5 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001001011110001110000110011010000001, correlation is 0.31648383
+[42 5e 38 66 81 ];
+[info] [14:14:10.118902 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 28.861000900268554, Samples from start = 28.856, Slots from samples from start = 5 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001001011110001110000110011010000001, correlation is 0.31648383
+[info] [14:14:10.185075 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 308, SCS: 0 
+[info] [14:14:10.194719 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 310, SCS: 0 
+[info] [14:14:10.206319 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 312, SCS: 0 
+[info] [14:14:10.218919 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 314, SCS: 0 
+[info] [14:14:10.255207 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 316, SCS: 0 
+[info] [14:14:10.274447 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[info] [14:14:10.429798 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [14:14:10.438502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:14:10.449950 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:14:10.462351 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[info] [14:14:10.494723 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 338, SCS: 0 
+[info] [14:14:10.514989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [14:14:10.533587 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:14:10.586152 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [14:14:10.596333 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 348, SCS: 0 
+[info] [14:14:10.608739 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 350, SCS: 0 
+[info] [14:14:10.623022 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 352, SCS: 0 
+[info] [14:14:10.652856 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 354, SCS: 0 
+[info] [14:14:10.666077 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 356, SCS: 0 
+[info] [14:14:10.682283 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 358, SCS: 0 
+[info] [14:14:10.695808 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 360, SCS: 0 
+[d0 00 00 0d 10 1c 00 ];
+[info] [14:14:10.708247 thread 10221] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.440055587768555, Samples from start = 29.437056, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1101000000000000000000000000110100010000000111000, correlation is 0.35521978
+[info] [14:14:10.717688 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 362, SCS: 0 
+[42 0e 38 7e 81 ];
+[info] [14:14:10.738307 thread 10239] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.433999206542968, Samples from start = 29.432, Slots from samples from start = 2 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001000001110001110000111111010000001, correlation is 0.41829005
+[info] [14:14:10.741404 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 364, SCS: 0 
+[42 46 36 0e 81 ];
+[info] [14:14:10.748069 thread 10212] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.460999374389647, Samples from start = 29.456, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100001001000110001101100000111010000001, correlation is 0.5498308
+[42 46 36 0e 81 ];
+[info] [14:14:10.750069 thread 10221] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.460999374389647, Samples from start = 29.456, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100001001000110001101100000111010000001, correlation is 0.5498308
+[42 66 2e 1f 81 ];
+[info] [14:14:10.763232 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.48099954223633, Samples from start = 29.48, Slots from samples from start = 1 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001100110001011100001111110000001, correlation is 0.3486076
+[info] [14:14:10.763453 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 366, SCS: 0 
+[42 0e 38 7e 81 ];
+[info] [14:14:10.764181 thread 10242] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.433999206542968, Samples from start = 29.432, Slots from samples from start = 2 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001000001110001110000111111010000001, correlation is 0.41829005
+[info] [14:14:10.778526 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[info] [14:14:10.933672 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:14:10.945913 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:14:11.019760 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 388, SCS: 0 
+[info] [14:14:11.032390 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 390, SCS: 0 
+[info] [14:14:11.041485 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:14:11.055426 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:14:11.082501 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 396, SCS: 0 
+[info] [14:14:11.105210 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[info] [14:14:14.269064 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 616, SCS: 0 
+[info] [14:14:14.418702 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 628, SCS: 0 
+[info] [14:14:14.461897 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 632, SCS: 0 
+[info] [14:14:14.749194 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:14:14.899471 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 666, SCS: 0 
+[info] [14:14:14.911927 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 668, SCS: 0 
+[info] [14:14:14.923883 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 670, SCS: 0 
+[info] [14:14:14.947981 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 672, SCS: 0 
+[info] [14:14:14.968286 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 674, SCS: 0 
+[info] [14:14:15.132556 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 686, SCS: 0 
+[info] [14:14:15.144617 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 688, SCS: 0 
+[info] [14:14:25.128384 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 378, SCS: 0 
+[info] [14:14:25.139677 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:14:25.151266 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:14:25.170463 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[info] [14:14:25.192487 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 386, SCS: 0 
+[info] [14:14:25.242056 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 390, SCS: 0 
+[info] [14:14:25.252275 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:14:25.264860 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:14:25.278311 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 396, SCS: 0 
+[info] [14:14:25.299323 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[info] [14:14:25.322087 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[info] [14:14:25.358534 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[info] [14:14:25.368502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[info] [14:14:25.381082 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[info] [14:14:25.392587 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 408, SCS: 0 
+[info] [14:14:25.424959 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 410, SCS: 0 
+[info] [14:14:25.441359 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 412, SCS: 0 
+[info] [14:14:25.462175 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 414, SCS: 0 
+[info] [14:14:25.478138 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 416, SCS: 0 
+[info] [14:14:25.502510 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 418, SCS: 0 
+[info] [14:14:25.518586 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [14:14:25.536858 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 422, SCS: 0 
+[info] [14:14:25.557244 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 424, SCS: 0 
+[info] [14:14:25.578107 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[info] [14:14:25.597945 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:14:25.618050 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 430, SCS: 0 
+[info] [14:14:25.635279 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:14:25.658404 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [14:14:25.671126 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[info] [14:14:25.698543 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [14:14:25.722110 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 440, SCS: 0 
+[42 68 46 0e 81 ];
+[info] [14:14:25.731876 thread 10230] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 40.25400109863281, Samples from start = 40.248, Slots from samples from start = 6 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001001101000010001100000111010000001, correlation is 0.46542338
+[42 68 46 0e 81 ];
+[info] [14:14:25.748322 thread 10233] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 40.25400109863281, Samples from start = 40.248, Slots from samples from start = 6 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001001101000010001100000111010000001, correlation is 0.46542338
+[41 e6 46 16 81 ];
+[info] [14:14:25.750399 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 40.26499993896484, Samples from start = 40.264, Slots from samples from start = 1 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010001100001011010000001, correlation is 0.39877862
+[info] [14:14:25.751482 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 442, SCS: 0 
+[41 e6 46 16 81 ];
+[info] [14:14:25.757500 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 40.26499993896484, Samples from start = 40.264, Slots from samples from start = 1 Slot within frame = 5, Symbol within slot = 0, binary dci is 0100000111100110010001100001011010000001, correlation is 0.39877862
+[info] [14:14:25.762736 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[info] [14:14:25.980361 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 460, SCS: 0 
+[info] [14:14:25.992801 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[42 66 40 0e 81 ];
+[info] [14:14:25.996530 thread 10212] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 40.480999542236326, Samples from start = 40.48, Slots from samples from start = 1 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001100110010000000000111010000001, correlation is 0.32022637
+[info] [14:14:26.003555 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[info] [14:14:26.017624 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 466, SCS: 0 
+[info] [14:14:26.048011 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:14:26.073253 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:14:26.083408 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 472, SCS: 0 
+[info] [14:14:26.097878 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 474, SCS: 0 
+[info] [14:14:26.116806 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 476, SCS: 0 
+[info] [14:14:26.149624 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 478, SCS: 0 
+[info] [14:14:26.165869 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 480, SCS: 0 
+[info] [14:14:26.184571 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 482, SCS: 0 
+[info] [14:14:26.196319 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 484, SCS: 0 
+[info] [14:14:26.221370 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 486, SCS: 0 
+[info] [14:14:26.236752 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 488, SCS: 0 
+[info] [14:14:26.254124 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[info] [14:14:26.277322 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 492, SCS: 0 
+[info] [14:14:26.300430 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 494, SCS: 0 
+[info] [14:14:26.312332 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 496, SCS: 0 
+[info] [14:14:26.332278 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 498, SCS: 0 
+[info] [14:14:26.351696 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 500, SCS: 0 
+[info] [14:14:26.381792 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 502, SCS: 0 
+[info] [14:14:26.398343 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 504, SCS: 0 
+[info] [14:14:26.423911 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 506, SCS: 0 
+[info] [14:14:26.435052 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 508, SCS: 0 
+[info] [14:14:26.460140 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 510, SCS: 0 
+[info] [14:14:26.480899 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 512, SCS: 0 
+[info] [14:14:26.504740 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 514, SCS: 0 
+[info] [14:14:27.007796 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 550, SCS: 0 
+[info] [14:14:27.017770 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 552, SCS: 0 
+[info] [14:14:27.031216 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 554, SCS: 0 
+[info] [14:14:27.044214 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 556, SCS: 0 
+[41 c6 3c 6e 81 ];
+[info] [14:14:27.069372 thread 10230] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 41.404001525878904, Samples from start = 41.4, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001111000110111010000001, correlation is 0.39076522
+[41 f6 40 7e 81 ];
+[info] [14:14:27.100925 thread 10239] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 41.425999786376956, Samples from start = 41.424, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111110110010000000111111010000001, correlation is 0.33186066
+[info] [14:14:27.112109 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 560, SCS: 0 
+[info] [14:14:27.125132 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 562, SCS: 0 
+[info] [14:14:27.134750 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[info] [14:14:27.154339 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 566, SCS: 0 
+[info] [14:14:29.261761 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [14:14:29.273476 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 718, SCS: 0 
+[info] [14:14:29.283992 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 720, SCS: 0 
+[info] [14:14:29.299575 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 722, SCS: 0 
+[info] [14:14:29.317432 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 724, SCS: 0 
+[info] [14:14:29.350095 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 726, SCS: 0 
+[info] [14:14:29.363950 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 728, SCS: 0 
+[info] [14:14:29.740354 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 754, SCS: 0 
+[info] [14:14:29.748918 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 756, SCS: 0 
+[42 06 44 7e 81 ];
+[info] [14:14:29.755555 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 43.37200384521484, Samples from start = 43.368004, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000000110010001000111111010000001, correlation is 0.40444672
+[info] [14:14:29.760096 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[info] [14:14:29.774636 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 760, SCS: 0 
+[info] [14:14:29.865782 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 766, SCS: 0 
+[info] [14:14:29.874443 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 768, SCS: 0 
+[info] [14:14:29.945832 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 774, SCS: 0 
+[info] [14:14:30.037865 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[info] [14:14:30.048069 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 784, SCS: 0 
+[info] [14:14:30.058372 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 786, SCS: 0 
+[info] [14:14:30.081734 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 788, SCS: 0 
+[info] [14:14:30.099245 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [14:14:30.121725 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [14:14:30.132576 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [14:14:30.155670 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 796, SCS: 0 
+[info] [14:14:30.176289 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 798, SCS: 0 
+[info] [14:14:30.193291 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 800, SCS: 0 
+[info] [14:14:30.209973 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 802, SCS: 0 
+[info] [14:14:30.233685 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 804, SCS: 0 
+[info] [14:14:30.248484 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 806, SCS: 0 
+[info] [14:14:30.269768 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [14:14:30.289112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[info] [14:14:30.313351 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 812, SCS: 0 
+[info] [14:14:30.331252 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 814, SCS: 0 
+[info] [14:14:30.351702 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 816, SCS: 0 
+[info] [14:14:30.362823 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 818, SCS: 0 
+[info] [14:14:30.389025 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 820, SCS: 0 
+[info] [14:14:30.399837 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 822, SCS: 0 
+[info] [14:14:30.429170 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 824, SCS: 0 
+[info] [14:14:30.591778 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 836, SCS: 0 
+[info] [14:14:30.604525 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 838, SCS: 0 
+[42 2e 42 2e 81 ];
+[info] [14:14:30.633518 thread 10206] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 44.20600076293945, Samples from start = 44.2, Slots from samples from start = 6 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001000101110010000100010111010000001, correlation is 0.37052432
+[42 2e 42 2e 81 ];
+[info] [14:14:30.637601 thread 10209] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 44.20600076293945, Samples from start = 44.2, Slots from samples from start = 6 Slot within frame = 6, Symbol within slot = 0, binary dci is 0100001000101110010000100010111010000001, correlation is 0.37052432
+[info] [14:14:30.644925 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 842, SCS: 0 
+[info] [14:14:30.657837 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[info] [14:14:30.670828 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 846, SCS: 0 
+[info] [14:14:30.691028 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 848, SCS: 0 
+[info] [14:14:30.710271 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[info] [14:14:30.727005 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 852, SCS: 0 
+[info] [14:14:30.745555 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 854, SCS: 0 
+[info] [14:14:30.767788 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 856, SCS: 0 
+[41 c6 44 0e 81 ];
+[info] [14:14:30.768059 thread 10239] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 44.362000610351565, Samples from start = 44.36, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110010001000000111010000001, correlation is 0.28616914
+[info] [14:14:30.786724 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 858, SCS: 0 
+[41 f6 40 1e 81 ];
+[info] [14:14:30.810324 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 44.39199887084961, Samples from start = 44.384, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111110110010000000001111010000001, correlation is 0.3926296
+[info] [14:14:30.831917 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 862, SCS: 0 
+[info] [14:14:30.842062 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 864, SCS: 0 
+[info] [14:14:30.855085 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 866, SCS: 0 
+[info] [14:14:30.870173 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [14:14:30.896789 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 870, SCS: 0 
+[info] [14:14:30.910504 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 872, SCS: 0 
+[info] [14:14:30.927918 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 874, SCS: 0 
+[info] [14:14:30.943601 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 876, SCS: 0 
+[info] [14:14:30.963378 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 878, SCS: 0 
+[info] [14:14:30.982768 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 880, SCS: 0 
+[info] [14:14:31.003422 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 882, SCS: 0 
+[info] [14:14:31.015311 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 884, SCS: 0 
+[info] [14:14:31.041829 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 886, SCS: 0 
+[info] [14:14:31.064499 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 888, SCS: 0 
+[info] [14:14:31.137013 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 894, SCS: 0 
+[info] [14:14:31.150035 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 896, SCS: 0 
+[info] [14:14:31.160266 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 898, SCS: 0 
+[info] [14:14:31.178448 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 900, SCS: 0 
+[info] [14:14:31.198230 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 902, SCS: 0 
+[info] [14:14:31.221844 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 904, SCS: 0 
+[info] [14:14:31.344197 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 914, SCS: 0 
+[info] [14:14:31.356924 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 916, SCS: 0 
+[info] [14:14:32.198563 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 976, SCS: 0 
+[info] [14:14:32.211430 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 978, SCS: 0 
+[info] [14:14:32.221825 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 980, SCS: 0 
+[info] [14:14:32.236635 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 982, SCS: 0 
+[info] [14:14:32.247873 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 984, SCS: 0 
+[42 06 3e 7e 81 ];
+[info] [14:14:32.268782 thread 10239] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 45.61200170898437, Samples from start = 45.608, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000000110001111100111111010000001, correlation is 0.43162978
+[info] [14:14:32.272668 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 986, SCS: 0 
+[info] [14:14:32.287885 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 988, SCS: 0 
+[info] [14:14:32.309533 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 990, SCS: 0 
+[info] [14:14:32.335916 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 992, SCS: 0 
+[info] [14:14:32.351100 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 994, SCS: 0 
+[info] [14:14:32.373243 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 996, SCS: 0 
+[info] [14:14:32.397933 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [14:14:32.418142 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1000, SCS: 0 
+[info] [14:14:32.433740 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1002, SCS: 0 
+[info] [14:14:32.453706 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1004, SCS: 0 
+[info] [14:14:32.472352 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1006, SCS: 0 
+[info] [14:14:32.493439 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1008, SCS: 0 
+[info] [14:14:32.507465 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1010, SCS: 0 
+[info] [14:14:32.553333 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1014, SCS: 0 
+[info] [14:14:32.564214 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1016, SCS: 0 
+[info] [14:14:32.576102 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1018, SCS: 0 
+[info] [14:14:32.593710 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1020, SCS: 0 
+[info] [14:14:32.612237 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1022, SCS: 0 
+[info] [14:14:32.633463 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 0, SCS: 0 
+[info] [14:14:32.655494 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 2, SCS: 0 
+[info] [14:14:32.677723 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 4, SCS: 0 
+[info] [14:14:32.693250 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 6, SCS: 0 
+[info] [14:14:32.712836 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 8, SCS: 0 
+[info] [14:14:32.730362 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 10, SCS: 0 
+[info] [14:14:32.756113 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 12, SCS: 0 
+[info] [14:14:32.768510 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 14, SCS: 0 
+[info] [14:14:32.788123 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 16, SCS: 0 
+[info] [14:14:32.813483 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 18, SCS: 0 
+[info] [14:14:32.858120 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 22, SCS: 0 
+[info] [14:14:32.868373 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 24, SCS: 0 
+[info] [14:14:32.881273 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 26, SCS: 0 
+[info] [14:14:32.893930 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 28, SCS: 0 
+[info] [14:14:32.923326 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 30, SCS: 0 
+[info] [14:14:32.937571 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 32, SCS: 0 
+[info] [14:14:32.960432 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 34, SCS: 0 
+[info] [14:14:32.974714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 36, SCS: 0 
+[info] [14:14:32.997102 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 38, SCS: 0 
+[info] [14:14:33.021334 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 40, SCS: 0 
+[info] [14:14:33.036917 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 42, SCS: 0 
+[info] [14:14:33.399766 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [14:14:33.409285 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 70, SCS: 0 
+[info] [14:14:33.421191 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:14:33.434050 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 74, SCS: 0 
+[info] [14:14:33.467983 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 76, SCS: 0 
+[info] [14:14:33.484206 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 78, SCS: 0 
+[info] [14:14:33.500872 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [14:14:33.516740 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 90, SCS: 0 
+[info] [14:14:33.537760 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 92, SCS: 0 
+[info] [14:14:33.549219 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[info] [14:14:33.574860 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 96, SCS: 0 
+[info] [14:14:33.587452 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 98, SCS: 0 
+[info] [14:14:33.617177 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [14:14:33.628185 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [14:14:33.649864 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [14:14:33.660881 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:14:33.677922 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:14:33.693324 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [14:14:33.710341 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [14:14:33.726687 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [14:14:34.479199 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 166, SCS: 0 
+[info] [14:14:34.491802 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [14:14:34.502224 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [14:14:34.517100 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 172, SCS: 0 
+[info] [14:14:34.547205 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [14:14:34.568522 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 176, SCS: 0 
+[info] [14:14:34.581598 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 178, SCS: 0 
+[info] [14:14:34.599218 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 180, SCS: 0 
+[info] [14:14:35.024572 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 210, SCS: 0 
+[info] [14:14:35.035436 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 212, SCS: 0 
+[info] [14:14:35.046932 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 214, SCS: 0 
+[info] [14:14:35.063601 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 216, SCS: 0 
+[info] [14:14:35.084181 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[info] [14:14:35.104278 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 220, SCS: 0 
+[info] [14:14:35.119685 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[info] [14:14:35.149009 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 224, SCS: 0 
+[info] [14:14:35.162434 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 226, SCS: 0 
+[info] [14:14:35.177146 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[info] [14:14:35.203349 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 230, SCS: 0 
+[info] [14:14:35.225187 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 232, SCS: 0 
+[info] [14:14:35.243020 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[info] [14:14:35.262560 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 236, SCS: 0 
+[info] [14:14:35.278413 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 238, SCS: 0 
+[info] [14:14:35.300467 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 240, SCS: 0 
+[info] [14:14:35.320375 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 242, SCS: 0 
+[info] [14:14:35.345141 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[info] [14:14:35.358916 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 246, SCS: 0 
+[info] [14:14:35.378883 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[info] [14:14:35.394605 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[info] [14:14:35.415214 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[info] [14:14:35.426257 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 254, SCS: 0 
+[info] [14:14:35.446954 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[info] [14:14:35.476847 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 258, SCS: 0 
+[info] [14:14:35.495368 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 260, SCS: 0 
+[info] [14:14:35.510069 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[info] [14:14:35.532003 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 264, SCS: 0 
+[info] [14:14:35.556250 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [14:14:35.570777 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 268, SCS: 0 
+[info] [14:14:35.584930 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 270, SCS: 0 
+[info] [14:14:35.754880 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 282, SCS: 0 
+[info] [14:14:35.768697 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 284, SCS: 0 
+[info] [14:14:36.256186 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[info] [14:14:36.269469 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 320, SCS: 0 
+[info] [14:14:36.279972 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 322, SCS: 0 
+[info] [14:14:36.300111 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 324, SCS: 0 
+[41 b6 4a 2e 01 ];
+[info] [14:14:36.314206 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 49.135998352050784, Samples from start = 49.128, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000110110110010010100010111000000001, correlation is 0.32710326
+[info] [14:14:36.321885 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 326, SCS: 0 
+[info] [14:14:36.341188 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 328, SCS: 0 
+[info] [14:14:36.359880 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [14:14:36.373106 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:14:36.394523 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:14:36.414930 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[info] [14:14:36.429479 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 338, SCS: 0 
+[info] [14:14:36.457036 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [14:14:36.473431 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:14:36.495606 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 344, SCS: 0 
+[info] [14:14:36.513064 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [14:14:36.789347 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 366, SCS: 0 
+[info] [14:14:36.802079 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[info] [14:14:36.812390 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 370, SCS: 0 
+[info] [14:14:36.829766 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 372, SCS: 0 
+[info] [14:14:36.847336 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 374, SCS: 0 
+[info] [14:14:36.872782 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 376, SCS: 0 
+[info] [14:14:36.882911 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 378, SCS: 0 
+[info] [14:14:36.918851 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:14:36.929879 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:14:36.950043 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[info] [14:14:36.964627 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 386, SCS: 0 
+[info] [14:14:36.986422 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 388, SCS: 0 
+[info] [14:14:37.008714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 390, SCS: 0 
+[info] [14:14:37.027170 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:14:37.047605 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:14:37.062812 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 396, SCS: 0 
+[info] [14:14:37.077202 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[info] [14:14:37.098964 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[info] [14:14:37.115328 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[info] [14:14:37.162811 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[info] [14:14:37.172319 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 408, SCS: 0 
+[info] [14:14:37.184850 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 410, SCS: 0 
+[info] [14:14:37.201646 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 412, SCS: 0 
+[info] [14:14:37.227207 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 414, SCS: 0 
+[info] [14:14:37.242849 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 416, SCS: 0 
+[info] [14:14:37.263346 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 418, SCS: 0 
+[info] [14:14:37.286128 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [14:14:37.305566 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 422, SCS: 0 
+[info] [14:14:37.318069 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 424, SCS: 0 
+[info] [14:14:37.332265 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[info] [14:14:37.350327 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:14:37.383762 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 430, SCS: 0 
+[info] [14:14:37.399035 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:14:37.418848 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [14:14:37.468111 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [14:14:37.480934 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 440, SCS: 0 
+[info] [14:14:37.489700 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 442, SCS: 0 
+[info] [14:14:37.506555 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[info] [14:14:37.528990 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 446, SCS: 0 
+[info] [14:14:37.552227 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 448, SCS: 0 
+[41 fe 3e 46 81 ];
+[info] [14:14:37.557370 thread 10233] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 50.369000030517576, Samples from start = 50.368, Slots from samples from start = 1 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111111110001111100100011010000001, correlation is 0.20588464
+[info] [14:14:37.564519 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 450, SCS: 0 
+[info] [14:14:37.588037 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[info] [14:14:37.600058 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[info] [14:14:37.616570 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[info] [14:14:37.698832 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[info] [14:14:37.707206 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[info] [14:14:37.719456 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 466, SCS: 0 
+[info] [14:14:37.731265 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:14:37.762829 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:14:37.774860 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 472, SCS: 0 
+[info] [14:14:37.798269 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 474, SCS: 0 
+[info] [14:14:37.810925 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 476, SCS: 0 
+[info] [14:14:37.832683 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 478, SCS: 0 
+[info] [14:14:37.853970 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 480, SCS: 0 
+[info] [14:14:37.874448 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 482, SCS: 0 
+[info] [14:14:37.884570 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 484, SCS: 0 
+[info] [14:14:37.930242 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 488, SCS: 0 
+[info] [14:14:37.943850 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[info] [14:14:37.990747 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 494, SCS: 0 
+[info] [14:14:38.002501 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 496, SCS: 0 
+[info] [14:14:38.012034 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 498, SCS: 0 
+[info] [14:14:38.034445 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 500, SCS: 0 
+[info] [14:14:38.050446 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 502, SCS: 0 
+[info] [14:14:38.077748 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 504, SCS: 0 
+[info] [14:14:38.088736 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 506, SCS: 0 
+[info] [14:14:38.145699 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 510, SCS: 0 
+[info] [14:14:38.159162 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 512, SCS: 0 
+[info] [14:14:38.168868 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 514, SCS: 0 
+[info] [14:14:38.189455 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 516, SCS: 0 
+[info] [14:14:38.219619 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 518, SCS: 0 
+[info] [14:14:38.268993 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 522, SCS: 0 
+[info] [14:14:38.282997 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 524, SCS: 0 
+[info] [14:14:38.758170 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 558, SCS: 0 
+[info] [14:14:38.771279 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 560, SCS: 0 
+[info] [14:14:38.783211 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 562, SCS: 0 
+[info] [14:14:38.801764 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[info] [14:14:38.827245 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 566, SCS: 0 
+[info] [14:14:38.841514 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 568, SCS: 0 
+[info] [14:14:38.865367 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 570, SCS: 0 
+[info] [14:14:38.879730 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 572, SCS: 0 
+[info] [14:14:38.898190 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 574, SCS: 0 
+[info] [14:14:38.926808 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 576, SCS: 0 
+[info] [14:14:38.945335 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 578, SCS: 0 
+[info] [14:14:38.968493 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 580, SCS: 0 
+[info] [14:14:39.078120 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 588, SCS: 0 
+[info] [14:14:39.086684 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 590, SCS: 0 
+[info] [14:14:39.189738 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [14:14:39.222938 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 602, SCS: 0 
+[info] [14:14:39.263497 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 606, SCS: 0 
+[info] [14:14:39.275903 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 608, SCS: 0 
+[info] [14:14:39.285279 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 610, SCS: 0 
+[info] [14:14:39.302395 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 612, SCS: 0 
+[info] [14:14:39.319437 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 614, SCS: 0 
+[info] [14:14:39.338990 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 616, SCS: 0 
+[info] [14:14:39.367105 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 618, SCS: 0 
+[info] [14:14:39.388641 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 620, SCS: 0 
+[info] [14:14:39.404895 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 622, SCS: 0 
+[info] [14:14:39.426561 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 624, SCS: 0 
+[info] [14:14:39.448490 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 626, SCS: 0 
+[info] [14:14:39.466136 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 628, SCS: 0 
+[info] [14:14:39.480802 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 630, SCS: 0 
+[info] [14:14:39.501009 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 632, SCS: 0 
+[info] [14:14:39.521761 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 634, SCS: 0 
+[info] [14:14:39.540269 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 636, SCS: 0 
+[info] [14:14:39.620676 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 642, SCS: 0 
+[info] [14:14:39.630122 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 644, SCS: 0 
+[info] [14:14:39.642500 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 646, SCS: 0 
+[info] [14:14:39.662769 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 648, SCS: 0 
+[info] [14:14:39.685219 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 650, SCS: 0 
+[info] [14:14:39.701774 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 652, SCS: 0 
+[info] [14:14:39.722152 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:14:39.735330 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 656, SCS: 0 
+[info] [14:14:39.756607 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 658, SCS: 0 
+[info] [14:14:39.782390 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 660, SCS: 0 
+[info] [14:14:39.802431 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 662, SCS: 0 
+[info] [14:14:39.817031 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 664, SCS: 0 
+[info] [14:14:39.889567 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 670, SCS: 0 
+[info] [14:14:39.965597 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 676, SCS: 0 
+[info] [14:14:40.016190 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 680, SCS: 0 
+[info] [14:14:40.060421 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 684, SCS: 0 
+[info] [14:14:40.070186 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 686, SCS: 0 
+[info] [14:14:40.082600 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 688, SCS: 0 
+[info] [14:14:40.131038 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 692, SCS: 0 
+[info] [14:14:40.143768 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 694, SCS: 0 
+[info] [14:14:40.153770 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 696, SCS: 0 
+[info] [14:14:40.171371 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 698, SCS: 0 
+[info] [14:14:40.195556 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 700, SCS: 0 
+[info] [14:14:40.219246 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 702, SCS: 0 
+[info] [14:14:40.230564 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 704, SCS: 0 
+[info] [14:14:40.257830 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 706, SCS: 0 
+[info] [14:14:40.292452 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 708, SCS: 0 
+[info] [14:14:40.319070 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 710, SCS: 0 
+[info] [14:14:40.355675 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 714, SCS: 0 
+[info] [14:14:40.368512 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [14:14:40.443430 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 724, SCS: 0 
+[info] [14:14:40.452835 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 726, SCS: 0 
+[42 46 48 56 81 ];
+[info] [14:14:40.472775 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 53.097000671386716, Samples from start = 53.096, Slots from samples from start = 1 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001000110010010000101011010000001, correlation is 0.34545547
+[info] [14:14:40.478063 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 730, SCS: 0 
+[info] [14:14:40.495309 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 732, SCS: 0 
+[info] [14:14:40.508562 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 734, SCS: 0 
+[info] [14:14:40.536394 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 736, SCS: 0 
+[info] [14:14:40.557188 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 738, SCS: 0 
+[info] [14:14:40.581318 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 740, SCS: 0 
+[info] [14:14:40.598344 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 742, SCS: 0 
+[info] [14:14:40.616322 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 744, SCS: 0 
+[info] [14:14:40.630249 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 746, SCS: 0 
+[info] [14:14:40.662668 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 748, SCS: 0 
+[info] [14:14:40.707283 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 752, SCS: 0 
+[info] [14:14:40.719899 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 754, SCS: 0 
+[info] [14:14:40.730702 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 756, SCS: 0 
+[e0 00 00 00 10 1c 00 ];
+[info] [14:14:40.733993 thread 10227] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 53.35708401489258, Samples from start = 53.354084, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110000000000000000000000000000000010000000111000, correlation is 0.12383646
+[info] [14:14:40.745767 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[info] [14:14:40.763782 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 760, SCS: 0 
+[info] [14:14:40.819841 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 764, SCS: 0 
+[info] [14:14:40.831409 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 766, SCS: 0 
+[info] [14:14:40.846779 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 768, SCS: 0 
+[info] [14:14:40.862734 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 770, SCS: 0 
+[info] [14:14:40.888752 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 772, SCS: 0 
+[info] [14:14:40.903681 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 774, SCS: 0 
+[info] [14:14:40.929910 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 776, SCS: 0 
+[42 46 3c 0e 81 ];
+[info] [14:14:40.936071 thread 10236] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 53.52999987792969, Samples from start = 53.528, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 0100001001000110001111000000111010000001, correlation is 0.36284575
+[info] [14:14:40.941477 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [14:14:40.965616 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 780, SCS: 0 
+[info] [14:14:41.019544 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 784, SCS: 0 
+[info] [14:14:41.062279 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 788, SCS: 0 
+[info] [14:14:41.070893 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [14:14:41.082833 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [14:14:41.099095 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [14:14:41.124815 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 796, SCS: 0 
+[info] [14:14:41.140721 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 798, SCS: 0 
+[info] [14:14:41.168170 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 800, SCS: 0 
+[info] [14:14:41.185696 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 802, SCS: 0 
+[info] [14:14:41.204816 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 804, SCS: 0 
+[info] [14:14:41.217614 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 806, SCS: 0 
+[info] [14:14:41.242373 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [14:14:41.261413 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[info] [14:14:41.278112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 812, SCS: 0 
+[info] [14:14:41.298534 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 814, SCS: 0 
+[info] [14:14:41.321301 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 816, SCS: 0 
+[info] [14:14:41.486968 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 828, SCS: 0 
+[info] [14:14:41.597681 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 836, SCS: 0 
+[info] [14:14:42.577794 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 904, SCS: 0 
+[info] [14:14:42.590872 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 906, SCS: 0 
+[info] [14:14:42.601051 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 908, SCS: 0 
+[info] [14:14:42.619422 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 910, SCS: 0 
+[info] [14:14:42.644104 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 912, SCS: 0 
+[info] [14:14:42.691661 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 916, SCS: 0 
+[info] [14:14:42.700508 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 918, SCS: 0 
+[info] [14:14:42.716620 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 920, SCS: 0 
+[info] [14:14:42.728801 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 922, SCS: 0 
+[info] [14:14:42.758405 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 924, SCS: 0 
+[info] [14:14:42.809322 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 928, SCS: 0 
+[info] [14:14:42.826421 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 930, SCS: 0 
+[info] [14:14:42.837042 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 932, SCS: 0 
+[info] [14:14:42.860137 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 934, SCS: 0 
+[info] [14:14:42.872473 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 936, SCS: 0 
+[info] [14:14:42.900936 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [14:14:42.983945 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 944, SCS: 0 
+[info] [14:14:43.031050 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 948, SCS: 0 
+[info] [14:14:43.040886 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 950, SCS: 0 
+[info] [14:14:43.054677 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 952, SCS: 0 
+[info] [14:14:43.073184 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 954, SCS: 0 
+[info] [14:14:43.368643 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 974, SCS: 0 
+[info] [14:14:43.382050 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 976, SCS: 0 
+[info] [14:14:43.394875 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 978, SCS: 0 
+[info] [14:14:43.408372 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 980, SCS: 0 
+[info] [14:14:43.422427 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 982, SCS: 0 
+[info] [14:14:43.656032 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [14:14:43.669460 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1000, SCS: 0 
+[info] [14:14:43.680012 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1002, SCS: 0 
+[info] [14:14:43.697868 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1004, SCS: 0 
+[info] [14:14:43.720696 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1006, SCS: 0 
+[info] [14:14:43.750477 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1008, SCS: 0 
+[info] [14:14:43.767914 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1010, SCS: 0 
+[info] [14:14:43.788934 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1012, SCS: 0 
+[info] [14:14:43.805846 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1014, SCS: 0 
+[info] [14:14:43.830898 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1016, SCS: 0 
+[info] [14:14:43.849878 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1018, SCS: 0 
+[info] [14:14:43.978866 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 4, SCS: 0 
+[info] [14:14:43.992097 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 6, SCS: 0 
+[info] [14:14:44.003976 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 8, SCS: 0 
+[info] [14:14:44.021562 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 10, SCS: 0 
+[info] [14:14:44.041481 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 12, SCS: 0 
+[info] [14:14:44.067305 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 14, SCS: 0 
+[info] [14:14:44.084894 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 16, SCS: 0 
+[info] [14:14:44.114681 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 18, SCS: 0 
+[info] [14:14:44.132113 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 20, SCS: 0 
+[info] [14:14:44.150299 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 22, SCS: 0 
+[info] [14:14:44.165160 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 24, SCS: 0 
+[info] [14:14:44.207778 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 26, SCS: 0 
+[info] [14:14:44.224604 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 28, SCS: 0 
+[info] [14:14:44.346066 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 36, SCS: 0 
+[info] [14:14:44.356705 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 38, SCS: 0 
+[info] [14:14:44.370857 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 40, SCS: 0 
+[info] [14:14:44.383850 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 42, SCS: 0 
+[info] [14:14:44.410955 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 44, SCS: 0 
+[info] [14:14:44.453741 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 48, SCS: 0 
+[info] [14:14:44.468039 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 50, SCS: 0 
+[info] [14:14:44.524408 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 54, SCS: 0 
+[info] [14:14:44.532764 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 56, SCS: 0 
+[info] [14:14:44.544824 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 58, SCS: 0 
+[info] [14:14:44.556654 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 60, SCS: 0 
+[info] [14:14:44.586921 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 62, SCS: 0 
+[info] [14:14:44.606859 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 64, SCS: 0 
+[info] [14:14:44.626132 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 66, SCS: 0 
+[info] [14:14:44.649363 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [14:14:44.697336 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:14:44.709948 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 74, SCS: 0 
+[info] [14:14:44.721975 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 76, SCS: 0 
+[info] [14:14:44.747631 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 78, SCS: 0 
+[info] [14:14:44.792721 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 82, SCS: 0 
+[info] [14:14:44.802783 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 84, SCS: 0 
+[info] [14:14:44.815966 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 86, SCS: 0 
+[info] [14:14:44.835204 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [14:14:44.855815 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 90, SCS: 0 
+[info] [14:14:44.867678 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 92, SCS: 0 
+[info] [14:14:44.882987 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[info] [14:14:44.932872 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 98, SCS: 0 
+[info] [14:14:44.945733 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [14:14:44.959820 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [14:14:44.973468 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [14:14:45.000164 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:14:45.010810 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:14:45.036905 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [14:14:45.049769 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [14:14:45.071708 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [14:14:45.088834 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 116, SCS: 0 
+[info] [14:14:45.109580 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 118, SCS: 0 
+[info] [14:14:45.122419 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [14:14:45.149175 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 122, SCS: 0 
+[info] [14:14:45.167461 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 124, SCS: 0 
+[info] [14:14:45.188064 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 126, SCS: 0 
+[info] [14:14:45.207433 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 128, SCS: 0 
+[info] [14:14:45.229184 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 130, SCS: 0 
+[info] [14:14:45.248655 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 132, SCS: 0 
+[info] [14:14:45.267670 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 134, SCS: 0 
+[info] [14:14:45.286122 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 136, SCS: 0 
+[info] [14:14:45.312492 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 138, SCS: 0 
+[info] [14:14:45.326384 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 140, SCS: 0 
+[info] [14:14:45.344590 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 142, SCS: 0 
+[info] [14:14:45.603444 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 160, SCS: 0 
+[info] [14:14:45.644246 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 164, SCS: 0 
+[info] [14:14:45.653093 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 166, SCS: 0 
+[info] [14:14:45.664193 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [14:14:45.682936 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [14:14:45.704839 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 172, SCS: 0 
+[info] [14:14:45.725449 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [14:14:45.739243 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 176, SCS: 0 
+[info] [14:14:45.761614 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 178, SCS: 0 
+[info] [14:14:45.779217 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 180, SCS: 0 
+[info] [14:14:45.800816 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 182, SCS: 0 
+[info] [14:14:45.832947 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 186, SCS: 0 
+[info] [14:14:45.844944 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 188, SCS: 0 
+[info] [14:14:45.860068 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 190, SCS: 0 
+[info] [14:14:45.875040 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 192, SCS: 0 
+[info] [14:14:45.902570 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 194, SCS: 0 
+[info] [14:14:45.930042 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 196, SCS: 0 
+[info] [14:14:45.959305 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 198, SCS: 0 
+[info] [14:14:45.976419 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [14:14:46.155094 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 212, SCS: 0 
+[info] [14:14:46.188740 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 216, SCS: 0 
+[info] [14:14:46.197521 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[info] [14:14:46.210731 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 220, SCS: 0 
+[info] [14:14:46.562479 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[info] [14:14:46.573482 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 246, SCS: 0 
+[info] [14:14:46.585184 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[info] [14:14:46.604902 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[info] [14:14:46.717409 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 258, SCS: 0 
+[info] [14:14:46.730139 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 260, SCS: 0 
+[info] [14:14:46.740369 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[info] [14:14:46.787542 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [14:14:46.824619 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 270, SCS: 0 
+[info] [14:14:46.833239 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 272, SCS: 0 
+[info] [14:14:46.845297 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [14:14:46.860583 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 276, SCS: 0 
+[info] [14:14:47.572784 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 324, SCS: 0 
+[info] [14:14:47.617751 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 328, SCS: 0 
+[info] [14:14:47.627793 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [14:14:47.642605 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:14:47.657051 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:14:47.684992 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[info] [14:14:47.749966 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [14:14:47.762898 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:14:47.780802 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 344, SCS: 0 
+[info] [14:14:47.803505 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [14:14:47.825843 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 348, SCS: 0 
+[info] [14:14:47.847470 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 350, SCS: 0 
+[info] [14:14:47.869926 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 352, SCS: 0 
+[info] [14:14:47.887930 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 354, SCS: 0 
+[info] [14:14:47.942114 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 358, SCS: 0 
+[info] [14:14:48.011283 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 364, SCS: 0 
+[info] [14:14:48.021585 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 366, SCS: 0 
+[info] [14:14:48.035538 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[info] [14:14:48.051220 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 370, SCS: 0 
+[info] [14:14:48.100600 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 374, SCS: 0 
+[info] [14:14:48.112254 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 376, SCS: 0 
+[info] [14:14:48.131958 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 378, SCS: 0 
+[info] [14:14:48.141394 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:14:48.158083 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:14:48.176783 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[info] [14:14:48.215444 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 386, SCS: 0 
+[info] [14:14:48.235203 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 388, SCS: 0 
+[info] [14:14:48.281542 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:14:48.291559 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:14:48.305146 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 396, SCS: 0 
+[info] [14:14:48.323247 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[info] [14:14:48.350359 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[info] [14:14:48.360741 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[info] [14:14:48.379280 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[info] [14:14:48.397886 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[info] [14:14:48.416954 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 408, SCS: 0 
+[info] [14:14:48.436151 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 410, SCS: 0 
+[info] [14:14:48.458781 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 412, SCS: 0 
+[info] [14:14:48.468674 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 414, SCS: 0 
+[info] [14:14:48.487817 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 416, SCS: 0 
+[info] [14:14:48.510155 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 418, SCS: 0 
+[info] [14:14:48.532094 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [14:14:48.549781 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 422, SCS: 0 
+[info] [14:14:48.570360 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 424, SCS: 0 
+[info] [14:14:48.590545 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[info] [14:14:48.607679 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:14:48.657251 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:14:48.670401 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [14:14:48.683424 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[info] [14:14:48.703071 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [14:14:48.896011 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[info] [14:14:48.906413 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[info] [14:14:48.918654 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[info] [14:14:48.934673 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 458, SCS: 0 
+[info] [14:14:48.969605 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 460, SCS: 0 
+[info] [14:14:48.989343 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[info] [14:14:49.008236 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[info] [14:14:49.020593 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 466, SCS: 0 
+[info] [14:14:49.050500 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:14:49.070882 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:14:49.150609 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 476, SCS: 0 
+[info] [14:14:49.163864 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 478, SCS: 0 
+[info] [14:14:49.174185 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 480, SCS: 0 
+[info] [14:14:49.193216 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 482, SCS: 0 
+[info] [14:14:49.956252 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 534, SCS: 0 
+[info] [14:14:49.966333 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 536, SCS: 0 
+[info] [14:14:49.979085 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 538, SCS: 0 
+[info] [14:14:49.994325 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 540, SCS: 0 
+[info] [14:14:50.023238 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 542, SCS: 0 
+[info] [14:14:50.034825 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 544, SCS: 0 
+[info] [14:14:50.073009 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 546, SCS: 0 
+[info] [14:14:50.090674 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 548, SCS: 0 
+[info] [14:14:50.106922 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 550, SCS: 0 
+[info] [14:14:50.127388 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 552, SCS: 0 
+[info] [14:14:50.152697 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 554, SCS: 0 
+[info] [14:14:50.175258 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 556, SCS: 0 
+[info] [14:14:50.197508 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 558, SCS: 0 
+[info] [14:14:50.212488 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 560, SCS: 0 
+[info] [14:14:50.234136 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 562, SCS: 0 
+[info] [14:14:50.258909 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[info] [14:14:50.332294 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 570, SCS: 0 
+[info] [14:14:50.345650 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 572, SCS: 0 
+[info] [14:14:50.356639 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 574, SCS: 0 
+[info] [14:14:50.377243 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 576, SCS: 0 
+[info] [14:14:50.401750 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 578, SCS: 0 
+[info] [14:14:50.433514 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 580, SCS: 0 
+[info] [14:14:50.449837 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 582, SCS: 0 
+[info] [14:14:50.481018 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 584, SCS: 0 
+[info] [14:14:50.497022 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 586, SCS: 0 
+[info] [14:14:50.522052 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 588, SCS: 0 
+[info] [14:14:50.533548 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 590, SCS: 0 
+[info] [14:14:50.566576 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 592, SCS: 0 
+[info] [14:14:50.579873 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 594, SCS: 0 
+[info] [14:14:50.593803 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 596, SCS: 0 
+[info] [14:14:50.620804 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [14:14:50.790073 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 610, SCS: 0 
+[info] [14:14:50.800916 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 612, SCS: 0 
+[info] [14:14:51.048501 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 632, SCS: 0 
+[info] [14:14:51.060411 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 634, SCS: 0 
+[info] [14:14:51.070488 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 636, SCS: 0 
+[info] [14:14:51.096376 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 638, SCS: 0 
+[info] [14:14:51.113983 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 640, SCS: 0 
+[info] [14:14:51.277031 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 652, SCS: 0 
+[info] [14:14:51.289310 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:14:52.054683 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 708, SCS: 0 
+[info] [14:14:52.068690 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 710, SCS: 0 
+[info] [14:14:52.314363 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 728, SCS: 0 
+[info] [14:14:52.326986 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 730, SCS: 0 
+[info] [14:14:52.339789 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 732, SCS: 0 
+[info] [14:14:52.361021 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 734, SCS: 0 
+[info] [14:14:52.371838 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 736, SCS: 0 
+[info] [14:14:52.429716 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 740, SCS: 0 
+[info] [14:14:52.438354 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 742, SCS: 0 
+[info] [14:14:52.594140 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 754, SCS: 0 
+[info] [14:14:52.608184 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 756, SCS: 0 
+[info] [14:14:52.619335 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[info] [14:14:52.636388 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 760, SCS: 0 
+[info] [14:14:52.661725 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 762, SCS: 0 
+[info] [14:14:52.685650 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 764, SCS: 0 
+[info] [14:14:52.700748 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 766, SCS: 0 
+[info] [14:14:52.720051 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 768, SCS: 0 
+[info] [14:14:52.734111 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 770, SCS: 0 
+[info] [14:14:52.869763 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [14:14:52.917006 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[info] [14:14:53.445916 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 818, SCS: 0 
+[info] [14:14:53.458475 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 820, SCS: 0 
+[info] [14:14:53.500697 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 824, SCS: 0 
+[info] [14:14:53.510662 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 826, SCS: 0 
+[info] [14:14:53.702230 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 840, SCS: 0 
+[info] [14:14:53.743661 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[info] [14:14:54.636604 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 908, SCS: 0 
+[info] [14:14:54.648331 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 910, SCS: 0 
+[info] [14:14:54.660863 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 912, SCS: 0 
+[info] [14:14:54.676051 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 914, SCS: 0 
+[info] [14:14:54.728956 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 918, SCS: 0 
+[info] [14:14:54.742907 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 920, SCS: 0 
+[info] [14:14:54.755455 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 922, SCS: 0 
+[info] [14:14:54.771424 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 924, SCS: 0 
+[info] [14:14:54.787585 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 926, SCS: 0 
+[info] [14:14:54.811003 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 928, SCS: 0 
+[info] [14:14:54.956334 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [14:14:54.969824 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 940, SCS: 0 
+[info] [14:14:54.979472 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 942, SCS: 0 
+[info] [14:14:55.000625 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 944, SCS: 0 
+[info] [14:14:57.862983 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [14:14:57.873021 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 116, SCS: 0 
+[info] [14:14:58.014824 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 126, SCS: 0 
+[info] [14:14:58.027767 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 128, SCS: 0 
+[info] [14:14:58.038245 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 130, SCS: 0 
+[info] [14:14:58.058255 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 132, SCS: 0 
+[info] [14:14:58.079331 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 134, SCS: 0 
+[info] [14:14:58.125649 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 138, SCS: 0 
+[info] [14:14:58.135125 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 140, SCS: 0 
+[info] [14:14:58.147837 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 142, SCS: 0 
+[info] [14:14:58.228527 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 148, SCS: 0 
+[info] [14:14:58.237840 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 150, SCS: 0 
+[info] [14:14:58.249547 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 152, SCS: 0 
+[info] [14:14:58.262338 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 154, SCS: 0 
+[info] [14:14:58.286110 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 156, SCS: 0 
+[info] [14:14:58.299372 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 158, SCS: 0 
+[info] [14:14:58.322931 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 160, SCS: 0 
+[info] [14:14:58.344090 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 162, SCS: 0 
+[info] [14:14:58.432753 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [14:14:58.442911 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [14:14:58.806583 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 198, SCS: 0 
+[info] [14:14:58.821048 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [14:14:58.832680 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 202, SCS: 0 
+[info] [14:14:58.847848 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[info] [14:14:58.865210 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 206, SCS: 0 
+[info] [14:14:58.892681 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 208, SCS: 0 
+[info] [14:14:59.011179 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 216, SCS: 0 
+[info] [14:14:59.019887 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[info] [14:14:59.032706 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 220, SCS: 0 
+[info] [14:14:59.049952 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[info] [14:14:59.076979 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 224, SCS: 0 
+[info] [14:14:59.089428 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 226, SCS: 0 
+[info] [14:14:59.108920 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[info] [14:14:59.125059 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 230, SCS: 0 
+[info] [14:14:59.400226 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[info] [14:14:59.412586 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 254, SCS: 0 
+[info] [14:14:59.423221 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[info] [14:14:59.442112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 258, SCS: 0 
+[info] [14:14:59.492172 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[info] [14:14:59.501535 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 264, SCS: 0 
+[info] [14:14:59.512844 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [14:14:59.524646 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 268, SCS: 0 
+[info] [14:14:59.559845 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 270, SCS: 0 
+[info] [14:14:59.574468 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 272, SCS: 0 
+[info] [14:14:59.590703 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [14:14:59.604858 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 276, SCS: 0 
+[info] [14:14:59.637019 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 278, SCS: 0 
+[info] [14:14:59.649300 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 280, SCS: 0 
+[info] [14:14:59.783859 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 290, SCS: 0 
+[info] [14:14:59.796479 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 292, SCS: 0 
+[info] [14:14:59.806976 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 294, SCS: 0 
+[info] [14:14:59.825235 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 296, SCS: 0 
+[info] [14:14:59.839842 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 298, SCS: 0 
+[info] [14:14:59.871108 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 300, SCS: 0 
+[info] [14:14:59.880704 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 302, SCS: 0 
+[info] [14:14:59.903820 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 304, SCS: 0 
+[info] [14:14:59.914878 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 306, SCS: 0 
+[info] [14:14:59.947035 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 308, SCS: 0 
+[info] [14:15:01.923114 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 446, SCS: 0 
+[info] [14:15:01.980346 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[info] [14:15:01.993495 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[info] [14:15:02.003695 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[info] [14:15:02.028007 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 458, SCS: 0 
+[info] [14:15:02.044368 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 460, SCS: 0 
+[info] [14:15:02.066204 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[info] [14:15:02.087417 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[info] [14:15:02.146139 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:15:02.156401 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:15:02.200296 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 474, SCS: 0 
+[info] [14:15:02.209998 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 476, SCS: 0 
+[info] [14:15:02.305921 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 484, SCS: 0 
+[info] [14:15:02.318350 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 486, SCS: 0 
+[info] [14:15:02.328425 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 488, SCS: 0 
+[info] [14:15:02.360977 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[info] [14:15:02.376045 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 492, SCS: 0 
+[info] [14:15:02.389655 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 494, SCS: 0 
+[info] [14:15:02.472669 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 500, SCS: 0 
+[info] [14:15:02.481494 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 502, SCS: 0 
+[info] [14:15:02.493571 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 504, SCS: 0 
+[info] [14:15:02.509910 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 506, SCS: 0 
+[info] [14:15:02.536918 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 508, SCS: 0 
+[info] [14:15:02.554378 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 510, SCS: 0 
+[info] [14:15:02.585687 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 512, SCS: 0 
+[info] [14:15:02.613888 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 514, SCS: 0 
+[info] [14:15:02.628100 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 516, SCS: 0 
+[info] [14:15:02.641319 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 518, SCS: 0 
+[info] [14:15:02.671237 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 520, SCS: 0 
+[info] [14:15:02.809314 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 530, SCS: 0 
+[info] [14:15:02.828803 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 532, SCS: 0 
+[info] [14:15:02.843607 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 534, SCS: 0 
+[info] [14:15:02.861179 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 536, SCS: 0 
+[info] [14:15:02.881797 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 538, SCS: 0 
+[info] [14:15:02.937339 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 542, SCS: 0 
+[info] [14:15:02.945512 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 544, SCS: 0 
+[info] [14:15:02.958944 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 546, SCS: 0 
+[info] [14:15:02.980828 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 548, SCS: 0 
+[info] [14:15:03.008279 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 550, SCS: 0 
+[info] [14:15:03.021775 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 552, SCS: 0 
+[info] [14:15:03.044884 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 554, SCS: 0 
+[info] [14:15:03.065012 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 556, SCS: 0 
+[info] [14:15:03.174477 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[info] [14:15:03.183176 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 566, SCS: 0 
+[info] [14:15:03.194899 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 568, SCS: 0 
+[info] [14:15:03.210464 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 570, SCS: 0 
+[info] [14:15:03.235474 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 572, SCS: 0 
+[info] [14:15:03.253679 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 574, SCS: 0 
+[info] [14:15:03.274289 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 576, SCS: 0 
+[info] [14:15:03.287620 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 578, SCS: 0 
+[info] [14:15:03.312143 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 580, SCS: 0 
+[info] [14:15:03.358710 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 584, SCS: 0 
+[info] [14:15:03.368118 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 586, SCS: 0 
+[info] [14:15:03.380610 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 588, SCS: 0 
+[info] [14:15:03.393950 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 590, SCS: 0 
+[info] [14:15:03.417543 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 592, SCS: 0 
+[info] [14:15:03.437906 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 594, SCS: 0 
+[info] [14:15:03.454278 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 596, SCS: 0 
+[info] [14:15:03.471308 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [14:15:03.525170 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 602, SCS: 0 
+[info] [14:15:03.534041 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 604, SCS: 0 
+[info] [14:15:03.546448 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 606, SCS: 0 
+[info] [14:15:03.559210 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 608, SCS: 0 
+[info] [14:15:03.592781 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 610, SCS: 0 
+[info] [14:15:03.611695 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 612, SCS: 0 
+[info] [14:15:03.630467 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 614, SCS: 0 
+[info] [14:15:03.650758 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 616, SCS: 0 
+[info] [14:15:03.668282 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 618, SCS: 0 
+[info] [14:15:03.683592 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 620, SCS: 0 
+[info] [14:15:03.828749 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 630, SCS: 0 
+[info] [14:15:03.862823 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 634, SCS: 0 
+[info] [14:15:03.874165 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 636, SCS: 0 
+[info] [14:15:03.884098 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 638, SCS: 0 
+[info] [14:15:03.901591 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 640, SCS: 0 
+[info] [14:15:03.926474 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 642, SCS: 0 
+[info] [14:15:03.948506 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 644, SCS: 0 
+[info] [14:15:03.960446 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 646, SCS: 0 
+[info] [14:15:03.980791 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 648, SCS: 0 
+[info] [14:15:03.998418 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 650, SCS: 0 
+[info] [14:15:04.025976 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 652, SCS: 0 
+[info] [14:15:04.041020 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 654, SCS: 0 
+[info] [14:15:04.058999 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 656, SCS: 0 
+[info] [14:15:04.071194 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 658, SCS: 0 
+[info] [14:15:04.091917 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 660, SCS: 0 
+[info] [14:15:04.115408 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 662, SCS: 0 
+[info] [14:15:04.133060 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 664, SCS: 0 
+[info] [14:15:04.175001 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 668, SCS: 0 
+[info] [14:15:04.188095 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 670, SCS: 0 
+[info] [14:15:04.197609 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 672, SCS: 0 
+[info] [14:15:04.215420 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 674, SCS: 0 
+[info] [14:15:04.228689 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 676, SCS: 0 
+[info] [14:15:04.260261 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 678, SCS: 0 
+[info] [14:15:04.275771 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 680, SCS: 0 
+[info] [14:15:04.772173 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [14:15:04.782165 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 718, SCS: 0 
+[info] [14:15:04.839505 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 726, SCS: 0 
+[info] [14:15:04.876812 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 730, SCS: 0 
+[info] [14:15:04.886465 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 732, SCS: 0 
+[info] [14:15:04.901367 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 734, SCS: 0 
+[info] [14:15:04.918436 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 736, SCS: 0 
+[info] [14:15:04.938695 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 738, SCS: 0 
+[info] [14:15:04.967256 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 740, SCS: 0 
+[42 26 3e 78 81 ];
+[info] [14:15:04.988919 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 73.12300274658203, Samples from start = 73.12, Slots from samples from start = 3 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000100110001111100111100010000001, correlation is 0.4159205
+[ff ff 0b 8e 10 00 00 ];
+[info] [14:15:04.991829 thread 10203] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 73.12500274658203, Samples from start = 73.12, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000010111000111000010000000000000, correlation is 0.5660477
+[41 b6 3c 20 81 ];
+[info] [14:15:05.017332 thread 10218] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 73.13299835205078, Samples from start = 73.128, Slots from samples from start = 5 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000110110110001111000010000010000001, correlation is 0.23301868
+[info] [14:15:05.240124 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 760, SCS: 0 
+[info] [14:15:05.252826 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 762, SCS: 0 
+[info] [14:15:05.262689 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 764, SCS: 0 
+[info] [14:15:05.280246 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 766, SCS: 0 
+[info] [14:15:05.300075 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 768, SCS: 0 
+[info] [14:15:05.324805 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 770, SCS: 0 
+[info] [14:15:05.336041 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 772, SCS: 0 
+[info] [14:15:05.363656 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 774, SCS: 0 
+[info] [14:15:05.384864 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 776, SCS: 0 
+[info] [14:15:05.406252 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [14:15:05.422117 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 780, SCS: 0 
+[info] [14:15:05.437365 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[info] [14:15:05.465317 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 784, SCS: 0 
+[info] [14:15:05.487739 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 786, SCS: 0 
+[info] [14:15:05.534962 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [14:15:05.546832 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [14:15:05.561527 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [14:15:05.579261 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 796, SCS: 0 
+[info] [14:15:05.596880 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 798, SCS: 0 
+[info] [14:15:05.616052 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 800, SCS: 0 
+[info] [14:15:05.636046 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 802, SCS: 0 
+[info] [14:15:05.687197 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 806, SCS: 0 
+[info] [14:15:05.697288 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [14:15:05.709817 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[info] [14:15:06.087990 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 838, SCS: 0 
+[info] [14:15:06.099521 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 840, SCS: 0 
+[info] [14:15:06.113284 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 842, SCS: 0 
+[info] [14:15:06.131201 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[info] [14:15:06.210356 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[info] [14:15:06.221938 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 852, SCS: 0 
+[info] [14:15:06.231917 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 854, SCS: 0 
+[info] [14:15:06.252714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 856, SCS: 0 
+[info] [14:15:06.276948 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 858, SCS: 0 
+[info] [14:15:06.292265 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 860, SCS: 0 
+[info] [14:15:06.307492 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 862, SCS: 0 
+[info] [14:15:06.336346 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 864, SCS: 0 
+[info] [14:15:06.353722 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 866, SCS: 0 
+[info] [14:15:06.378230 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [14:15:06.394862 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 870, SCS: 0 
+[info] [14:15:06.420807 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 872, SCS: 0 
+[info] [14:15:06.434533 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 874, SCS: 0 
+[info] [14:15:06.456836 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 876, SCS: 0 
+[42 06 3e 36 81 ];
+[info] [14:15:06.462105 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 74.42700360107422, Samples from start = 74.424, Slots from samples from start = 3 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000000110001111100011011010000001, correlation is 0.22538869
+[info] [14:15:06.474868 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 878, SCS: 0 
+[info] [14:15:06.496400 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 880, SCS: 0 
+[info] [14:15:06.515760 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 882, SCS: 0 
+[info] [14:15:06.537392 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 884, SCS: 0 
+[info] [14:15:06.550607 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 886, SCS: 0 
+[info] [14:15:06.604893 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 890, SCS: 0 
+[info] [14:15:06.618549 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 892, SCS: 0 
+[info] [14:15:06.629944 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 894, SCS: 0 
+[info] [14:15:06.647359 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 896, SCS: 0 
+[info] [14:15:06.788510 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 906, SCS: 0 
+[info] [14:15:06.797717 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 908, SCS: 0 
+[info] [14:15:06.809929 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 910, SCS: 0 
+[info] [14:15:06.830260 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 912, SCS: 0 
+[info] [14:15:06.855340 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 914, SCS: 0 
+[info] [14:15:06.870606 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 916, SCS: 0 
+[info] [14:15:06.896183 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 918, SCS: 0 
+[info] [14:15:06.940011 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 922, SCS: 0 
+[info] [14:15:06.954389 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 924, SCS: 0 
+[info] [14:15:06.965109 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 926, SCS: 0 
+[info] [14:15:06.982657 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 928, SCS: 0 
+[info] [14:15:07.060861 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 934, SCS: 0 
+[info] [14:15:07.073393 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 936, SCS: 0 
+[info] [14:15:07.083027 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [14:15:07.098221 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 940, SCS: 0 
+[info] [14:15:07.117871 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 942, SCS: 0 
+[info] [14:15:07.151246 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 944, SCS: 0 
+[info] [14:15:07.196527 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 948, SCS: 0 
+[info] [14:15:07.255878 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 954, SCS: 0 
+[info] [14:15:07.266642 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 956, SCS: 0 
+[info] [14:15:07.277468 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 958, SCS: 0 
+[info] [14:15:07.297816 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 960, SCS: 0 
+[info] [14:15:07.313989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 962, SCS: 0 
+[info] [14:15:07.339473 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 964, SCS: 0 
+[info] [14:15:07.355256 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 966, SCS: 0 
+[info] [14:15:07.383496 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 968, SCS: 0 
+[info] [14:15:07.403421 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 970, SCS: 0 
+[info] [14:15:07.464744 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 974, SCS: 0 
+[info] [14:15:07.480272 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 976, SCS: 0 
+[info] [14:15:07.508305 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 978, SCS: 0 
+[info] [14:15:07.523923 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 980, SCS: 0 
+[info] [14:15:07.559453 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 982, SCS: 0 
+[info] [14:15:07.575733 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 984, SCS: 0 
+[info] [14:15:07.616206 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 986, SCS: 0 
+[info] [14:15:07.626473 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 988, SCS: 0 
+[info] [14:15:07.715488 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 994, SCS: 0 
+[info] [14:15:07.728505 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 996, SCS: 0 
+[info] [14:15:07.737546 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [14:15:07.753467 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1000, SCS: 0 
+[info] [14:15:07.772122 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1002, SCS: 0 
+[info] [14:15:07.791727 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1004, SCS: 0 
+[info] [14:15:07.814506 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1006, SCS: 0 
+[info] [14:15:07.831071 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1008, SCS: 0 
+[info] [14:15:07.845931 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1010, SCS: 0 
+[info] [14:15:07.909327 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1014, SCS: 0 
+[info] [14:15:07.943965 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1018, SCS: 0 
+[info] [14:15:07.989033 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1022, SCS: 0 
+[info] [14:15:07.999650 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 0, SCS: 0 
+[info] [14:15:08.012233 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 2, SCS: 0 
+[info] [14:15:08.024700 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 4, SCS: 0 
+[info] [14:15:08.048477 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 6, SCS: 0 
+[info] [14:15:08.064821 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 8, SCS: 0 
+[info] [14:15:08.083481 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 10, SCS: 0 
+[info] [14:15:08.104609 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 12, SCS: 0 
+[info] [14:15:08.138325 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 14, SCS: 0 
+[info] [14:15:08.153753 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 16, SCS: 0 
+[info] [14:15:08.168022 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 18, SCS: 0 
+[info] [14:15:08.187987 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 20, SCS: 0 
+[info] [14:15:08.212654 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 22, SCS: 0 
+[info] [14:15:08.230096 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 24, SCS: 0 
+[info] [14:15:08.247763 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 26, SCS: 0 
+[info] [14:15:08.269241 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 28, SCS: 0 
+[42 68 40 16 81 ];
+[info] [14:15:08.270782 thread 10215] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 76.12700274658204, Samples from start = 76.12, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001001101000010000000001011010000001, correlation is 0.32753408
+[info] [14:15:08.287063 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 30, SCS: 0 
+[info] [14:15:08.300413 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 32, SCS: 0 
+[info] [14:15:08.317330 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 34, SCS: 0 
+[info] [14:15:08.346135 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 36, SCS: 0 
+[info] [14:15:08.366135 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 38, SCS: 0 
+[info] [14:15:08.378112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 40, SCS: 0 
+[info] [14:15:08.423463 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 44, SCS: 0 
+[info] [14:15:08.457758 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 48, SCS: 0 
+[info] [14:15:08.471201 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 50, SCS: 0 
+[info] [14:15:08.482948 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 52, SCS: 0 
+[info] [14:15:08.513381 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 56, SCS: 0 
+[info] [14:15:08.531675 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 58, SCS: 0 
+[info] [14:15:08.553817 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 60, SCS: 0 
+[info] [14:15:08.570987 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 62, SCS: 0 
+[info] [14:15:08.588652 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 64, SCS: 0 
+[info] [14:15:08.606541 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 66, SCS: 0 
+[info] [14:15:08.619950 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [14:15:08.638812 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 70, SCS: 0 
+[info] [14:15:08.661889 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:15:08.680877 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 74, SCS: 0 
+[info] [14:15:08.702484 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 76, SCS: 0 
+[info] [14:15:08.724528 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 78, SCS: 0 
+[info] [14:15:08.741291 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 80, SCS: 0 
+[info] [14:15:08.766734 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 82, SCS: 0 
+[info] [14:15:08.785175 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 84, SCS: 0 
+[info] [14:15:08.803931 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 86, SCS: 0 
+[info] [14:15:08.816596 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [14:15:08.845117 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 90, SCS: 0 
+[info] [14:15:08.862681 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 92, SCS: 0 
+[info] [14:15:08.887604 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[42 46 3e 36 81 ];
+[info] [14:15:08.923196 thread 10224] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 76.80899865722657, Samples from start = 76.808, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001001000110001111100011011010000001, correlation is 0.38400874
+[info] [14:15:08.957303 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [14:15:08.967274 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [14:15:08.980000 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [14:15:08.994589 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [14:15:09.012015 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [14:15:09.028889 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [14:15:09.055646 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [14:15:09.076130 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [14:15:09.185560 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 122, SCS: 0 
+[info] [14:15:09.198318 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 124, SCS: 0 
+[info] [14:15:09.214803 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 126, SCS: 0 
+[info] [14:15:09.263426 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 130, SCS: 0 
+[info] [14:15:09.309459 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 134, SCS: 0 
+[info] [14:15:09.319474 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 136, SCS: 0 
+[info] [14:15:09.331971 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 138, SCS: 0 
+[info] [14:15:09.349112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 140, SCS: 0 
+[info] [14:15:09.371876 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 142, SCS: 0 
+[info] [14:15:09.426743 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 148, SCS: 0 
+[info] [14:15:09.435743 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 150, SCS: 0 
+[info] [14:15:09.447715 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 152, SCS: 0 
+[info] [14:15:09.461867 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 154, SCS: 0 
+[info] [14:15:09.490236 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 156, SCS: 0 
+[info] [14:15:09.511153 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 158, SCS: 0 
+[info] [14:15:09.531939 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 160, SCS: 0 
+[info] [14:15:09.569128 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 164, SCS: 0 
+[info] [14:15:09.591512 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 166, SCS: 0 
+[info] [14:15:09.603691 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [14:15:09.637100 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [14:15:09.655734 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 172, SCS: 0 
+[info] [14:15:09.692407 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [14:15:09.713453 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 176, SCS: 0 
+[42 26 44 5e 81 ];
+[info] [14:15:09.739512 thread 10230] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 77.58799963378907, Samples from start = 77.584, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000100110010001000101111010000001, correlation is 0.34151065
+[info] [14:15:09.764862 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 180, SCS: 0 
+[info] [14:15:09.785752 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 182, SCS: 0 
+[info] [14:15:09.798578 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 184, SCS: 0 
+[info] [14:15:09.829675 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 186, SCS: 0 
+[info] [14:15:09.846118 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 188, SCS: 0 
+[info] [14:15:09.884296 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 190, SCS: 0 
+[info] [14:15:09.906569 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 192, SCS: 0 
+[info] [14:15:09.950862 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 196, SCS: 0 
+[info] [14:15:09.991405 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [14:15:10.004605 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 202, SCS: 0 
+[info] [14:15:10.012856 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[info] [14:15:10.030352 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 206, SCS: 0 
+[info] [14:15:10.041216 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 208, SCS: 0 
+[info] [14:15:10.058303 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 210, SCS: 0 
+[info] [14:15:10.069226 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 212, SCS: 0 
+[info] [14:15:10.122600 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 216, SCS: 0 
+[info] [14:15:10.139156 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[info] [14:15:10.156752 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 220, SCS: 0 
+[info] [14:15:10.174962 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[info] [14:15:10.193796 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 224, SCS: 0 
+[info] [14:15:10.218236 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 226, SCS: 0 
+[info] [14:15:10.234377 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[info] [14:15:10.251174 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 230, SCS: 0 
+[info] [14:15:10.279143 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 232, SCS: 0 
+[info] [14:15:10.294995 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[info] [14:15:10.337399 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 238, SCS: 0 
+[info] [14:15:10.347807 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 240, SCS: 0 
+[info] [14:15:10.360050 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 242, SCS: 0 
+[info] [14:15:10.378045 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[info] [14:15:10.405998 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 246, SCS: 0 
+[info] [14:15:10.453460 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[info] [14:15:10.464562 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[info] [14:15:10.473850 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 254, SCS: 0 
+[info] [14:15:10.494333 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[info] [14:15:10.523688 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 258, SCS: 0 
+[info] [14:15:10.543446 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 260, SCS: 0 
+[info] [14:15:10.556972 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[info] [14:15:10.576819 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 264, SCS: 0 
+[info] [14:15:10.589989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [14:15:10.613534 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 268, SCS: 0 
+[info] [14:15:10.660656 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 272, SCS: 0 
+[info] [14:15:10.673852 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [14:15:10.684253 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 276, SCS: 0 
+[info] [14:15:10.701029 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 278, SCS: 0 
+[info] [14:15:10.725214 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 280, SCS: 0 
+[info] [14:15:10.753598 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 282, SCS: 0 
+[info] [14:15:10.764908 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 284, SCS: 0 
+[info] [14:15:10.838091 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 290, SCS: 0 
+[info] [14:15:10.850634 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 292, SCS: 0 
+[info] [14:15:10.860502 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 294, SCS: 0 
+[info] [14:15:10.873686 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 296, SCS: 0 
+[info] [14:15:10.922100 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 300, SCS: 0 
+[info] [14:15:10.940040 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 302, SCS: 0 
+[info] [14:15:10.951318 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 304, SCS: 0 
+[info] [14:15:10.965030 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 306, SCS: 0 
+[info] [14:15:10.986544 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 308, SCS: 0 
+[info] [14:15:11.016198 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 310, SCS: 0 
+[info] [14:15:11.034162 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 312, SCS: 0 
+[info] [14:15:11.049748 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 314, SCS: 0 
+[info] [14:15:11.069810 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 316, SCS: 0 
+[info] [14:15:11.090095 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[info] [14:15:11.106142 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 320, SCS: 0 
+[info] [14:15:11.126710 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 322, SCS: 0 
+[info] [14:15:11.147863 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 324, SCS: 0 
+[info] [14:15:11.169714 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 326, SCS: 0 
+[info] [14:15:11.182303 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 328, SCS: 0 
+[info] [14:15:11.197528 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [14:15:11.210142 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:15:11.232055 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:15:11.251969 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[info] [14:15:11.267894 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 338, SCS: 0 
+[info] [14:15:11.297495 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [14:15:11.315331 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:15:11.329671 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 344, SCS: 0 
+[info] [14:15:11.355913 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [14:15:11.369328 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 348, SCS: 0 
+[info] [14:15:11.420401 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 352, SCS: 0 
+[info] [14:15:11.433175 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 354, SCS: 0 
+[info] [14:15:11.446412 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 356, SCS: 0 
+[info] [14:15:11.462970 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 358, SCS: 0 
+[info] [14:15:11.479885 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 360, SCS: 0 
+[info] [14:15:11.507997 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 362, SCS: 0 
+[info] [14:15:11.522975 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 364, SCS: 0 
+[info] [14:15:11.538658 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 366, SCS: 0 
+[info] [14:15:11.550840 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[info] [14:15:11.577965 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 370, SCS: 0 
+[info] [14:15:11.593265 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 372, SCS: 0 
+[info] [14:15:11.618007 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 374, SCS: 0 
+[info] [14:15:11.636833 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 376, SCS: 0 
+[info] [14:15:11.654045 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 378, SCS: 0 
+[info] [14:15:11.673989 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:15:11.698239 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:15:11.712370 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[info] [14:15:11.729487 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 386, SCS: 0 
+[info] [14:15:11.775543 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 390, SCS: 0 
+[info] [14:15:11.789319 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:15:11.800584 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:15:11.859948 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[info] [14:15:11.868700 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[info] [14:15:11.880986 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[info] [14:15:11.893759 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[info] [14:15:11.918592 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[info] [14:15:12.088892 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 418, SCS: 0 
+[info] [14:15:12.101545 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [14:15:12.111221 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 422, SCS: 0 
+[info] [14:15:12.167016 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[info] [14:15:12.176157 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:15:12.187506 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 430, SCS: 0 
+[info] [14:15:12.206123 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:15:12.229849 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [14:15:12.240373 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[info] [14:15:12.267132 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [14:15:12.283590 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 440, SCS: 0 
+[info] [14:15:12.304377 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 442, SCS: 0 
+[info] [14:15:12.320529 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[info] [14:15:12.340240 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 446, SCS: 0 
+[info] [14:15:12.360352 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 448, SCS: 0 
+[info] [14:15:12.375998 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 450, SCS: 0 
+[info] [14:15:12.398789 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[info] [14:15:12.414035 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[info] [14:15:12.592862 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[info] [14:15:12.605298 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:15:15.788361 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 698, SCS: 0 
+[info] [14:15:15.799476 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 700, SCS: 0 
+[info] [14:15:15.809066 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 702, SCS: 0 
+[info] [14:15:15.827623 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 704, SCS: 0 
+[info] [14:15:15.908298 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 710, SCS: 0 
+[info] [14:15:15.921015 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 712, SCS: 0 
+[info] [14:15:15.932732 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 714, SCS: 0 
+[info] [14:15:15.951034 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [14:15:17.255928 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [14:15:17.265544 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[info] [14:15:17.277777 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 812, SCS: 0 
+[info] [14:15:17.295007 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 814, SCS: 0 
+[info] [14:15:17.406114 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 822, SCS: 0 
+[info] [14:15:17.564900 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 834, SCS: 0 
+[info] [14:15:17.633378 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 840, SCS: 0 
+[info] [14:15:17.646033 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 842, SCS: 0 
+[info] [14:15:17.656415 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[info] [14:15:17.680560 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 846, SCS: 0 
+[info] [14:15:17.696589 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 848, SCS: 0 
+[info] [14:15:17.714177 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[info] [14:15:17.734097 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 852, SCS: 0 
+[info] [14:15:17.753615 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 854, SCS: 0 
+[info] [14:15:17.772112 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 856, SCS: 0 
+[info] [14:15:17.794214 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 858, SCS: 0 
+[info] [14:15:17.811785 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 860, SCS: 0 
+[info] [14:15:17.833070 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 862, SCS: 0 
+[info] [14:15:17.845816 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 864, SCS: 0 
+[info] [14:15:17.872063 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 866, SCS: 0 
+[info] [14:15:17.889371 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [14:15:17.911599 thread 10196] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 870, SCS: 0 

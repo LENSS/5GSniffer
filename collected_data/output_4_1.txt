@@ -1,0 +1,1800 @@
+[2024-07-24 15:14:45.234] [info] [main.cc:48] === This is a debug mode build ===
+[info] [15:14:45.234763 thread 23798] [config.h:77] Loading configuration file ./config.toml
+[info] [15:14:45.555499 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[info] [15:14:45.635522 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 224, SCS: 0 
+[info] [15:14:45.646483 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 226, SCS: 0 
+[c0 04 10 04 10 0c 00 ];
+[info] [15:14:45.649366 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.02000000075995922, Samples from start = 0.016, Slots from samples from start = 4 Slot within frame = 7, Symbol within slot = 0, binary dci is 1100000000000100000100000000010000010000000011000, correlation is 0.4163918
+[info] [15:14:45.658250 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[c1 00 00 47 10 0c 00 ];
+[info] [15:14:45.662233 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.03192005191743374, Samples from start = 0.024920052, Slots from samples from start = 7 Slot within frame = 6, Symbol within slot = 0, binary dci is 1100000100000000000000000100011100010000000011000, correlation is 0.30342662
+[c1 00 00 47 10 0c 00 ];
+[info] [15:14:45.670300 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.03192005191743374, Samples from start = 0.024920052, Slots from samples from start = 7 Slot within frame = 6, Symbol within slot = 0, binary dci is 1100000100000000000000000100011100010000000011000, correlation is 0.30342662
+[info] [15:14:45.672590 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 230, SCS: 0 
+[42 5e 3a 56 81 ];
+[info] [15:14:45.677300 thread 23801] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.03200000020861626, Samples from start = 0.024, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001001011110001110100101011010000001, correlation is 0.706209
+[info] [15:14:45.684707 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 232, SCS: 0 
+[info] [15:14:45.694210 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[42 0e 30 26 81 ];
+[info] [15:14:45.718102 thread 23810] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.08799999821186066, Samples from start = 0.08, Slots from samples from start = 8 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000001110001100000010011010000001, correlation is 0.762543
+[info] [15:14:45.739296 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 236, SCS: 0 
+[info] [15:14:45.750484 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 238, SCS: 0 
+[ee da 0a c6 10 00 00 ];
+[info] [15:14:45.761545 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.1499202299118042, Samples from start = 0.14492023, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110111011011010000010101100011000010000000000000, correlation is 0.3660176
+[info] [15:14:45.774732 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 240, SCS: 0 
+[ff ff 0b 0a 10 00 00 ];
+[info] [15:14:45.790790 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.16499999642372132, Samples from start = 0.16, Slots from samples from start = 5 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000010110000101000010000000000000, correlation is 0.48909628
+[42 1e 42 38 81 ];
+[info] [15:14:45.797368 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.16699999642372132, Samples from start = 0.16, Slots from samples from start = 7 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100001000011110010000100011100010000001, correlation is 0.5849824
+[info] [15:14:45.799392 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 242, SCS: 0 
+[ff ff 0b 8c 10 00 00 ];
+[info] [15:14:45.803951 thread 23834] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.1879203109741211, Samples from start = 0.18492031, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000010111000110000010000000000000, correlation is 0.44152606
+[ff ff 0b ce 10 00 00 ];
+[info] [15:14:45.809618 thread 23834] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.1899203109741211, Samples from start = 0.18492031, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000010111100111000010000000000000, correlation is 0.44324774
+[ec 92 09 87 10 00 00 ];
+[info] [15:14:45.829008 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.18700000035762787, Samples from start = 0.184, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110110010010010000010011000011100010000000000000, correlation is 0.4944537
+[42 1e 3e 66 81 ];
+[info] [15:14:45.840509 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.19100000035762787, Samples from start = 0.184, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001000011110001111100110011010000001, correlation is 0.6122188
+[c9 24 08 c1 10 00 00 ];
+[info] [15:14:45.855433 thread 23834] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.20300000298023224, Samples from start = 0.2, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100100100100000010001100000100010000000000000, correlation is 0.50263983
+[ff ff 0b 4e 10 00 00 ];
+[info] [15:14:45.860255 thread 23864] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.14499999380111694, Samples from start = 0.144, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000010110100111000010000000000000, correlation is 0.7248194
+[d0 04 08 c2 10 00 00 ];
+[info] [15:14:45.867362 thread 23873] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.2190000056028366, Samples from start = 0.216, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1101000000000100000010001100001000010000000000000, correlation is 0.54649436
+[ff ec 1a c2 10 00 00 ];
+[info] [15:14:45.888487 thread 23864] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.14599999380111695, Samples from start = 0.144, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111101100000110101100001000010000000000000, correlation is 0.62837005
+[ff ff 0b 08 10 00 00 ];
+[info] [15:14:45.901507 thread 23855] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.126999997317791, Samples from start = 0.12, Slots from samples from start = 7 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000010110000100000010000000000000, correlation is 0.72255516
+[info] [15:14:45.914085 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[info] [15:14:45.923333 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[info] [15:14:45.935908 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[41 e6 3a 26 81 ];
+[info] [15:14:45.954573 thread 23831] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.30892058396339417, Samples from start = 0.30492058, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111100110001110100010011010000001, correlation is 0.23750725
+[info] [15:14:45.957651 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 254, SCS: 0 
+[info] [15:14:45.984091 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[41 c6 3a 3e 81 ];
+[info] [15:14:45.988174 thread 23831] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.32599999284744263, Samples from start = 0.32, Slots from samples from start = 6 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001110100011111010000001, correlation is 0.3390254
+[info] [15:14:46.000458 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 258, SCS: 0 
+[4d 9c 46 7e 81 ];
+[info] [15:14:46.003805 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 0.3489205756187439, Samples from start = 0.34492058, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100110110011100010001100111111010000001, correlation is 0.4598802
+[c0 40 03 86 10 00 00 ];
+[info] [15:14:46.014646 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.3679212718009949, Samples from start = 0.36492127, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000001000000000000111000011000010000000000000, correlation is 0.6413873
+[info] [15:14:46.017151 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 260, SCS: 0 
+[info] [15:14:46.034126 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[fe fe 1a 8d 10 00 00 ];
+[info] [15:14:46.077497 thread 23840] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.41800000858306885, Samples from start = 0.416, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111011111110000110101000110100010000000000000, correlation is 0.38807
+[info] [15:14:46.245239 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 278, SCS: 0 
+[info] [15:14:46.256896 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 280, SCS: 0 
+[c0 40 10 0c 10 0c 00 ];
+[info] [15:14:46.274741 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.5889210619926453, Samples from start = 0.58492106, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000001000000000100000000110000010000000011000, correlation is 0.4467009
+[c9 92 18 0d 10 00 00 ];
+[info] [15:14:46.277515 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.5899210619926453, Samples from start = 0.58492106, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100110010010000110000000110100010000000000000, correlation is 0.35308307
+[d3 24 18 4e 10 00 00 ];
+[info] [15:14:46.281167 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.5909210619926453, Samples from start = 0.58492106, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1101001100100100000110000100111000010000000000000, correlation is 0.45899948
+[c0 01 19 c1 10 00 00 ];
+[info] [15:14:46.292459 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.6000000076293945, Samples from start = 0.592, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000000001000110011100000100010000000000000, correlation is 0.2814005
+[info] [15:14:46.306339 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 284, SCS: 0 
+[d2 45 19 4f 10 00 00 ];
+[info] [15:14:46.308570 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.5980000076293945, Samples from start = 0.592, Slots from samples from start = 6 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001001000101000110010100111100010000000000000, correlation is 0.29314935
+[c0 01 19 c1 10 00 00 ];
+[info] [15:14:46.313973 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.6000000076293945, Samples from start = 0.592, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000000001000110011100000100010000000000000, correlation is 0.2814005
+[info] [15:14:46.315837 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 286, SCS: 0 
+[info] [15:14:46.326851 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 288, SCS: 0 
+[ff ff 0a c7 10 00 00 ];
+[info] [15:14:46.349874 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 0.6409999856948853, Samples from start = 0.64, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000010101100011100010000000000000, correlation is 0.28571507
+[info] [15:14:46.440148 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 296, SCS: 0 
+[info] [15:14:46.448475 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 298, SCS: 0 
+[fd be 0f a3 10 00 00 ];
+[info] [15:14:46.462630 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 0.767922022819519, Samples from start = 0.764922, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111110110111110000011111010001100010000000000000, correlation is 0.34339517
+[info] [15:14:46.788466 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 324, SCS: 0 
+[info] [15:14:46.852839 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 330, SCS: 0 
+[info] [15:14:46.864840 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[c8 00 10 4c 10 0c 00 ];
+[info] [15:14:46.867370 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.0879218368530272, Samples from start = 1.0849218, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100000000000000100000100110000010000000011000, correlation is 0.33837554
+[info] [15:14:46.874108 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [15:14:47.035343 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [15:14:47.046128 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 348, SCS: 0 
+[info] [15:14:48.419599 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 450, SCS: 0 
+[info] [15:14:48.431308 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[42 60 3a 16 81 ];
+[info] [15:14:48.432855 thread 23801] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.287924030303955, Samples from start = 2.284924, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001100000001110100001011010000001, correlation is 0.38750413
+[info] [15:14:48.441092 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[42 56 46 4e 01 ];
+[info] [15:14:48.454405 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.3279239921569825, Samples from start = 2.324924, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001010110010001100100111000000001, correlation is 0.5901725
+[info] [15:14:48.462430 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[info] [15:14:48.479349 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 458, SCS: 0 
+[42 16 4a 2e 81 ];
+[info] [15:14:48.485153 thread 23801] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.311999900817871, Samples from start = 2.304, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000010110010010100010111010000001, correlation is 0.32264063
+[42 0c 46 60 81 ];
+[info] [15:14:48.511008 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.3520001010894775, Samples from start = 2.344, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000001100010001100110000010000001, correlation is 0.7113983
+[info] [15:14:49.600051 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 542, SCS: 0 
+[info] [15:14:49.612548 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 544, SCS: 0 
+[info] [15:14:49.622232 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 546, SCS: 0 
+[info] [15:14:49.836367 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 562, SCS: 0 
+[info] [15:14:49.849487 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[c0 10 01 82 10 0c 00 ];
+[info] [15:14:49.856147 thread 23810] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.4020000953674314, Samples from start = 3.4, Slots from samples from start = 2 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000010000000000011000001000010000000011000, correlation is 0.2044691
+[info] [15:14:49.859545 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 566, SCS: 0 
+[c8 12 0b 86 10 00 00 ];
+[info] [15:14:49.884889 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.435999921798706, Samples from start = 3.432, Slots from samples from start = 4 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100000010010000010111000011000010000000000000, correlation is 0.22995111
+[info] [15:14:49.960582 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 574, SCS: 0 
+[info] [15:14:49.972345 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 576, SCS: 0 
+[info] [15:14:49.983376 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 578, SCS: 0 
+[info] [15:14:50.001386 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 580, SCS: 0 
+[41 c6 3c 4e 81 ];
+[info] [15:14:50.008311 thread 23831] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.562999942779541, Samples from start = 3.56, Slots from samples from start = 3 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001111000100111010000001, correlation is 0.47274777
+[c8 02 08 cd 10 00 00 ];
+[info] [15:14:50.023565 thread 23831] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.567999942779541, Samples from start = 3.56, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100000000010000010001100110100010000000000000, correlation is 0.31774053
+[info] [15:14:50.026439 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 582, SCS: 0 
+[info] [15:14:50.047847 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 584, SCS: 0 
+[info] [15:14:50.062892 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 586, SCS: 0 
+[info] [15:14:50.086404 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 588, SCS: 0 
+[info] [15:14:50.100620 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 590, SCS: 0 
+[c1 20 08 8d 10 00 00 ];
+[info] [15:14:50.143767 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.677999931335449, Samples from start = 3.672, Slots from samples from start = 6 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000100100000000010001000110100010000000000000, correlation is 0.20200257
+[info] [15:14:50.199424 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [15:14:50.212176 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 600, SCS: 0 
+[info] [15:14:50.223034 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 602, SCS: 0 
+[info] [15:14:50.805266 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 642, SCS: 0 
+[info] [15:14:50.925804 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 652, SCS: 0 
+[info] [15:14:51.369110 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 686, SCS: 0 
+[info] [15:14:51.377336 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 688, SCS: 0 
+[info] [15:14:51.387577 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 690, SCS: 0 
+[info] [15:14:51.403579 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 692, SCS: 0 
+[info] [15:14:51.563760 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 704, SCS: 0 
+[info] [15:14:51.575194 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 706, SCS: 0 
+[info] [15:14:51.650158 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 712, SCS: 0 
+[info] [15:14:52.034449 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 742, SCS: 0 
+[info] [15:14:52.046302 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 744, SCS: 0 
+[info] [15:14:52.100147 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 748, SCS: 0 
+[info] [15:14:54.306688 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1020, SCS: 0 
+[info] [15:14:55.021809 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 148, SCS: 0 
+[info] [15:14:55.116965 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 164, SCS: 0 
+[info] [15:14:55.148045 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [15:14:55.300077 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[info] [15:14:55.457990 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 238, SCS: 0 
+[info] [15:14:55.584940 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [15:14:55.609093 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [15:14:55.634320 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 282, SCS: 0 
+[info] [15:14:55.894946 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [15:14:55.915895 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [15:14:55.927978 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[info] [15:14:56.000738 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 358, SCS: 0 
+[info] [15:14:56.055422 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[info] [15:14:56.206705 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[info] [15:14:56.275717 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [15:14:57.001897 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 558, SCS: 0 
+[info] [15:14:57.272636 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 616, SCS: 0 
+[info] [15:14:58.436773 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 858, SCS: 0 
+[info] [15:14:58.507136 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 876, SCS: 0 
+[info] [15:14:58.700993 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 918, SCS: 0 
+[info] [15:14:58.938969 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 986, SCS: 0 
+[info] [15:14:59.043922 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 994, SCS: 0 
+[info] [15:14:59.051752 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 996, SCS: 0 
+[info] [15:14:59.062879 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [15:14:59.205764 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 6, SCS: 0 
+[info] [15:14:59.720123 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [15:15:00.028152 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 198, SCS: 0 
+[info] [15:15:00.037352 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [15:15:00.122528 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 262, SCS: 0 
+[info] [15:15:00.171731 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 266, SCS: 0 
+[info] [15:15:00.181190 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 268, SCS: 0 
+[info] [15:15:00.192880 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 270, SCS: 0 
+[info] [15:15:00.213216 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 272, SCS: 0 
+[info] [15:15:00.235575 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [15:15:00.355974 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 282, SCS: 0 
+[info] [15:15:00.365217 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 284, SCS: 0 
+[info] [15:15:00.377591 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 286, SCS: 0 
+[info] [15:15:00.800542 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 316, SCS: 0 
+[info] [15:15:00.809746 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[info] [15:15:00.822534 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 320, SCS: 0 
+[info] [15:15:01.156637 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 370, SCS: 0 
+[info] [15:15:02.271414 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 628, SCS: 0 
+[info] [15:15:02.337412 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 644, SCS: 0 
+[info] [15:15:02.519791 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 684, SCS: 0 
+[info] [15:15:03.133088 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 822, SCS: 0 
+[info] [15:15:03.142112 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 824, SCS: 0 
+[info] [15:15:03.153385 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 826, SCS: 0 
+[info] [15:15:03.168629 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 828, SCS: 0 
+[e4 00 19 c2 12 00 00 ];
+[info] [15:15:03.184985 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 13.84100015258789, Samples from start = 13.84, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110010000000000000110011100001000010010000000000, correlation is 0.5402382
+[info] [15:15:03.199362 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 830, SCS: 0 
+[info] [15:15:03.219939 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 832, SCS: 0 
+[41 fe 30 36 81 ];
+[info] [15:15:03.221989 thread 23840] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 13.907000282287598, Samples from start = 13.904, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111111110001100000011011010000001, correlation is 0.4254933
+[info] [15:15:03.233227 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 834, SCS: 0 
+[info] [15:15:03.245392 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 836, SCS: 0 
+[info] [15:15:03.367741 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 866, SCS: 0 
+[info] [15:15:03.378847 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [15:15:03.398477 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 874, SCS: 0 
+[41 ee 2e 0e 81 ];
+[info] [15:15:03.411169 thread 23801] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 14.072999549865722, Samples from start = 14.072, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111101110001011100000111010000001, correlation is 0.70452094
+[42 2e 2e 18 81 ];
+[info] [15:15:03.427845 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 14.100999717712403, Samples from start = 14.096, Slots from samples from start = 5 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100001000101110001011100001100010000001, correlation is 0.7012785
+[info] [15:15:03.469065 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 890, SCS: 0 
+[c1 00 00 44 10 0c 00 ];
+[info] [15:15:03.483013 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 14.158635833740234, Samples from start = 14.155636, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000100000000000000000100010000010000000011000, correlation is 0.72725457
+[info] [15:15:03.645909 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 930, SCS: 0 
+[info] [15:15:03.678070 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 940, SCS: 0 
+[info] [15:15:03.958282 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[info] [15:15:04.010736 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 8, SCS: 0 
+[info] [15:15:04.020791 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 10, SCS: 0 
+[info] [15:15:04.032689 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 12, SCS: 0 
+[info] [15:15:04.049610 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 14, SCS: 0 
+[info] [15:15:04.074915 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 16, SCS: 0 
+[e4 98 0a c9 12 00 00 ];
+[info] [15:15:04.084339 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 14.624000175476073, Samples from start = 14.616, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1110010010011000000010101100100100010010000000000, correlation is 0.69494396
+[c9 92 1b 0e 10 00 00 ];
+[info] [15:15:04.085603 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 14.657000137329101, Samples from start = 14.656, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100110010010000110110000111000010000000000000, correlation is 0.53187186
+[info] [15:15:04.095830 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 18, SCS: 0 
+[info] [15:15:04.110234 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 20, SCS: 0 
+[c8 12 0b a7 12 00 00 ];
+[info] [15:15:04.164002 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 14.730999687194824, Samples from start = 14.728, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100000010010000010111010011100010010000000000, correlation is 0.72353345
+[info] [15:15:04.235900 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 46, SCS: 0 
+[info] [15:15:04.273973 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 56, SCS: 0 
+[c0 02 00 06 12 0c 00 ];
+[info] [15:15:04.293029 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 14.856999946594238, Samples from start = 14.856, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000000010000000000000011000010010000011000, correlation is 0.7652794
+[info] [15:15:04.308701 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 68, SCS: 0 
+[info] [15:15:04.356148 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 80, SCS: 0 
+[info] [15:15:04.463445 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [15:15:04.517097 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [15:15:04.603400 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 140, SCS: 0 
+[info] [15:15:04.666719 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 154, SCS: 0 
+[info] [15:15:05.041743 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[info] [15:15:05.085399 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[info] [15:15:05.124667 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[info] [15:15:05.150962 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 264, SCS: 0 
+[info] [15:15:05.178459 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[info] [15:15:05.262910 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 290, SCS: 0 
+[info] [15:15:05.294500 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 310, SCS: 0 
+[info] [15:15:05.306614 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 312, SCS: 0 
+[info] [15:15:05.319169 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 314, SCS: 0 
+[info] [15:15:05.346277 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 316, SCS: 0 
+[info] [15:15:05.363155 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[41 ee 36 7e 81 ];
+[info] [15:15:05.391330 thread 23822] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 15.791000396728515, Samples from start = 15.784, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111101110001101100111111010000001, correlation is 0.6202899
+[info] [15:15:05.458227 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[info] [15:15:05.540076 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 362, SCS: 0 
+[info] [15:15:05.595572 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 376, SCS: 0 
+[info] [15:15:06.117663 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 486, SCS: 0 
+[info] [15:15:06.179860 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 502, SCS: 0 
+[info] [15:15:06.234547 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 516, SCS: 0 
+[info] [15:15:06.306038 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 532, SCS: 0 
+[info] [15:15:06.331786 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 538, SCS: 0 
+[info] [15:15:06.429435 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 560, SCS: 0 
+[info] [15:15:06.451559 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 568, SCS: 0 
+[info] [15:15:06.545543 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 594, SCS: 0 
+[info] [15:15:06.554151 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 596, SCS: 0 
+[d2 04 0b ca 10 00 00 ];
+[info] [15:15:06.603341 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 16.764000228881837, Samples from start = 16.76, Slots from samples from start = 4 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101001000000100000010111100101000010000000000000, correlation is 0.6749338
+[info] [15:15:07.114524 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 756, SCS: 0 
+[info] [15:15:07.371579 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 776, SCS: 0 
+[info] [15:15:07.383990 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [15:15:07.394478 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 780, SCS: 0 
+[info] [15:15:07.411139 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[f2 48 0a 8c 10 00 00 ];
+[info] [15:15:07.416280 thread 23828] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 17.411000946044922, Samples from start = 17.408, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111001001001000000010101000110000010000000000000, correlation is 0.28540283
+[info] [15:15:07.433123 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 784, SCS: 0 
+[info] [15:15:07.452743 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 786, SCS: 0 
+[info] [15:15:07.471564 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 788, SCS: 0 
+[info] [15:15:07.490978 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [15:15:07.607023 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 820, SCS: 0 
+[info] [15:15:07.666785 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 828, SCS: 0 
+[info] [15:15:07.784100 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 844, SCS: 0 
+[info] [15:15:07.857863 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 856, SCS: 0 
+[info] [15:15:07.944984 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 874, SCS: 0 
+[info] [15:15:07.999264 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 888, SCS: 0 
+[info] [15:15:08.056573 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 902, SCS: 0 
+[info] [15:15:08.126418 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 916, SCS: 0 
+[info] [15:15:08.223687 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 
+[info] [15:15:08.282317 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 954, SCS: 0 
+[info] [15:15:08.293853 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 958, SCS: 0 
+[info] [15:15:08.318253 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 966, SCS: 0 
+[info] [15:15:08.459651 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 994, SCS: 0 
+[info] [15:15:08.507586 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1006, SCS: 0 
+[info] [15:15:08.550828 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1016, SCS: 0 
+[info] [15:15:08.619827 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 78, SCS: 0 
+[info] [15:15:08.631426 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 80, SCS: 0 
+[info] [15:15:08.701856 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 86, SCS: 0 
+[info] [15:15:08.714364 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 88, SCS: 0 
+[info] [15:15:08.724164 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 90, SCS: 0 
+[info] [15:15:08.741529 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 92, SCS: 0 
+[info] [15:15:08.758662 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 94, SCS: 0 
+[info] [15:15:08.782385 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 96, SCS: 0 
+[info] [15:15:08.797122 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 98, SCS: 0 
+[info] [15:15:08.813259 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [15:15:08.828723 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [15:15:08.856720 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[e0 00 00 45 10 0c 00 ];
+[info] [15:15:08.874432 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 18.748529174804688, Samples from start = 18.74553, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110000000000000000000000100010100010000000011000, correlation is 0.29594514
+[info] [15:15:08.876597 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [15:15:08.895826 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [15:15:08.908933 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[c0 02 00 0a 10 0c 00 ];
+[info] [15:15:08.912391 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 18.78853009033203, Samples from start = 18.78553, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000000010000000000000101000010000000011000, correlation is 0.51996607
+[c0 04 01 8b 10 0c 00 ];
+[info] [15:15:08.915614 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 18.789530090332033, Samples from start = 18.78553, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000100000000011000101100010000000011000, correlation is 0.45569116
+[info] [15:15:08.932233 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[c9 b2 0b 8e 10 00 00 ];
+[info] [15:15:08.966795 thread 23834] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 18.827999404907228, Samples from start = 18.824, Slots from samples from start = 4 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100110110010000010111000111000010000000000000, correlation is 0.3212006
+[info] [15:15:08.979589 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 116, SCS: 0 
+[info] [15:15:08.992411 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 118, SCS: 0 
+[c0 08 00 05 10 0c 00 ];
+[info] [15:15:09.002577 thread 23810] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 18.872999740600587, Samples from start = 18.872, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000001000000000000000010100010000000011000, correlation is 0.39943328
+[info] [15:15:09.003170 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [15:15:09.019846 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 122, SCS: 0 
+[info] [15:15:09.041577 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 124, SCS: 0 
+[info] [15:15:09.063151 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 126, SCS: 0 
+[info] [15:15:09.122693 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 136, SCS: 0 
+[info] [15:15:09.166325 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [15:15:09.178474 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 172, SCS: 0 
+[info] [15:15:09.188325 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [15:15:09.207094 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 176, SCS: 0 
+[info] [15:15:09.271109 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 180, SCS: 0 
+[info] [15:15:09.354127 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [15:15:09.424931 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[info] [15:15:09.484706 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[info] [15:15:09.571079 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[info] [15:15:09.595234 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 260, SCS: 0 
+[info] [15:15:09.623729 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 268, SCS: 0 
+[info] [15:15:09.733599 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 292, SCS: 0 
+[info] [15:15:09.815964 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 308, SCS: 0 
+[info] [15:15:10.121108 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 372, SCS: 0 
+[info] [15:15:10.170570 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[info] [15:15:10.253520 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[info] [15:15:10.361135 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 424, SCS: 0 
+[info] [15:15:10.707626 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 496, SCS: 0 
+[info] [15:15:10.732264 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 504, SCS: 0 
+[info] [15:15:10.974790 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 554, SCS: 0 
+[info] [15:15:11.008632 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 564, SCS: 0 
+[info] [15:15:11.317562 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 628, SCS: 0 
+[info] [15:15:16.321356 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 584, SCS: 0 
+[info] [15:15:16.746731 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 684, SCS: 0 
+[info] [15:15:16.756429 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 686, SCS: 0 
+[info] [15:15:16.769421 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 688, SCS: 0 
+[info] [15:15:16.781932 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 690, SCS: 0 
+[info] [15:15:18.686794 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 38, SCS: 0 
+[info] [15:15:20.052330 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[info] [15:15:20.475339 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [15:15:20.484683 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[info] [15:15:20.496011 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[info] [15:15:20.506120 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 440, SCS: 0 
+[info] [15:15:20.537026 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 442, SCS: 0 
+[info] [15:15:20.555852 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[info] [15:15:20.576784 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 446, SCS: 0 
+[info] [15:15:20.596002 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 448, SCS: 0 
+[info] [15:15:20.614189 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 450, SCS: 0 
+[info] [15:15:20.628912 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[info] [15:15:20.648693 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[info] [15:15:20.668044 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[info] [15:15:20.685848 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 458, SCS: 0 
+[e0 00 00 08 10 0c 00 ];
+[info] [15:15:20.694097 thread 23825] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 27.885999160766602, Samples from start = 27.88, Slots from samples from start = 6 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110000000000000000000000000100000010000000011000, correlation is 0.5440783
+[info] [15:15:20.705920 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 460, SCS: 0 
+[info] [15:15:20.724476 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[info] [15:15:20.742939 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[info] [15:15:20.940837 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 480, SCS: 0 
+[info] [15:15:21.026686 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 488, SCS: 0 
+[info] [15:15:21.034956 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[info] [15:15:21.046022 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 492, SCS: 0 
+[info] [15:15:21.056431 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 494, SCS: 0 
+[info] [15:15:21.345088 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 516, SCS: 0 
+[info] [15:15:21.352919 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 518, SCS: 0 
+[info] [15:15:21.365396 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 520, SCS: 0 
+[info] [15:15:21.382966 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 522, SCS: 0 
+[41 de 48 3e 81 ];
+[info] [15:15:21.398908 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 28.479000122070314, Samples from start = 28.472, Slots from samples from start = 7 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100000111011110010010000011111010000001, correlation is 0.5690448
+[info] [15:15:22.022225 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 570, SCS: 0 
+[e4 c8 07 00 10 00 00 ];
+[info] [15:15:22.051725 thread 23804] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.008, Samples from start = 29, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110010011001000000001110000000000010000000000000, correlation is 0.2081762
+[e4 c8 07 00 10 00 00 ];
+[info] [15:15:22.069228 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.008, Samples from start = 29, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110010011001000000001110000000000010000000000000, correlation is 0.2081762
+[info] [15:15:22.117225 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 578, SCS: 0 
+[info] [15:15:22.126744 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 580, SCS: 0 
+[41 c6 3a 1e 81 ];
+[info] [15:15:22.130722 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 40, Time = 29.076639465332033, Samples from start = 29.07264, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001110100001111010000001, correlation is 0.60970885
+[d2 4c 07 4d 10 00 00 ];
+[info] [15:15:22.135059 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.09563801574707, Samples from start = 29.092638, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1101001001001100000001110100110100010000000000000, correlation is 0.531398
+[info] [15:15:22.138020 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 582, SCS: 0 
+[c1 fe 37 8f 10 00 00 ];
+[info] [15:15:22.149597 thread 23825] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.113638473510743, Samples from start = 29.112638, Slots from samples from start = 1 Slot within frame = 0, Symbol within slot = 0, binary dci is 1100000111111110001101111000111100010000000000000, correlation is 0.51463526
+[info] [15:15:22.150182 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 584, SCS: 0 
+[c1 fe 37 8f 10 00 00 ];
+[info] [15:15:22.150606 thread 23828] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.113638473510743, Samples from start = 29.112638, Slots from samples from start = 1 Slot within frame = 0, Symbol within slot = 0, binary dci is 1100000111111110001101111000111100010000000000000, correlation is 0.51463526
+[c1 24 06 0e 10 00 00 ];
+[info] [15:15:22.156858 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.11699951171875, Samples from start = 29.112, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000100100100000001100000111000010000000000000, correlation is 0.46869847
+[c0 40 10 0b 10 0c 00 ];
+[info] [15:15:22.159183 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.09399934387207, Samples from start = 29.088, Slots from samples from start = 6 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000001000000000100000000101100010000000011000, correlation is 0.5871081
+[c0 92 06 4c 10 00 00 ];
+[info] [15:15:22.163568 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.09499934387207, Samples from start = 29.088, Slots from samples from start = 7 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000010010010000001100100110000010000000000000, correlation is 0.51944053
+[info] [15:15:22.175198 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 586, SCS: 0 
+[info] [15:15:22.190752 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 588, SCS: 0 
+[e6 48 07 01 10 00 00 ];
+[info] [15:15:22.191751 thread 23825] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.136000259399413, Samples from start = 29.128, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110011001001000000001110000000100010000000000000, correlation is 0.60330707
+[e4 08 06 07 10 00 00 ];
+[info] [15:15:22.208862 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.168999267578126, Samples from start = 29.168, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110010000001000000001100000011100010000000000000, correlation is 0.39513344
+[e6 48 07 01 10 00 00 ];
+[info] [15:15:22.212916 thread 23828] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.136000259399413, Samples from start = 29.128, Slots from samples from start = 8 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110011001001000000001110000000100010000000000000, correlation is 0.60330707
+[e0 48 06 06 10 00 00 ];
+[info] [15:15:22.214335 thread 23840] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.159000427246095, Samples from start = 29.152, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110000001001000000001100000011000010000000000000, correlation is 0.43487647
+[info] [15:15:22.216034 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 590, SCS: 0 
+[c0 80 00 08 10 0c 00 ];
+[info] [15:15:22.218077 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.172999267578124, Samples from start = 29.168, Slots from samples from start = 5 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000010000000000000000000100000010000000011000, correlation is 0.36486194
+[c1 24 16 89 10 00 00 ];
+[info] [15:15:22.220396 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 29.173999267578125, Samples from start = 29.168, Slots from samples from start = 6 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000100100100000101101000100100010000000000000, correlation is 0.35656875
+[info] [15:15:22.233498 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 592, SCS: 0 
+[info] [15:15:22.258526 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 594, SCS: 0 
+[info] [15:15:22.270280 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 596, SCS: 0 
+[info] [15:15:22.290078 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 598, SCS: 0 
+[info] [15:15:22.304096 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 600, SCS: 0 
+[info] [15:15:22.325722 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 602, SCS: 0 
+[info] [15:15:22.336196 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 604, SCS: 0 
+[info] [15:15:22.364115 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 606, SCS: 0 
+[info] [15:15:22.384326 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 608, SCS: 0 
+[info] [15:15:22.533086 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 620, SCS: 0 
+[info] [15:15:22.544091 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 622, SCS: 0 
+[42 1e 30 1e 81 ];
+[info] [15:15:22.582405 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 29.512999130249025, Samples from start = 29.512, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100001000011110001100000001111010000001, correlation is 0.5634885
+[info] [15:15:22.721604 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 636, SCS: 0 
+[info] [15:15:22.860690 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 648, SCS: 0 
+[info] [15:15:23.018638 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 660, SCS: 0 
+[info] [15:15:23.031045 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 662, SCS: 0 
+[info] [15:15:23.040622 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 664, SCS: 0 
+[info] [15:15:23.057160 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 666, SCS: 0 
+[info] [15:15:23.075691 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 668, SCS: 0 
+[info] [15:15:24.164396 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 750, SCS: 0 
+[info] [15:15:24.239986 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[41 c6 3c 6e 81 ];
+[info] [15:15:24.257465 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 30.84300015258789, Samples from start = 30.84, Slots from samples from start = 3 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001111000110111010000001, correlation is 0.59115285
+[info] [15:15:24.673502 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [15:15:24.685044 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [15:15:24.725417 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 798, SCS: 0 
+[42 46 3a 36 81 ];
+[info] [15:15:24.739497 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 31.232519439697267, Samples from start = 31.22852, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001001000110001110100011011010000001, correlation is 0.7387676
+[info] [15:15:24.852284 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 808, SCS: 0 
+[info] [15:15:24.860133 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 810, SCS: 0 
+[42 0e 3c 4e 81 ];
+[info] [15:15:24.868690 thread 23801] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 31.33351982116699, Samples from start = 31.32852, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000001110001111000100111010000001, correlation is 0.6483323
+[info] [15:15:24.870624 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 812, SCS: 0 
+[info] [15:15:24.880745 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 814, SCS: 0 
+[info] [15:15:24.917758 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 816, SCS: 0 
+[info] [15:15:24.932444 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 818, SCS: 0 
+[c9 12 08 82 10 00 00 ];
+[info] [15:15:24.937289 thread 23813] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 31.37500003051758, Samples from start = 31.368, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100100010010000010001000001000010000000000000, correlation is 0.349783
+[info] [15:15:24.950023 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 820, SCS: 0 
+[info] [15:15:24.961446 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 822, SCS: 0 
+[info] [15:15:24.982055 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 824, SCS: 0 
+[c0 90 08 c1 10 00 00 ];
+[info] [15:15:25.025932 thread 23840] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 31.495000869750978, Samples from start = 31.488, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000010010000000010001100000100010000000000000, correlation is 0.45019123
+[info] [15:15:25.190686 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 840, SCS: 0 
+[info] [15:15:25.199493 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 842, SCS: 0 
+[info] [15:15:25.832401 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 890, SCS: 0 
+[info] [15:15:25.840846 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 892, SCS: 0 
+[info] [15:15:28.007919 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 40, SCS: 0 
+[info] [15:15:29.459913 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 150, SCS: 0 
+[info] [15:15:29.472128 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 152, SCS: 0 
+[info] [15:15:29.483683 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 154, SCS: 0 
+[info] [15:15:29.500859 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 156, SCS: 0 
+[41 ce 38 26 81 ];
+[info] [15:15:29.514414 thread 23834] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 34.9199987487793, Samples from start = 34.912, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111001110001110000010011010000001, correlation is 0.205281
+[info] [15:15:29.518925 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 158, SCS: 0 
+[info] [15:15:29.538712 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 160, SCS: 0 
+[info] [15:15:33.638823 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [15:15:36.699644 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 702, SCS: 0 
+[info] [15:15:36.709053 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 704, SCS: 0 
+[c9 24 08 80 10 00 00 ];
+[info] [15:15:36.771328 thread 23816] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 40.36000119018555, Samples from start = 40.352, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100100100100100000010001000000000010000000000000, correlation is 0.6967411
+[info] [15:15:36.837721 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 714, SCS: 0 
+[info] [15:15:36.847234 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [15:15:36.858764 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 718, SCS: 0 
+[info] [15:15:36.868870 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 720, SCS: 0 
+[info] [15:15:36.973331 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 728, SCS: 0 
+[info] [15:15:37.007192 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 732, SCS: 0 
+[info] [15:15:37.018012 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 734, SCS: 0 
+[info] [15:15:37.027707 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 736, SCS: 0 
+[info] [15:15:37.040500 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 738, SCS: 0 
+[info] [15:15:37.053767 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 740, SCS: 0 
+[info] [15:15:37.223416 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 752, SCS: 0 
+[info] [15:15:37.234950 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 754, SCS: 0 
+[info] [15:15:37.244106 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 756, SCS: 0 
+[info] [15:15:37.261370 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 758, SCS: 0 
+[info] [15:15:37.286796 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 760, SCS: 0 
+[c4 90 07 0c 10 00 00 ];
+[info] [15:15:37.294518 thread 23810] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 40.84800015258789, Samples from start = 40.84, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100010010010000000001110000110000010000000000000, correlation is 0.5341579
+[info] [15:15:37.304060 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 762, SCS: 0 
+[info] [15:15:37.319541 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 764, SCS: 0 
+[info] [15:15:37.429002 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 772, SCS: 0 
+[info] [15:15:37.439891 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 774, SCS: 0 
+[info] [15:15:37.447924 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 776, SCS: 0 
+[info] [15:15:37.464582 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 778, SCS: 0 
+[info] [15:15:37.492505 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 780, SCS: 0 
+[info] [15:15:37.514246 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 782, SCS: 0 
+[info] [15:15:37.529590 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 784, SCS: 0 
+[info] [15:15:37.544405 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 786, SCS: 0 
+[info] [15:15:37.561701 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 788, SCS: 0 
+[info] [15:15:37.590548 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 790, SCS: 0 
+[info] [15:15:37.599959 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 792, SCS: 0 
+[info] [15:15:37.619964 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 794, SCS: 0 
+[info] [15:15:38.322764 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 846, SCS: 0 
+[info] [15:15:38.330717 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 848, SCS: 0 
+[info] [15:15:38.341831 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[info] [15:15:38.362612 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 852, SCS: 0 
+[d2 44 08 c0 10 00 00 ];
+[info] [15:15:38.385920 thread 23819] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 41.80199923706055, Samples from start = 41.8, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001001000100000010001100000000010000000000000, correlation is 0.57011604
+[c4 92 08 83 10 00 00 ];
+[info] [15:15:38.389652 thread 23831] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 41.82300189208984, Samples from start = 41.816, Slots from samples from start = 7 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100010010010010000010001000001100010000000000000, correlation is 0.71304536
+[info] [15:15:38.394051 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 854, SCS: 0 
+[d1 24 08 86 10 00 00 ];
+[info] [15:15:38.432851 thread 23840] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 41.84700015258789, Samples from start = 41.84, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101000100100100000010001000011000010000000000000, correlation is 0.6925009
+[info] [15:15:38.671992 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 874, SCS: 0 
+[info] [15:15:38.681845 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 876, SCS: 0 
+[info] [15:15:38.692940 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 878, SCS: 0 
+[d9 26 08 83 10 00 00 ];
+[info] [15:15:38.738971 thread 23807] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 42.087001831054685, Samples from start = 42.08, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101100100100110000010001000001100010000000000000, correlation is 0.34737396
+[info] [15:15:41.967852 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 100, SCS: 0 
+[info] [15:15:41.977248 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 102, SCS: 0 
+[info] [15:15:41.988679 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[info] [15:15:42.008381 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 106, SCS: 0 
+[info] [15:15:42.029487 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 108, SCS: 0 
+[info] [15:15:42.045909 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 110, SCS: 0 
+[info] [15:15:42.067216 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 112, SCS: 0 
+[info] [15:15:42.085300 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 114, SCS: 0 
+[info] [15:15:42.103234 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 116, SCS: 0 
+[info] [15:15:42.123959 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 118, SCS: 0 
+[info] [15:15:42.143622 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[info] [15:15:42.189791 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 124, SCS: 0 
+[info] [15:15:42.201898 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 126, SCS: 0 
+[info] [15:15:42.211684 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 128, SCS: 0 
+[info] [15:15:42.315526 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 136, SCS: 0 
+[info] [15:15:42.324091 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 138, SCS: 0 
+[info] [15:15:42.334729 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 140, SCS: 0 
+[info] [15:15:42.345234 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 142, SCS: 0 
+[info] [15:15:42.678911 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 166, SCS: 0 
+[info] [15:15:42.690907 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 168, SCS: 0 
+[info] [15:15:42.699483 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 170, SCS: 0 
+[info] [15:15:42.713013 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 172, SCS: 0 
+[info] [15:15:42.738390 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 174, SCS: 0 
+[info] [15:15:42.917399 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 188, SCS: 0 
+[info] [15:15:42.930591 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 190, SCS: 0 
+[info] [15:15:43.138954 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 206, SCS: 0 
+[info] [15:15:43.148375 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 208, SCS: 0 
+[info] [15:15:43.303085 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 220, SCS: 0 
+[info] [15:15:43.313966 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[info] [15:15:43.397662 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[info] [15:15:43.529146 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 236, SCS: 0 
+[info] [15:15:43.626445 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[info] [15:15:43.639158 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 246, SCS: 0 
+[info] [15:15:43.647993 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[info] [15:15:43.669684 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[info] [15:15:46.094386 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[info] [15:15:46.104301 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[info] [15:15:47.508187 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 542, SCS: 0 
+[info] [15:15:47.515992 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 544, SCS: 0 
+[info] [15:15:49.766253 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 716, SCS: 0 
+[info] [15:15:49.779001 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 718, SCS: 0 
+[info] [15:15:50.113374 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 744, SCS: 0 
+[info] [15:15:50.125537 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 746, SCS: 0 
+[info] [15:15:51.502142 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 850, SCS: 0 
+[info] [15:15:51.725274 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 868, SCS: 0 
+[info] [15:15:51.735225 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 870, SCS: 0 
+[info] [15:15:51.746797 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 872, SCS: 0 
+[info] [15:15:52.602888 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 936, SCS: 0 
+[info] [15:15:52.610615 thread 23798] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 938, SCS: 0 

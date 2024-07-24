@@ -1,0 +1,1282 @@
+[2024-07-24 14:49:25.707] [info] [main.cc:48] === This is a debug mode build ===
+[info] [14:49:25.707816 thread 18088] [config.h:77] Loading configuration file ./config.toml
+[info] [14:49:27.946753 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 964, SCS: 0 
+[42 46 4a 3e 81 ];
+[info] [14:49:28.024014 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.0292105464935302, Samples from start = 1.0262105, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001000110010010100011111010000001, correlation is 0.5751296
+[d2 04 16 c0 10 00 00 ];
+[info] [14:49:28.030880 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.0302105464935303, Samples from start = 1.0262105, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001000000100000101101100000000010000000000000, correlation is 0.6405402
+[info] [14:49:28.056297 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 968, SCS: 0 
+[41 be 4a 7e 81 ];
+[info] [14:49:28.069798 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.069210627555847, Samples from start = 1.0662106, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000110111110010010100111111010000001, correlation is 0.372627
+[info] [14:49:28.266916 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 984, SCS: 0 
+[42 3e 38 0e 01 ];
+[info] [14:49:28.278183 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.229210832595825, Samples from start = 1.2262108, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110001110000000111000000001, correlation is 0.63177997
+[info] [14:49:28.423252 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 996, SCS: 0 
+[info] [14:49:28.432018 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 998, SCS: 0 
+[42 3e 3a 46 81 ];
+[info] [14:49:28.436227 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.3492110757827758, Samples from start = 1.3462111, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110001110100100011010000001, correlation is 0.6707242
+[info] [14:49:28.443993 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1000, SCS: 0 
+[info] [14:49:28.454136 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1002, SCS: 0 
+[41 fe 3a 7e 81 ];
+[info] [14:49:28.485508 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.3949999599456786, Samples from start = 1.392, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111111110001110100111111010000001, correlation is 0.39604723
+[42 3e 3e 5e 81 ];
+[info] [14:49:28.488063 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.3650000143051146, Samples from start = 1.36, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000111110001111100101111010000001, correlation is 0.4520124
+[c9 93 17 87 10 00 00 ];
+[info] [14:49:28.488437 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.3650000143051146, Samples from start = 1.36, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100110010011000101111000011100010000000000000, correlation is 0.47744152
+[c9 20 06 04 10 00 00 ];
+[info] [14:49:28.500137 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.4180000085830688, Samples from start = 1.416, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100100100100000000001100000010000010000000000000, correlation is 0.71464914
+[42 0e 38 1e 81 ];
+[info] [14:49:28.533880 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.404999976158142, Samples from start = 1.4, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000001110001110000001111010000001, correlation is 0.45724073
+[c1 24 16 c6 10 00 00 ];
+[info] [14:49:28.536820 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.4200000085830689, Samples from start = 1.416, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000100100100000101101100011000010000000000000, correlation is 0.46205282
+[c2 48 06 47 10 00 00 ];
+[info] [14:49:28.539207 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.4210000085830687, Samples from start = 1.416, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100001001001000000001100100011100010000000000000, correlation is 0.33138034
+[info] [14:49:28.596968 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1012, SCS: 0 
+[info] [14:49:28.606943 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1014, SCS: 0 
+[c0 48 07 c0 10 00 00 ];
+[info] [14:49:28.610611 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.5092112808227538, Samples from start = 1.5062113, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000001001000000001111100000000010000000000000, correlation is 0.5404757
+[info] [14:49:28.619609 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1016, SCS: 0 
+[info] [14:49:28.634744 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1018, SCS: 0 
+[41 be 46 66 81 ];
+[info] [14:49:28.634956 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.5492114810943602, Samples from start = 1.5462115, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000110111110010001100110011010000001, correlation is 0.73480314
+[c2 40 08 c7 10 00 00 ];
+[info] [14:49:28.639640 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.5512114810943602, Samples from start = 1.5462115, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100001001000000000010001100011100010000000000000, correlation is 0.5207176
+[41 ec 42 4e 81 ];
+[info] [14:49:28.649707 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.5480000295639038, Samples from start = 1.544, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111101100010000100100111010000001, correlation is 0.6782371
+[c0 90 08 84 10 00 00 ];
+[info] [14:49:28.653570 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.5440000133514404, Samples from start = 1.536, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000010010000000010001000010000010000000000000, correlation is 0.44789568
+[c0 02 00 48 10 0c 00 ];
+[info] [14:49:28.664485 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.563999942779541, Samples from start = 1.56, Slots from samples from start = 4 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000000010000000000100100000010000000011000, correlation is 0.7011836
+[info] [14:49:28.668459 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1020, SCS: 0 
+[d0 00 00 45 10 0c 00 ];
+[info] [14:49:28.680392 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.5490000295639037, Samples from start = 1.544, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1101000000000000000000000100010100010000000011000, correlation is 0.68000484
+[info] [14:49:28.681993 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 1022, SCS: 0 
+[42 5e 52 58 81 ];
+[info] [14:49:28.700083 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.5450000295639037, Samples from start = 1.544, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001001011110010100100101100010000001, correlation is 0.55531514
+[c8 00 12 4b 10 0c 00 ];
+[info] [14:49:28.706638 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 0, SCS: 0 
+[info] [14:49:28.707101 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.586999991416931, Samples from start = 1.584, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100000000000000100100100101100010000000011000, correlation is 0.12237991
+[42 46 40 16 81 ];
+[info] [14:49:28.707753 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.588999991416931, Samples from start = 1.584, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001000110010000000001011010000001, correlation is 0.13427204
+[42 3e 44 38 81 ];
+[info] [14:49:28.719647 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.629211404800415, Samples from start = 1.6262114, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110010001000011100010000001, correlation is 0.39277476
+[info] [14:49:28.725513 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 2, SCS: 0 
+[41 e6 40 2e 01 ];
+[info] [14:49:28.735991 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.6279999532699585, Samples from start = 1.624, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111100110010000000010111000000001, correlation is 0.33045724
+[42 3e 40 36 81 ];
+[info] [14:49:28.739254 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.6289999532699584, Samples from start = 1.624, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000111110010000000011011010000001, correlation is 0.5112352
+[c2 48 06 4f 10 00 00 ];
+[info] [14:49:28.744297 thread 18137] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.6160000400543213, Samples from start = 1.608, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100001001001000000001100100111100010000000000000, correlation is 0.5440441
+[c9 02 16 80 10 00 00 ];
+[info] [14:49:28.769420 thread 18137] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.6289999532699584, Samples from start = 1.624, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100100000010000101101000000000010000000000000, correlation is 0.4544805
+[c0 01 11 87 10 0c 00 ];
+[info] [14:49:28.769890 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.6409999856948851, Samples from start = 1.64, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000000001000100011000011100010000000011000, correlation is 0.634086
+[c9 26 07 0b 10 00 00 ];
+[info] [14:49:28.774736 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 1.6560000019073486, Samples from start = 1.648, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100100100100110000001110000101100010000000000000, correlation is 0.6290049
+[info] [14:49:29.026008 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 24, SCS: 0 
+[42 3e 34 56 81 ];
+[info] [14:49:29.038255 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 1.8692120103836058, Samples from start = 1.866212, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110001101000101011010000001, correlation is 0.6501775
+[info] [14:49:29.236275 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 40, SCS: 0 
+[41 fe 40 56 81 ];
+[info] [14:49:29.248963 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.029212215423584, Samples from start = 2.0262122, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111111110010000000101011010000001, correlation is 0.37967047
+[info] [14:49:29.651656 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 72, SCS: 0 
+[info] [14:49:30.069150 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 104, SCS: 0 
+[41 be 44 6e 81 ];
+[info] [14:49:30.083143 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.6692132740020753, Samples from start = 2.6662133, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000110111110010001000110111010000001, correlation is 0.6261226
+[info] [14:49:30.274052 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 120, SCS: 0 
+[41 ce 3e 0e 81 ];
+[info] [14:49:30.284953 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 2.829213598251343, Samples from start = 2.8262136, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111001110001111100000111010000001, correlation is 0.39852858
+[d2 04 16 87 10 00 00 ];
+[info] [14:49:30.311269 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 2.8400000171661377, Samples from start = 2.832, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001000000100000101101000011100010000000000000, correlation is 0.6742287
+[info] [14:49:31.322601 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 200, SCS: 0 
+[info] [14:49:31.333486 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 202, SCS: 0 
+[info] [14:49:31.343224 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 204, SCS: 0 
+[c9 20 07 0f 10 00 00 ];
+[info] [14:49:31.344639 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.6329999694824218, Samples from start = 3.632, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100100100000000001110000111100010000000000000, correlation is 0.44720966
+[41 be 46 28 81 ];
+[info] [14:49:31.344832 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.6329999694824218, Samples from start = 3.632, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000110111110010001100010100010000001, correlation is 0.38185957
+[42 4e 4a 46 81 ];
+[info] [14:49:31.350710 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.646651319503784, Samples from start = 3.6426513, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001001001110010010100100011010000001, correlation is 0.5053511
+[42 2e 4e 5e 81 ];
+[info] [14:49:31.365852 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.6650000343322753, Samples from start = 3.664, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000101110010011100101111010000001, correlation is 0.4531531
+[c9 22 19 c6 10 00 00 ];
+[info] [14:49:31.367256 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.6670000343322755, Samples from start = 3.664, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100100100010000110011100011000010000000000000, correlation is 0.38611
+[c0 48 19 82 10 00 00 ];
+[info] [14:49:31.370785 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.6589998989105226, Samples from start = 3.656, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000001001000000110011000001000010000000000000, correlation is 0.36338022
+[42 3e 4a 3e 81 ];
+[info] [14:49:31.381502 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.6410001049041747, Samples from start = 3.64, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000111110010010100011111010000001, correlation is 0.17732108
+[c0 41 1a 83 10 00 00 ];
+[info] [14:49:31.383531 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.6639998989105225, Samples from start = 3.656, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000001000001000110101000001100010000000000000, correlation is 0.29015628
+[e6 c8 08 c0 10 00 00 ];
+[info] [14:49:31.387096 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.644000104904175, Samples from start = 3.64, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110011011001000000010001100000000010000000000000, correlation is 0.41337922
+[42 16 4e 50 81 ];
+[info] [14:49:31.395877 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.6569998989105224, Samples from start = 3.656, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000010110010011100101000010000001, correlation is 0.39047292
+[info] [14:49:31.500205 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 216, SCS: 0 
+[info] [14:49:31.511977 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 218, SCS: 0 
+[42 3e 48 7e 01 ];
+[info] [14:49:31.520679 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.7930000553131102, Samples from start = 3.792, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100001000111110010010000111111000000001, correlation is 0.251106
+[c9 32 18 0d 10 00 00 ];
+[info] [14:49:31.525250 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.7950000553131105, Samples from start = 3.792, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100100110010000110000000110100010000000000000, correlation is 0.32424375
+[c8 00 10 0f 10 0c 00 ];
+[info] [14:49:31.531773 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.8076514053344725, Samples from start = 3.8026514, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100000000000000100000000111100010000000011000, correlation is 0.45214567
+[info] [14:49:31.559573 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 222, SCS: 0 
+[c8 92 19 c0 10 00 00 ];
+[info] [14:49:31.561086 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.816000087738037, Samples from start = 3.808, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100100010010010000110011100000000010000000000000, correlation is 0.31774336
+[info] [14:49:31.569100 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 224, SCS: 0 
+[41 e6 4b 3e 01 ];
+[info] [14:49:31.575997 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.846651844024658, Samples from start = 3.8426518, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111100110010010110011111000000001, correlation is 0.2779535
+[info] [14:49:31.581154 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 226, SCS: 0 
+[41 be 3e 56 81 ];
+[info] [14:49:31.587698 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.872999979019165, Samples from start = 3.872, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000110111110001111100101011010000001, correlation is 0.24417116
+[c0 40 10 4b 10 0c 00 ];
+[info] [14:49:31.591959 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.874999979019165, Samples from start = 3.872, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000001000000000100000100101100010000000011000, correlation is 0.27674264
+[info] [14:49:31.593867 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 228, SCS: 0 
+[c0 01 19 c2 10 00 00 ];
+[info] [14:49:31.623022 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9080000438690186, Samples from start = 3.904, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000000001000110011100001000010000000000000, correlation is 0.40512595
+[info] [14:49:31.630392 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 230, SCS: 0 
+[e4 09 1a 81 10 00 00 ];
+[info] [14:49:31.636193 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9070000438690187, Samples from start = 3.904, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110010000001001000110101000000100010000000000000, correlation is 0.2828665
+[info] [14:49:31.639884 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 232, SCS: 0 
+[41 fe 3e 76 81 ];
+[info] [14:49:31.644333 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.8969999084472655, Samples from start = 3.896, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100000111111110001111100111011010000001, correlation is 0.30837992
+[d0 04 08 80 10 00 00 ];
+[info] [14:49:31.658219 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9019999084472654, Samples from start = 3.896, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 0, binary dci is 1101000000000100000010001000000000010000000000000, correlation is 0.24610598
+[info] [14:49:31.666104 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 234, SCS: 0 
+[c2 00 00 09 10 0c 00 ];
+[info] [14:49:31.668537 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.948000005722046, Samples from start = 3.944, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100001000000000000000000000100100010000000011000, correlation is 0.30208603
+[e4 90 19 c4 10 00 00 ];
+[info] [14:49:31.669749 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9240000762939453, Samples from start = 3.92, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110010010010000000110011100010000010000000000000, correlation is 0.17629275
+[d0 04 19 8e 10 00 00 ];
+[info] [14:49:31.685834 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.96765172958374, Samples from start = 3.9626517, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1101000000000100000110011000111000010000000000000, correlation is 0.14662054
+[info] [14:49:31.685851 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 236, SCS: 0 
+[c0 41 1a 8b 10 00 00 ];
+[info] [14:49:31.692988 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9630000381469728, Samples from start = 3.96, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000001000001000110101000101100010000000000000, correlation is 0.2316312
+[42 66 38 26 81 ];
+[info] [14:49:31.695634 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.937000108718872, Samples from start = 3.936, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001100110001110000010011010000001, correlation is 0.25049657
+[c8 12 18 8c 10 00 00 ];
+[info] [14:49:31.696550 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.9640000381469727, Samples from start = 3.96, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100100000010010000110001000110000010000000000000, correlation is 0.24480751
+[d0 04 19 88 10 00 00 ];
+[info] [14:49:31.703016 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 3.941000108718872, Samples from start = 3.936, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101000000000100000110011000100000010000000000000, correlation is 0.3569129
+[42 1e 40 40 81 ];
+[info] [14:49:31.707793 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.9650000381469725, Samples from start = 3.96, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000011110010000000100000010000001, correlation is 0.24578069
+[42 60 40 66 81 ];
+[info] [14:49:31.713061 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.985999967575073, Samples from start = 3.984, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001001100000010000000110011010000001, correlation is 0.34154648
+[info] [14:49:31.716456 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 238, SCS: 0 
+[info] [14:49:31.730729 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 240, SCS: 0 
+[42 4e 40 58 81 ];
+[info] [14:49:31.732145 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 3.9770000705718993, Samples from start = 3.976, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001001110010000000101100010000001, correlation is 0.32111
+[42 5e 41 76 81 ];
+[info] [14:49:31.732799 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.006652168273925, Samples from start = 4.002652, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001001011110010000010111011010000001, correlation is 0.27463427
+[info] [14:49:31.750249 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 242, SCS: 0 
+[41 e6 3a 16 81 ];
+[info] [14:49:31.751857 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.02500016784668, Samples from start = 4.024, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111100110001110100001011010000001, correlation is 0.5468057
+[c0 41 1a c4 10 00 00 ];
+[info] [14:49:31.767858 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.046652130126953, Samples from start = 4.042652, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000001000001000110101100010000010000000000000, correlation is 0.2734527
+[c0 10 16 05 10 00 00 ];
+[info] [14:49:31.769656 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.047652130126953, Samples from start = 4.042652, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000010000000101100000010100010000000000000, correlation is 0.13362896
+[info] [14:49:31.777102 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 244, SCS: 0 
+[c9 03 1a cc 10 00 00 ];
+[info] [14:49:31.781598 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.0429999618530275, Samples from start = 4.04, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100100000011000110101100110000010000000000000, correlation is 0.11602842
+[c0 01 1a cd 10 00 00 ];
+[info] [14:49:31.783653 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.043999961853027, Samples from start = 4.04, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000001000110101100110100010000000000000, correlation is 0.24239059
+[c0 01 12 4e 10 0c 00 ];
+[info] [14:49:31.784676 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.044999961853027, Samples from start = 4.04, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000000001000100100100111000010000000011000, correlation is 0.23791839
+[c0 93 1a 81 10 00 00 ];
+[info] [14:49:31.798071 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.040999961853028, Samples from start = 4.04, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000010010011000110101000000100010000000000000, correlation is 0.28958234
+[c2 40 19 ca 10 00 00 ];
+[info] [14:49:31.798659 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.065000129699707, Samples from start = 4.064, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100001001000000000110011100101000010000000000000, correlation is 0.74331766
+[42 06 46 3e 81 ];
+[info] [14:49:31.800235 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.065000129699707, Samples from start = 4.064, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000000110010001100011111010000001, correlation is 0.8206907
+[c8 92 19 8b 10 00 00 ];
+[info] [14:49:31.815034 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.071000129699707, Samples from start = 4.064, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100010010010000110011000101100010000000000000, correlation is 0.45789337
+[info] [14:49:31.826088 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 248, SCS: 0 
+[e4 90 19 ab 10 00 00 ];
+[info] [14:49:31.834339 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.077000026702881, Samples from start = 4.072, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110010010010000000110011010101100010000000000000, correlation is 0.38681737
+[info] [14:49:31.836521 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 250, SCS: 0 
+[41 be 3a 70 81 ];
+[info] [14:49:31.845022 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.1129999885559085, Samples from start = 4.112, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000110111110001110100111000010000001, correlation is 0.32455724
+[info] [14:49:31.845896 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 252, SCS: 0 
+[fb 6c 19 47 10 00 00 ];
+[info] [14:49:31.876914 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.145000053405762, Samples from start = 4.144, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111101101101100000110010100011100010000000000000, correlation is 0.532062
+[41 e6 30 21 81 ];
+[info] [14:49:31.877116 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 254, SCS: 0 
+[info] [14:49:31.877126 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.145000053405762, Samples from start = 4.144, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111100110001100000010000110000001, correlation is 0.49300957
+[42 24 38 16 81 ];
+[info] [14:49:31.880531 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.144000156402588, Samples from start = 4.136, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001000100100001110000001011010000001, correlation is 0.40221193
+[c2 00 10 48 10 0c 00 ];
+[info] [14:49:31.884667 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.147000053405762, Samples from start = 4.144, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100001000000000000100000100100000010000000011000, correlation is 0.49936798
+[info] [14:49:31.889454 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 256, SCS: 0 
+[e4 80 16 c5 10 00 00 ];
+[info] [14:49:31.897152 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.120999885559082, Samples from start = 4.12, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110010010000000000101101100010100010000000000000, correlation is 0.2651913
+[42 66 38 0e [81 ];
+42 5e 3c 46 81 ];
+[info] [14:49:31.898127 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.120999885559082, Samples from start = 4.12, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001001100110001110000000111010000001, correlation is 0.23609138
+[info] [14:49:31.898129 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.167652015686035, Samples from start = 4.162652, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001011110001111000100011010000001, correlation is 0.21515572
+[c1 00 16 00 10 00 00 ];
+[info] [14:49:31.908998 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.165652015686035, Samples from start = 4.162652, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000100000000000101100000000000010000000000000, correlation is 0.360569
+[d0 01 1a 0a 10 00 00 ];
+[info] [14:49:31.921361 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.163999847412109, Samples from start = 4.16, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101000000000001000110100000101000010000000000000, correlation is 0.41243535
+[42 1e 39 16 81 ];
+[info] [14:49:31.929688 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.141000156402588, Samples from start = 4.136, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100001000011110001110010001011010000001, correlation is 0.22662766
+[42 1e 38 50 81 ];
+[info] [14:49:31.937204 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.177000118255616, Samples from start = 4.176, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000011110001110000101000010000001, correlation is 0.48166475
+[c0 21 1a c2 10 00 00 ];
+[info] [14:49:31.948094 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.183000118255615, Samples from start = 4.176, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000100001000110101100001000010000000000000, correlation is 0.44731045
+[c0 01 19 c3 10 00 00 ];
+[info] [14:49:31.949550 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.184000118255615, Samples from start = 4.176, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000001000110011100001100010000000000000, correlation is 0.15619232
+[e0 09 19 0b 10 00 00 ];
+[info] [14:49:31.951649 thread 18137] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.1959999122619625, Samples from start = 4.192, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110000000001001000110010000101100010000000000000, correlation is 0.35508612
+[info] [14:49:32.150589 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 274, SCS: 0 
+[42 3e 48 46 81 ];
+[info] [14:49:32.158762 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.361000133514405, Samples from start = 4.36, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000111110010010000100011010000001, correlation is 0.47838774
+[info] [14:49:32.159442 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 276, SCS: 0 
+[42 06 48 4e 81 ];
+[info] [14:49:32.164619 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.366652778625488, Samples from start = 4.362653, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000000110010010000100111010000001, correlation is 0.7539352
+[info] [14:49:32.170682 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 278, SCS: 0 
+[info] [14:49:32.188064 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 280, SCS: 0 
+[46 de 4a 10 81 ];
+[info] [14:49:32.206804 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.404000095367431, Samples from start = 4.4, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100011011011110010010100001000010000001, correlation is 0.2882792
+[info] [14:49:32.217223 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 282, SCS: 0 
+[41 fe 46 18 81 ];
+[info] [14:49:32.219308 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.401000095367432, Samples from start = 4.4, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100000111111110010001100001100010000001, correlation is 0.28707635
+[ff ff 1a 83 10 00 00 ];
+[info] [14:49:32.221179 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.423999889373779, Samples from start = 4.416, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110101000001100010000000000000, correlation is 0.34368512
+[56 92 36 4e 81 ];
+[info] [14:49:32.228065 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.435000160217285, Samples from start = 4.432, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 0101011010010010001101100100111010000001, correlation is 0.49505642
+[c0 02 04 0b 10 00 00 ];
+[info] [14:49:32.232952 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.381999927520752, Samples from start = 4.376, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000000010000001000000101100010000000000000, correlation is 0.64049375
+[42 56 46 30 81 ];
+[info] [14:49:32.234558 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.41699988937378, Samples from start = 4.416, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001010110010001100011000010000001, correlation is 0.3335043
+[info] [14:49:32.239893 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 284, SCS: 0 
+[info] [14:49:32.257078 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 286, SCS: 0 
+[41 be 40 16 81 ];
+[info] [14:49:32.259557 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.473000122070313, Samples from start = 4.472, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000110111110010000000001011010000001, correlation is 0.5810062
+[41 ce 55 0e 81 ];
+[info] [14:49:32.264339 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.475000122070313, Samples from start = 4.472, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100000111001110010101010000111010000001, correlation is 0.61934906
+[42 3e 42 76 81 ];
+[info] [14:49:32.271452 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.456999851226807, Samples from start = 4.456, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000111110010000100111011010000001, correlation is 0.5098763
+[info] [14:49:32.278160 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 288, SCS: 0 
+[info] [14:49:32.297125 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 290, SCS: 0 
+[42 0e 44 4e 81 ];
+[info] [14:49:32.298104 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.505000186920166, Samples from start = 4.504, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000001110010001000100111010000001, correlation is 0.50153416
+[41 fe 44 46 81 ];
+[info] [14:49:32.309498 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.496999813079834, Samples from start = 4.496, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111111110010001000100011010000001, correlation is 0.4979486
+[info] [14:49:32.309575 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 292, SCS: 0 
+[41 ce 3c 2e 81 ];
+[info] [14:49:32.310406 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.481000019073487, Samples from start = 4.48, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111001110001111000010111010000001, correlation is 0.5681806
+[info] [14:49:32.331899 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 294, SCS: 0 
+[info] [14:49:32.353242 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 296, SCS: 0 
+[c9 26 18 0b 10 00 00 ];
+[info] [14:49:32.356741 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.551000148773193, Samples from start = 4.544, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100100100110000110000000101100010000000000000, correlation is 0.425859
+[41 fe 40 5e 81 ];
+[info] [14:49:32.357193 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.520999980926514, Samples from start = 4.52, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111111110010000000101111010000001, correlation is 0.62045246
+[42 2c 44 6e 01 ];
+[info] [14:49:32.359153 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.536999774932862, Samples from start = 4.536, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000101100010001000110111000000001, correlation is 0.66948
+[info] [14:49:32.380636 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 298, SCS: 0 
+[info] [14:49:32.390258 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 300, SCS: 0 
+[42 3e 42 26 81 ];
+[info] [14:49:32.392593 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.577000213623047, Samples from start = 4.576, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100001000111110010000100010011010000001, correlation is 0.6092091
+[42 06 46 56 81 ];
+[info] [14:49:32.395772 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.60665302658081, Samples from start = 4.602653, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001000000110010001100101011010000001, correlation is 0.57677233
+[c8 12 16 c5 10 00 00 ];
+[info] [14:49:32.397278 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.60665302658081, Samples from start = 4.602653, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100100000010010000101101100010100010000000000000, correlation is 0.5737066
+[info] [14:49:32.410575 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 302, SCS: 0 
+[d0 00 00 0a 10 0c 00 ];
+[info] [14:49:32.418765 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.627000072479248, Samples from start = 4.624, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1101000000000000000000000000101000010000000011000, correlation is 0.5255425
+[41 fe 42 66 81 ];
+[info] [14:49:32.430495 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.6170001754760746, Samples from start = 4.616, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111111110010000100110011010000001, correlation is 0.65449655
+[info] [14:49:32.433596 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 304, SCS: 0 
+[e0 48 16 c9 10 00 00 ];
+[info] [14:49:32.445073 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.621000175476074, Samples from start = 4.616, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110000001001000000101101100100100010000000000000, correlation is 0.62029994
+[info] [14:49:32.453208 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 306, SCS: 0 
+[41 fe 40 18 81 ];
+[info] [14:49:32.479173 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.657000137329102, Samples from start = 4.656, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111111110010000000001100010000001, correlation is 0.6167662
+[d0 00 10 00 10 0c 00 ];
+[info] [14:49:32.482718 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 4.686999828338623, Samples from start = 4.68, Slots from samples from start = 7 Slot within frame = 6, Symbol within slot = 0, binary dci is 1101000000000000000100000000000000010000000011000, correlation is 0.5145164
+[d0 00 10 00 10 0c 00 ];
+[info] [14:49:32.492820 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 4.686999828338623, Samples from start = 4.68, Slots from samples from start = 7 Slot within frame = 6, Symbol within slot = 0, binary dci is 1101000000000000000100000000000000010000000011000, correlation is 0.5145164
+[42 3e 40 3e 81 ];
+[info] [14:49:32.500700 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.680999828338623, Samples from start = 4.68, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000111110010000000011111010000001, correlation is 0.5313082
+[info] [14:49:32.512168 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 310, SCS: 0 
+[info] [14:49:32.522102 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 312, SCS: 0 
+[info] [14:49:32.533860 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 314, SCS: 0 
+[info] [14:49:32.554515 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 316, SCS: 0 
+[c0 02 19 0f 10 00 00 ];
+[info] [14:49:32.577826 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.772000125885009, Samples from start = 4.768, Slots from samples from start = 4 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000000010000110010000111100010000000000000, correlation is 0.42820933
+[42 5e 3a 3e 81 ];
+[info] [14:49:32.583249 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.784999919891358, Samples from start = 4.784, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001011110001110100011111010000001, correlation is 0.57812464
+[42 52 46 08 81 ];
+[info] [14:49:32.587117 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.7420000610351565, Samples from start = 4.736, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 1, binary dci is 0100001001010010010001100000100010000001, correlation is 0.64737564
+[info] [14:49:32.587221 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 318, SCS: 0 
+[41 fe 42 1e 81 ];
+[info] [14:49:32.588003 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.761000228881836, Samples from start = 4.76, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100000111111110010000100001111010000001, correlation is 0.6978617
+[c8 12 19 0b 10 00 00 ];
+[info] [14:49:32.588736 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 4.740000061035156, Samples from start = 4.736, Slots from samples from start = 4 Slot within frame = 7, Symbol within slot = 0, binary dci is 1100100000010010000110010000101100010000000000000, correlation is 0.63366216
+[c8 12 19 0b 10 00 00 ];
+[info] [14:49:32.590432 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 4, DCI size 49, Time = 4.740000061035156, Samples from start = 4.736, Slots from samples from start = 4 Slot within frame = 7, Symbol within slot = 0, binary dci is 1100100000010010000110010000101100010000000000000, correlation is 0.63366216
+[db 64 08 0d 10 00 00 ];
+[info] [14:49:32.590774 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.7640002288818355, Samples from start = 4.76, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101101101100100000010000000110100010000000000000, correlation is 0.6077066
+[41 ce 3e 30 81 ];
+[info] [14:49:32.592674 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.777000022888184, Samples from start = 4.776, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111001110001111100011000010000001, correlation is 0.54990816
+[d2 64 18 02 10 00 00 ];
+[info] [14:49:32.593500 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.77600012588501, Samples from start = 4.768, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001001100100000110000000001000010000000000000, correlation is 0.50088024
+[info] [14:49:32.612675 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 320, SCS: 0 
+[c0 12 08 8e 10 00 00 ];
+[info] [14:49:32.613118 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.762000228881836, Samples from start = 4.76, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000010010000010001000111000010000000000000, correlation is 0.59236526
+[info] [14:49:32.628056 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 322, SCS: 0 
+[42 4e 42 6e 81 ];
+[info] [14:49:32.632224 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.832999778747559, Samples from start = 4.832, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001001110010000100110111010000001, correlation is 0.60224795
+[42 0c 42 4e 81 ];
+[info] [14:49:32.636241 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.801000190734864, Samples from start = 4.8, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000001100010000100100111010000001, correlation is 0.6180278
+[info] [14:49:32.641317 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 324, SCS: 0 
+[41 be 3a 5f 81 ];
+[info] [14:49:32.647900 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.816999984741211, Samples from start = 4.816, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000110111110001110100101111110000001, correlation is 0.592872
+[42 3c 4c 18 81 ];
+[info] [14:49:32.665596 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.864999843597412, Samples from start = 4.864, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111100010011000001100010000001, correlation is 0.6830654
+[info] [14:49:32.669078 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 326, SCS: 0 
+[c4 92 19 85 10 00 00 ];
+[info] [14:49:32.683271 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.88565323638916, Samples from start = 4.882653, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100010010010010000110011000010100010000000000000, correlation is 0.698745
+[info] [14:49:32.685972 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 328, SCS: 0 
+[e4 00 08 8a 10 00 00 ];
+[info] [14:49:32.686774 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.84400015258789, Samples from start = 4.84, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110010000000000000010001000101000010000000000000, correlation is 0.61679435
+[42 64 48 16 81 ];
+[info] [14:49:32.690476 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.856999946594239, Samples from start = 4.856, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001100100010010000001011010000001, correlation is 0.6393709
+[c2 40 19 ce 10 00 00 ];
+[info] [14:49:32.695430 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.860999946594238, Samples from start = 4.856, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100001001000000000110011100111000010000000000000, correlation is 0.647345
+[42 1e 48 28 81 ];
+[info] [14:49:32.716366 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.881000114440918, Samples from start = 4.88, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000011110010010000010100010000001, correlation is 0.62333506
+[42 54 44 38 81 ];
+[info] [14:49:32.731746 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.896999908447266, Samples from start = 4.896, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001010100010001000011100010000001, correlation is 0.67234975
+[info] [14:49:32.739051 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 332, SCS: 0 
+[info] [14:49:32.748377 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 334, SCS: 0 
+[info] [14:49:32.759030 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 336, SCS: 0 
+[42 06 46 46 81 ];
+[info] [14:49:32.774291 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.981382110595703, Samples from start = 4.978382, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000000110010001100100011010000001, correlation is 0.700189
+[info] [14:49:32.775334 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 338, SCS: 0 
+[f6 fc 0a 82 10 00 00 ];
+[info] [14:49:32.799430 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.954000141143799, Samples from start = 4.952, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111011011111100000010101000001000010000000000000, correlation is 0.61288583
+[41 c6 3e 60 81 ];
+[info] [14:49:32.803993 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.002, Samples from start = 5, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111000110001111100110000010000001, correlation is 0.67442495
+[e4 90 19 ce 10 00 00 ];
+[info] [14:49:32.804129 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.001, Samples from start = 5, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110010010010000000110011100111000010000000000000, correlation is 0.6014459
+[db 24 18 c5 10 00 00 ];
+[info] [14:49:32.804904 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.98099983215332, Samples from start = 4.976, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1101101100100100000110001100010100010000000000000, correlation is 0.49320427
+[info] [14:49:32.806687 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 340, SCS: 0 
+[42 2e 46 36 81 ];
+[info] [14:49:32.810741 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.98099983215332, Samples from start = 4.976, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000101110010001100011011010000001, correlation is 0.58425313
+[c0 12 19 8a 10 00 00 ];
+[info] [14:49:32.816814 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.000000102996826, Samples from start = 4.992, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000010010000110011000101000010000000000000, correlation is 0.65384847
+[d2 44 1a 47 10 00 00 ];
+[info] [14:49:32.817320 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.976999832153321, Samples from start = 4.976, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101001001000100000110100100011100010000000000000, correlation is 0.5938617
+[c0 80 00 01 10 0c 00 ];
+[info] [14:49:32.823475 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.021382072448731, Samples from start = 5.018382, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000010000000000000000000000100010000000011000, correlation is 0.616025
+[c1 20 08 42 10 00 00 ];
+[info] [14:49:32.827536 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.02238207244873, Samples from start = 5.018382, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000100100000000010000100001000010000000000000, correlation is 0.6126325
+[6b 3e 2e 38 81 ];
+[info] [14:49:32.828723 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 4.97799983215332, Samples from start = 4.976, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 1, binary dci is 0110101100111110001011100011100010000001, correlation is 0.59153557
+[c9 12 08 c1 10 00 00 ];
+[info] [14:49:32.828816 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 4.953000141143799, Samples from start = 4.952, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100100010010000010001100000100010000000000000, correlation is 0.6147175
+[info] [14:49:32.832030 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 342, SCS: 0 
+[info] [14:49:32.845594 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 344, SCS: 0 
+[info] [14:49:32.857737 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 346, SCS: 0 
+[42 62 41 46 81 ];
+[info] [14:49:32.868041 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.063382511138916, Samples from start = 5.0583825, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001100010010000010100011010000001, correlation is 0.33607402
+[f3 6d 0f 25 10 00 00 ];
+[info] [14:49:32.872578 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.055999858856201, Samples from start = 5.048, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1111001101101101000011110010010100010000000000000, correlation is 0.63895386
+[41 be 44 20 81 ];
+[info] [14:49:32.881655 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.037000064849853, Samples from start = 5.032, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000110111110010001000010000010000001, correlation is 0.6954119
+[51 72 38 3e 81 ];
+[info] [14:49:32.882014 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.061000232696533, Samples from start = 5.056, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0101000101110010001110000011111010000001, correlation is 0.70126766
+[4d 30 20 6e 81 ];
+[info] [14:49:32.883063 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.0819999237060545, Samples from start = 5.08, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100110100110000001000000110111010000001, correlation is 0.68417925
+[4d 30 20 76 81 ];
+[info] [14:49:32.888292 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.082999923706055, Samples from start = 5.08, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100110100110000001000000111011010000001, correlation is 0.74095625
+[info] [14:49:32.892469 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 348, SCS: 0 
+[f7 6c 18 8b 10 00 00 ];
+[info] [14:49:32.895739 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.086999923706054, Samples from start = 5.08, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111011101101100000110001000101100010000000000000, correlation is 0.7027888
+[db 36 09 07 10 00 00 ];
+[info] [14:49:32.908082 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.0570002326965335, Samples from start = 5.056, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101101100110110000010010000011100010000000000000, correlation is 0.6374464
+[info] [14:49:32.909922 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 350, SCS: 0 
+[ff 6c 09 0e 10 00 00 ];
+[info] [14:49:32.917915 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.103382472991943, Samples from start = 5.0983825, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111101101100000010010000111000010000000000000, correlation is 0.69850284
+[41 fe 3a 0e 81 ];
+[info] [14:49:32.926293 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.10100019454956, Samples from start = 5.096, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111111110001110100000111010000001, correlation is 0.69960546
+[c4 00 01 c0 10 0c 00 ];
+[info] [14:49:32.932281 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.1129999885559085, Samples from start = 5.112, Slots from samples from start = 1 Slot within frame = 6, Symbol within slot = 0, binary dci is 1100010000000000000000011100000000010000000011000, correlation is 0.7706611
+[c4 00 01 c0 10 0c 00 ];
+[info] [14:49:32.933547 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.1129999885559085, Samples from start = 5.112, Slots from samples from start = 1 Slot within frame = 6, Symbol within slot = 0, binary dci is 1100010000000000000000011100000000010000000011000, correlation is 0.7706611
+[c2 48 16 84 10 00 00 ];
+[info] [14:49:32.957360 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.130999782562256, Samples from start = 5.128, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100001001001000000101101000010000010000000000000, correlation is 0.58123136
+[42 4e 36 4e 81 ];
+[info] [14:49:32.971055 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.130999782562256, Samples from start = 5.128, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001001001110001101100100111010000001, correlation is 0.55797523
+[41 ee 3e 56 81 ];
+[info] [14:49:32.975875 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.132999782562256, Samples from start = 5.128, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111101110001111100101011010000001, correlation is 0.5848051
+[info] [14:49:32.986110 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 356, SCS: 0 
+[info] [14:49:32.995420 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 358, SCS: 0 
+[info] [14:49:33.006877 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 360, SCS: 0 
+[d2 04 06 42 10 00 00 ];
+[info] [14:49:33.028096 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.224382358551026, Samples from start = 5.2183824, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1101001000000100000001100100001000010000000000000, correlation is 0.71997136
+[info] [14:49:33.032781 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 362, SCS: 0 
+[info] [14:49:33.049836 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 364, SCS: 0 
+[41 fe 42 1e 81 ];
+[info] [14:49:33.064321 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.261382797241211, Samples from start = 5.258383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111111110010000100001111010000001, correlation is 0.68949616
+[info] [14:49:33.068126 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 366, SCS: 0 
+[41 ee 38 66 81 ];
+[info] [14:49:33.071463 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.230999977111816, Samples from start = 5.224, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111101110001110000110011010000001, correlation is 0.6942706
+[42 36 44 6e 81 ];
+[info] [14:49:33.074620 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.231999977111816, Samples from start = 5.224, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100001000110110010001000110111010000001, correlation is 0.61559045
+[d2 4c 07 c3 10 00 00 ];
+[info] [14:49:33.095775 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.23699987411499, Samples from start = 5.232, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101001001001100000001111100001100010000000000000, correlation is 0.62421376
+[41 fe 48 76 81 ];
+[info] [14:49:33.096071 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.23699987411499, Samples from start = 5.232, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111111110010010000111011010000001, correlation is 0.6976421
+[info] [14:49:33.098329 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 368, SCS: 0 
+[e4 80 16 8b 10 00 00 ];
+[info] [14:49:33.109715 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.287000209808349, Samples from start = 5.28, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110010010000000000101101000101100010000000000000, correlation is 0.68041754
+[info] [14:49:33.110646 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 370, SCS: 0 
+[42 3e 3a 46 81 ];
+[info] [14:49:33.116295 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.301000003814697, Samples from start = 5.296, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000111110001110100100011010000001, correlation is 0.67065096
+[info] [14:49:33.127653 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 372, SCS: 0 
+[info] [14:49:33.144637 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 374, SCS: 0 
+[42 56 3c 16 81 ];
+[info] [14:49:33.167899 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.3409999656677245, Samples from start = 5.336, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001010110001111000001011010000001, correlation is 0.63078845
+[41 c6 38 3e 81 ];
+[info] [14:49:33.174356 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.362000133514404, Samples from start = 5.36, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111000110001110000011111010000001, correlation is 0.6761487
+[c4 80 08 c6 10 00 00 ];
+[info] [14:49:33.174800 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.362000133514404, Samples from start = 5.36, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100010010000000000010001100011000010000000000000, correlation is 0.691934
+[52 1c 18 4e 81 ];
+[info] [14:49:33.185050 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.367000133514404, Samples from start = 5.36, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 0101001000011100000110000100111010000001, correlation is 0.6633496
+[d2 44 08 a3 10 00 00 ];
+[info] [14:49:33.187345 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.35400023651123, Samples from start = 5.352, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1101001001000100000010001010001100010000000000000, correlation is 0.5580437
+[e0 08 08 e6 10 00 00 ];
+[info] [14:49:33.187633 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.368000133514404, Samples from start = 5.36, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1110000000001000000010001110011000010000000000000, correlation is 0.6172157
+[42 4c 38 56 81 ];
+[info] [14:49:33.200120 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.373000030517578, Samples from start = 5.368, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001001001100001110000101011010000001, correlation is 0.627412
+[ef fe 08 c7 10 00 00 ];
+[info] [14:49:33.202521 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.374000030517578, Samples from start = 5.368, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110111111111110000010001100011100010000000000000, correlation is 0.59443235
+[info] [14:49:33.235289 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 380, SCS: 0 
+[info] [14:49:33.244731 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 382, SCS: 0 
+[info] [14:49:33.256550 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 384, SCS: 0 
+[c0 40 10 05 10 0c 00 ];
+[info] [14:49:33.270719 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.451999954223632, Samples from start = 5.448, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000001000000000100000000010100010000000011000, correlation is 0.72053987
+[info] [14:49:33.273169 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 386, SCS: 0 
+[42 0e 32 70 81 ];
+[info] [14:49:33.275995 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.461382606506348, Samples from start = 5.4583826, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000001110001100100111000010000001, correlation is 0.6155447
+[c9 02 17 0e 10 00 00 ];
+[info] [14:49:33.277261 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.462382606506347, Samples from start = 5.4583826, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100100100000010000101110000111000010000000000000, correlation is 0.6955417
+[info] [14:49:33.289968 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 388, SCS: 0 
+[f2 48 07 45 10 00 00 ];
+[info] [14:49:33.308680 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.4889999160766605, Samples from start = 5.488, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111001001001000000001110100010100010000000000000, correlation is 0.66626316
+[41 f6 40 36 81 ];
+[info] [14:49:33.314745 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.501383045196533, Samples from start = 5.498383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111110110010000000011011010000001, correlation is 0.752049
+[41 c6 42 56 81 ];
+[info] [14:49:33.315015 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.437000160217285, Samples from start = 5.432, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100000111000110010000100101011010000001, correlation is 0.6776587
+[41 fe 32 60 81 ];
+[info] [14:49:33.318604 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.4609998512268065, Samples from start = 5.456, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111111110001100100110000010000001, correlation is 0.7306203
+[c2 00 19 87 10 00 00 ];
+[info] [14:49:33.323544 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.459999851226806, Samples from start = 5.456, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100001000000000000110011000011100010000000000000, correlation is 0.7554949
+[41 de 44 26 81 ];
+[info] [14:49:33.326774 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.4999998130798335, Samples from start = 5.496, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111011110010001000010011010000001, correlation is 0.6631917
+[d2 24 18 08 10 00 00 ];
+[info] [14:49:33.337157 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.4609998512268065, Samples from start = 5.456, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1101001000100100000110000000100000010000000000000, correlation is 0.6754746
+[f6 c8 08 46 10 00 00 ];
+[info] [14:49:33.347003 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.501999813079834, Samples from start = 5.496, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111011011001000000010000100011000010000000000000, correlation is 0.48112202
+[62 52 20 4e 81 ];
+[info] [14:49:33.353450 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.511000186920166, Samples from start = 5.504, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 1, binary dci is 0110001001010010001000000100111010000001, correlation is 0.6475827
+[d2 04 16 8b 10 00 00 ];
+[info] [14:49:33.355055 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.457999851226806, Samples from start = 5.456, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 1101001000000100000101101000101100010000000000000, correlation is 0.71922106
+[42 60 30 16 81 ];
+[info] [14:49:33.355636 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.477000122070312, Samples from start = 5.472, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001001100000001100000001011010000001, correlation is 0.6301637
+[info] [14:49:33.357461 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 392, SCS: 0 
+[info] [14:49:33.366406 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 394, SCS: 0 
+[info] [14:49:33.377677 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 396, SCS: 0 
+[c0 01 18 85 10 00 00 ];
+[info] [14:49:33.394230 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.578000213623047, Samples from start = 5.576, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000001000110001000010100010000000000000, correlation is 0.5489367
+[42 0e 42 30 81 ];
+[info] [14:49:33.395681 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.5823829689025875, Samples from start = 5.578383, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100001000001110010000100011000010000001, correlation is 0.67662406
+[info] [14:49:33.396226 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 398, SCS: 0 
+[d1 24 08 8c 10 00 00 ];
+[info] [14:49:33.398894 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.581382968902588, Samples from start = 5.578383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1101000100100100000010001000110000010000000000000, correlation is 0.59479445
+[c8 92 07 87 10 00 00 ];
+[info] [14:49:33.411627 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.5830002136230465, Samples from start = 5.576, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100100010010010000001111000011100010000000000000, correlation is 0.6064817
+[50 78 1e 66 81 ];
+[info] [14:49:33.424328 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.600999904632569, Samples from start = 5.6, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 1, binary dci is 0101000001111000000111100110011010000001, correlation is 0.4296888
+[42 1e 3e 0e 81 ];
+[info] [14:49:33.425400 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.5530000457763675, Samples from start = 5.552, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100001000011110001111100000111010000001, correlation is 0.7359958
+[c8 92 08 c4 10 00 00 ];
+[info] [14:49:33.425595 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.554000045776367, Samples from start = 5.552, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100100010010010000010001100010000010000000000000, correlation is 0.6070412
+[41 de 43 36 81 ];
+[info] [14:49:33.426985 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.595000007629395, Samples from start = 5.592, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111011110010000110011011010000001, correlation is 0.6535876
+[info] [14:49:33.431518 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 400, SCS: 0 
+[c0 01 19 09 10 00 00 ];
+[info] [14:49:33.438381 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.580000213623046, Samples from start = 5.576, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000001000110010000100100010000000000000, correlation is 0.73143405
+[41 c6 40 10 81 ];
+[info] [14:49:33.446353 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.621382930755615, Samples from start = 5.618383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111000110010000000001000010000001, correlation is 0.54319113
+[44 de 46 3e 81 ];
+[info] [14:49:33.448467 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.6000000076293945, Samples from start = 5.592, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100010011011110010001100011111010000001, correlation is 0.66777784
+[c0 01 11 c6 10 0c 00 ];
+[info] [14:49:33.453916 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.622382930755615, Samples from start = 5.618383, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000000001000100011100011000010000000011000, correlation is 0.5815921
+[info] [14:49:33.454582 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 402, SCS: 0 
+[c0 13 18 c7 10 00 00 ];
+[info] [14:49:33.458172 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.623382930755615, Samples from start = 5.618383, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000010011000110001100011100010000000000000, correlation is 0.5392621
+[ff ff 09 8b 10 00 00 ];
+[info] [14:49:33.469015 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.578000213623047, Samples from start = 5.576, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 1111111111111111000010011000101100010000000000000, correlation is 0.6788214
+[41 ee 3e 78 81 ];
+[info] [14:49:33.469939 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.621000175476074, Samples from start = 5.616, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111101110001111100111100010000001, correlation is 0.6833199
+[4d 30 1e 4e 81 ];
+[info] [14:49:33.478862 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.597000007629394, Samples from start = 5.592, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100110100110000000111100100111010000001, correlation is 0.5680561
+[info] [14:49:33.480524 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 404, SCS: 0 
+[d2 48 08 8e 10 00 00 ];
+[info] [14:49:33.482611 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.598000007629395, Samples from start = 5.592, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 0, binary dci is 1101001001001000000010001000111000010000000000000, correlation is 0.5839285
+[e0 48 16 8a 10 00 00 ];
+[info] [14:49:33.493256 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.6389999694824215, Samples from start = 5.632, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110000001001000000101101000101000010000000000000, correlation is 0.5692486
+[info] [14:49:33.494043 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 406, SCS: 0 
+[42 2e 38 30 81 ];
+[info] [14:49:33.506636 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.636999969482422, Samples from start = 5.632, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000101110001110000011000010000001, correlation is 0.57732284
+[41 de 44 46 81 ];
+[info] [14:49:33.517352 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.6610001373291015, Samples from start = 5.656, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111011110010001000100011010000001, correlation is 0.58869886
+[e0 00 16 01 10 00 00 ];
+[info] [14:49:33.517456 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.659000137329102, Samples from start = 5.656, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1110000000000000000101100000000100010000000000000, correlation is 0.69904906
+[info] [14:49:33.519148 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 408, SCS: 0 
+[c0 04 12 c2 10 00 00 ];
+[info] [14:49:33.523862 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.6610001373291015, Samples from start = 5.656, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000000100000100101100001000010000000000000, correlation is 0.689992
+[e4 da 19 a5 10 00 00 ];
+[info] [14:49:33.532682 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.682999828338623, Samples from start = 5.68, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110010011011010000110011010010100010000000000000, correlation is 0.6437886
+[42 3e 38 78 81 ];
+[info] [14:49:33.534968 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.701383331298828, Samples from start = 5.6983833, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110001110000111100010000001, correlation is 0.65330213
+[info] [14:49:33.538942 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 410, SCS: 0 
+[42 5a 44 58 81 ];
+[info] [14:49:33.541335 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.676999931335449, Samples from start = 5.672, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001001011010010001000101100010000001, correlation is 0.6051666
+[c0 25 19 8d 10 00 00 ];
+[info] [14:49:33.546039 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.702383331298828, Samples from start = 5.6983833, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000100101000110011000110100010000000000000, correlation is 0.6953981
+[c0 09 19 8e 10 00 00 ];
+[info] [14:49:33.548515 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.703383331298828, Samples from start = 5.6983833, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000001001000110011000111000010000000000000, correlation is 0.5653264
+[4a fa 32 18 81 ];
+[info] [14:49:33.559104 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.72199979019165, Samples from start = 5.72, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100101011111010001100100001100010000001, correlation is 0.73296344
+[c0 01 19 02 10 00 00 ];
+[info] [14:49:33.562984 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.720999790191651, Samples from start = 5.72, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000000001000110010000001000010000000000000, correlation is 0.7156491
+[info] [14:49:33.563277 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 412, SCS: 0 
+[c2 01 19 83 10 00 00 ];
+[info] [14:49:33.566752 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.72199979019165, Samples from start = 5.72, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100001000000001000110011000001100010000000000000, correlation is 0.72698456
+[c4 01 19 04 10 00 00 ];
+[info] [14:49:33.569613 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.7229997901916505, Samples from start = 5.72, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100010000000001000110010000010000010000000000000, correlation is 0.5784114
+[e0 00 12 86 10 00 00 ];
+[info] [14:49:33.577219 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.676999931335449, Samples from start = 5.672, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1110000000000000000100101000011000010000000000000, correlation is 0.6089306
+[c0 21 19 87 10 00 00 ];
+[info] [14:49:33.577914 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.7000000991821285, Samples from start = 5.696, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000000100001000110011000011100010000000000000, correlation is 0.5027298
+[41 ce 42 3e 81 ];
+[info] [14:49:33.580253 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.742383293151855, Samples from start = 5.7383833, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000111001110010000100011111010000001, correlation is 0.6894934
+[c0 03 19 c5 10 00 00 ];
+[info] [14:49:33.580681 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.72699979019165, Samples from start = 5.72, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1100000000000011000110011100010100010000000000000, correlation is 0.6460468
+[c0 05 19 c6 10 00 00 ];
+[info] [14:49:33.584916 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.72799979019165, Samples from start = 5.72, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000000101000110011100011000010000000000000, correlation is 0.7015127
+[41 b6 42 2e 81 ];
+[info] [14:49:33.587161 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.741000061035156, Samples from start = 5.736, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000110110110010000100010111010000001, correlation is 0.64496917
+[info] [14:49:33.588731 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 414, SCS: 0 
+[c0 49 1a 4c 10 00 00 ];
+[info] [14:49:33.589478 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.742383293151855, Samples from start = 5.7383833, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1100000001001001000110100100110000010000000000000, correlation is 0.7030989
+[c8 01 19 89 10 00 00 ];
+[info] [14:49:33.597886 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.698000099182129, Samples from start = 5.696, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100100000000001000110011000100100010000000000000, correlation is 0.44956017
+[c0 81 1a 49 10 00 00 ];
+[info] [14:49:33.610287 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.741000061035156, Samples from start = 5.736, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000010000001000110100100100100010000000000000, correlation is 0.5860901
+[info] [14:49:33.612375 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 416, SCS: 0 
+[41 be 3e 76 01 ];
+[info] [14:49:33.626563 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.781383255004883, Samples from start = 5.7783833, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000110111110001111100111011000000001, correlation is 0.6381904
+[info] [14:49:33.631604 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 418, SCS: 0 
+[42 3e 3a 66 81 ];
+[info] [14:49:33.643588 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.7810000228881835, Samples from start = 5.776, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100001000111110001110100110011010000001, correlation is 0.6991762
+[info] [14:49:33.650503 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 420, SCS: 0 
+[info] [14:49:33.664683 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 422, SCS: 0 
+[41 e6 38 26 81 ];
+[info] [14:49:33.669128 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.82238321685791, Samples from start = 5.818383, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 0100000111100110001110000010011010000001, correlation is 0.5416738
+[41 fe 3c 1e 81 ];
+[info] [14:49:33.682483 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.820999984741211, Samples from start = 5.816, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100000111111110001111000001111010000001, correlation is 0.53573954
+[info] [14:49:33.689318 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 424, SCS: 0 
+[info] [14:49:33.704338 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 426, SCS: 0 
+[41 fe 38 56 81 ];
+[info] [14:49:33.712717 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.861383178710938, Samples from start = 5.858383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 0100000111111110001110000101011010000001, correlation is 0.6900387
+[41 be 38 4e 81 ];
+[info] [14:49:33.719644 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.860999946594238, Samples from start = 5.856, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 0100000110111110001110000100111010000001, correlation is 0.6313522
+[41 fe 3c 3e 81 ];
+[info] [14:49:33.721747 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.8369997787475585, Samples from start = 5.832, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000111111110001111000011111010000001, correlation is 0.61805266
+[info] [14:49:33.728486 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 428, SCS: 0 
+[info] [14:49:33.742438 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 430, SCS: 0 
+[41 be 3e 1e 81 ];
+[info] [14:49:33.743491 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.901383140563965, Samples from start = 5.898383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000110111110001111100001111010000001, correlation is 0.5568753
+[fb 7e 18 8f 10 00 00 ];
+[info] [14:49:33.745089 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.902383140563964, Samples from start = 5.898383, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111101101111110000110001000111100010000000000000, correlation is 0.6137263
+[41 ce 3f 10 81 ];
+[info] [14:49:33.745724 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.903383140563965, Samples from start = 5.898383, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100000111001110001111110001000010000001, correlation is 0.5250842
+[ed ba 09 0d 10 00 00 ];
+[info] [14:49:33.748011 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.888000114440918, Samples from start = 5.88, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1110110110111010000010010000110100010000000000000, correlation is 0.7254362
+[c8 02 04 8b 10 00 00 ];
+[info] [14:49:33.757823 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.8730002174377445, Samples from start = 5.872, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100100000000010000001001000101100010000000000000, correlation is 0.6153233
+[54 92 1a 26 81 ];
+[info] [14:49:33.765158 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.916000179290771, Samples from start = 5.912, Slots from samples from start = 4 Slot within frame = 9, Symbol within slot = 1, binary dci is 0101010010010010000110100010011010000001, correlation is 0.7329807
+[41 be 3c 68 81 ];
+[info] [14:49:33.768429 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.877000217437744, Samples from start = 5.872, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 0100000110111110001111000110100010000001, correlation is 0.6511667
+[info] [14:49:33.769395 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 432, SCS: 0 
+[info] [14:49:33.782874 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 434, SCS: 0 
+[42 3e 3a 70 81 ];
+[info] [14:49:33.783450 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.941383102416992, Samples from start = 5.938383, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000111110001110100111000010000001, correlation is 0.7664863
+[4d 30 1a 36 81 ];
+[info] [14:49:33.784000 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.913000179290772, Samples from start = 5.912, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 1, binary dci is 0100110100110000000110100011011010000001, correlation is 0.80833715
+[42 3e 32 4e 81 ];
+[info] [14:49:33.794072 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.917000179290771, Samples from start = 5.912, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000111110001100100100111010000001, correlation is 0.792352
+[info] [14:49:33.808550 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 436, SCS: 0 
+[f6 d8 09 00 10 00 00 ];
+[info] [14:49:33.809856 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.962000038146972, Samples from start = 5.96, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111011011011000000010010000000000010000000000000, correlation is 0.69981414
+[ff ff 0a 01 10 00 00 ];
+[info] [14:49:33.810910 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.964000038146972, Samples from start = 5.96, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000010100000000100010000000000000, correlation is 0.67154825
+[f7 ec 19 04 10 00 00 ];
+[info] [14:49:33.816380 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.9399998703002925, Samples from start = 5.936, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111011111101100000110010000010000010000000000000, correlation is 0.592368
+[c8 02 08 cb 10 00 00 ];
+[info] [14:49:33.817917 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.9590001411437985, Samples from start = 5.952, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100100000000010000010001100101100010000000000000, correlation is 0.5862362
+[f6 cc 08 cc 10 00 00 ];
+[info] [14:49:33.819805 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.960000141143799, Samples from start = 5.952, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111011011001100000010001100110000010000000000000, correlation is 0.63179386
+[41 b6 3c 26 81 ];
+[info] [14:49:33.822550 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.971999935150146, Samples from start = 5.968, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100000110110110001111000010011010000001, correlation is 0.5870948
+[ff ff 0a 42 10 00 00 ];
+[info] [14:49:33.824662 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.967000038146972, Samples from start = 5.96, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000010100100001000010000000000000, correlation is 0.5833561
+[41 e6 38 36 81 ];
+[info] [14:49:33.825185 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 5.981384017944336, Samples from start = 5.978384, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111100110001110000011011010000001, correlation is 0.6450517
+[ff ff 0a 43 10 00 00 ];
+[info] [14:49:33.828883 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.968000038146973, Samples from start = 5.96, Slots from samples from start = 8 Slot within frame = 9, Symbol within slot = 0, binary dci is 1111111111111111000010100100001100010000000000000, correlation is 0.7621454
+[info] [14:49:33.829047 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 438, SCS: 0 
+[ff ff 0a 4d 10 00 00 ];
+[info] [14:49:33.844448 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.958000141143799, Samples from start = 5.952, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 0, binary dci is 1111111111111111000010100100110100010000000000000, correlation is 0.5834419
+[info] [14:49:33.851227 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 440, SCS: 0 
+[f2 4c 19 09 10 00 00 ];
+[info] [14:49:33.853518 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.999000102996826, Samples from start = 5.992, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111001001001100000110010000100100010000000000000, correlation is 0.7306525
+[ff fa 1f ab 10 00 00 ];
+[info] [14:49:33.855112 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.001, Samples from start = 6, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111010000111111010101100010000000000000, correlation is 0.67392707
+[ff ff 1a 4a 10 00 00 ];
+[info] [14:49:33.856255 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.000000102996826, Samples from start = 5.992, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110100100101000010000000000000, correlation is 0.7585009
+[db ff 19 8f 10 00 00 ];
+[info] [14:49:33.858648 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.002, Samples from start = 6, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101101111111111000110011000111100010000000000000, correlation is 0.5589756
+[c0 01 18 c0 10 00 00 ];
+[info] [14:49:33.861172 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.004, Samples from start = 6, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000000001000110001100000000010000000000000, correlation is 0.46555972
+[ff ee 1f ac 10 00 00 ];
+[info] [14:49:33.863177 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.003, Samples from start = 6, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111101110000111111010110000010000000000000, correlation is 0.6186858
+[info] [14:49:33.873646 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 442, SCS: 0 
+[ff ff 1a 0c 10 00 00 ];
+[info] [14:49:33.874042 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 5.997000102996826, Samples from start = 5.992, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110100000110000010000000000000, correlation is 0.70458275
+[ff ff 19 02 10 00 00 ];
+[info] [14:49:33.878540 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.007, Samples from start = 6, Slots from samples from start = 7 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110010000001000010000000000000, correlation is 0.6036112
+[d2 40 16 c8 10 00 00 ];
+[info] [14:49:33.891148 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.021999794006348, Samples from start = 6.016, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1101001001000000000101101100100000010000000000000, correlation is 0.501854
+[info] [14:49:33.893008 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 444, SCS: 0 
+[ff ff 19 46 10 00 00 ];
+[info] [14:49:33.893691 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.018999794006348, Samples from start = 6.016, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110010100011000010000000000000, correlation is 0.56532663
+[df f7 1f 61 10 00 00 ];
+[info] [14:49:33.895283 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.019999794006347, Samples from start = 6.016, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101111111110111000111110110000100010000000000000, correlation is 0.56503445
+[ff ff 19 47 10 00 00 ];
+[info] [14:49:33.899591 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.0209997940063475, Samples from start = 6.016, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110010100011100010000000000000, correlation is 0.5263838
+[ff ff 19 08 10 00 00 ];
+[info] [14:49:33.900622 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.0429999618530275, Samples from start = 6.04, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110010000100000010000000000000, correlation is 0.73370486
+[ff f7 19 89 10 00 00 ];
+[info] [14:49:33.907186 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.043999961853027, Samples from start = 6.04, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111110111000110011000100100010000000000000, correlation is 0.61121297
+[c0 01 18 82 10 00 00 ];
+[info] [14:49:33.910312 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.061383941650391, Samples from start = 6.058384, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000000001000110001000001000010000000000000, correlation is 0.6705904
+[info] [14:49:33.913487 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 446, SCS: 0 
+[ec 93 19 83 10 00 00 ];
+[info] [14:49:33.914031 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.06238394165039, Samples from start = 6.058384, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110110010010011000110011000001100010000000000000, correlation is 0.6731148
+[ff ff 19 c3 10 00 00 ];
+[info] [14:49:33.915046 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.033000064849854, Samples from start = 6.032, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110011100001100010000000000000, correlation is 0.59137964
+[c0 01 18 84 10 00 00 ];
+[info] [14:49:33.917371 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.0633839416503905, Samples from start = 6.058384, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000000000001000110001000010000010000000000000, correlation is 0.6113533
+[cc 92 07 85 10 00 00 ];
+[info] [14:49:33.926152 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.038000064849854, Samples from start = 6.032, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100110010010010000001111000010100010000000000000, correlation is 0.5585699
+[info] [14:49:33.939474 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 448, SCS: 0 
+[d3 65 19 c0 10 00 00 ];
+[info] [14:49:33.957803 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.0570002326965335, Samples from start = 6.056, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101001101100101000110011100000000010000000000000, correlation is 0.6189223
+[info] [14:49:33.962637 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 450, SCS: 0 
+[e6 c9 19 c1 10 00 00 ];
+[info] [14:49:33.963039 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.058000232696533, Samples from start = 6.056, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 0, binary dci is 1110011011001001000110011100000100010000000000000, correlation is 0.59949934
+[info] [14:49:33.988266 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 452, SCS: 0 
+[41 be 3e 3e 81 ];
+[info] [14:49:34.005303 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.078000026702881, Samples from start = 6.072, Slots from samples from start = 6 Slot within frame = 9, Symbol within slot = 1, binary dci is 0100000110111110001111100011111010000001, correlation is 0.69707197
+[info] [14:49:34.010330 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 454, SCS: 0 
+[ff ff 19 cc 10 00 00 ];
+[info] [14:49:34.014566 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.1443838653564455, Samples from start = 6.138384, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110011100110000010000000000000, correlation is 0.57387084
+[ff ff 1a 8d 10 00 00 ];
+[info] [14:49:34.037574 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.16099984741211, Samples from start = 6.16, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110101000110100010000000000000, correlation is 0.70550996
+[info] [14:49:34.041605 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 456, SCS: 0 
+[ff ff 1a 0f 10 00 00 ];
+[info] [14:49:34.042669 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.1629998474121095, Samples from start = 6.16, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110100000111100010000000000000, correlation is 0.72528714
+[c2 48 16 86 10 00 00 ];
+[info] [14:49:34.049425 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.153999950408935, Samples from start = 6.152, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100001001001000000101101000011000010000000000000, correlation is 0.47933692
+[ff ff 1a 4f 10 00 00 ];
+[info] [14:49:34.051525 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.154999950408936, Samples from start = 6.152, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110100100111100010000000000000, correlation is 0.6846523
+[42 0e 38 08 81 ];
+[info] [14:49:34.059066 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.181383827209473, Samples from start = 6.178384, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001000001110001110000000100010000001, correlation is 0.56636566
+[e0 00 12 ce 10 00 00 ];
+[info] [14:49:34.060181 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.184383827209473, Samples from start = 6.178384, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1110000000000000000100101100111000010000000000000, correlation is 0.4901814
+[info] [14:49:34.061682 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 458, SCS: 0 
+[ff ff 1a 04 10 00 00 ];
+[info] [14:49:34.069951 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.179000118255615, Samples from start = 6.176, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110100000010000010000000000000, correlation is 0.65149057
+[fb 6e 19 45 10 00 00 ];
+[info] [14:49:34.072856 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.180000118255615, Samples from start = 6.176, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111101101101110000110010100010100010000000000000, correlation is 0.7183385
+[ff ff 1a 05 10 00 00 ];
+[info] [14:49:34.081157 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.152999950408936, Samples from start = 6.152, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110100000010100010000000000000, correlation is 0.6412821
+[c0 40 10 4f 10 0c 00 ];
+[info] [14:49:34.085977 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.202999809265137, Samples from start = 6.2, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1100000001000000000100000100111100010000000011000, correlation is 0.67553574
+[info] [14:49:34.086335 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 460, SCS: 0 
+[ff ff 1a c9 10 00 00 ];
+[info] [14:49:34.086775 thread 18104] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.177000118255616, Samples from start = 6.176, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110101100100100010000000000000, correlation is 0.5452299
+[42 16 3a 78 81 ];
+[info] [14:49:34.098865 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.178000118255615, Samples from start = 6.176, Slots from samples from start = 2 Slot within frame = 9, Symbol within slot = 1, binary dci is 0100001000010110001110100111100010000001, correlation is 0.57288474
+[info] [14:49:34.102515 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 462, SCS: 0 
+[42 1e 34 1e 81 ];
+[info] [14:49:34.121343 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.196999912261963, Samples from start = 6.192, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100001000011110001101000001111010000001, correlation is 0.63205504
+[info] [14:49:34.128704 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 464, SCS: 0 
+[c0 04 11 81 10 0c 00 ];
+[info] [14:49:34.133865 thread 18128] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.23599987411499, Samples from start = 6.232, Slots from samples from start = 4 Slot within frame = 9, Symbol within slot = 0, binary dci is 1100000000000100000100011000000100010000000011000, correlation is 0.566026
+[info] [14:49:34.146891 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 466, SCS: 0 
+[info] [14:49:34.169579 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 468, SCS: 0 
+[41 ee 30 3e 81 ];
+[info] [14:49:34.172031 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.23699987411499, Samples from start = 6.232, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 1, binary dci is 0100000111101110001100000011111010000001, correlation is 0.66927385
+[c0 40 10 43 10 0c 00 ];
+[info] [14:49:34.172381 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.28100020980835, Samples from start = 6.28, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000001000000000100000100001100010000000011000, correlation is 0.70024693
+[info] [14:49:34.195137 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 470, SCS: 0 
+[info] [14:49:34.221269 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 472, SCS: 0 
+[ff fe 1a 86 10 00 00 ];
+[info] [14:49:34.235440 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.3413846282958986, Samples from start = 6.3383846, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111110000110101000011000010000000000000, correlation is 0.6629023
+[info] [14:49:34.243629 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 474, SCS: 0 
+[info] [14:49:34.260395 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 476, SCS: 0 
+[fb fe 1f a6 10 00 00 ];
+[info] [14:49:34.261362 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.3469998626708986, Samples from start = 6.344, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111101111111110000111111010011000010000000000000, correlation is 0.6416567
+[ef fe 1f 2d 10 00 00 ];
+[info] [14:49:34.272203 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.370000030517578, Samples from start = 6.368, Slots from samples from start = 2 Slot within frame = 3, Symbol within slot = 0, binary dci is 1110111111111110000111110010110100010000000000000, correlation is 0.668143
+[e0 49 19 02 10 00 00 ];
+[info] [14:49:34.275932 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.371000030517578, Samples from start = 6.368, Slots from samples from start = 3 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110000001001001000110010000001000010000000000000, correlation is 0.6493866
+[ff fc 1f a7 10 00 00 ];
+[info] [14:49:34.276523 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.350999862670898, Samples from start = 6.344, Slots from samples from start = 7 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111100000111111010011100010000000000000, correlation is 0.6047216
+[ff fc 1f 2f 10 00 00 ];
+[info] [14:49:34.278723 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.372000030517578, Samples from start = 6.368, Slots from samples from start = 4 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111100000111110010111100010000000000000, correlation is 0.5569202
+[ff 6e 1f a9 10 00 00 ];
+[info] [14:49:34.279057 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.35400023651123, Samples from start = 6.352, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111101101110000111111010100100010000000000000, correlation is 0.47907102
+[info] [14:49:34.281628 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 478, SCS: 0 
+[45 56 42 08 81 ];
+[info] [14:49:34.282788 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.382384590148925, Samples from start = 6.3783846, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 1, binary dci is 0100010101010110010000100000100010000001, correlation is 0.64908016
+[d2 4c 19 01 10 00 00 ];
+[info] [14:49:34.287801 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.381384590148926, Samples from start = 6.3783846, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1101001001001100000110010000000100010000000000000, correlation is 0.72412086
+[ff fe 19 42 10 00 00 ];
+[info] [14:49:34.291534 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.382384590148925, Samples from start = 6.3783846, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111110000110010100001000010000000000000, correlation is 0.6950512
+[ff fe 19 43 10 00 00 ];
+[info] [14:49:34.295436 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.383384590148926, Samples from start = 6.3783846, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111110000110010100001100010000000000000, correlation is 0.72355413
+[ff ff 19 8c 10 00 00 ];
+[info] [14:49:34.296642 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.353000236511231, Samples from start = 6.352, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110011000110000010000000000000, correlation is 0.5744861
+[ff ff 19 49 10 00 00 ];
+[info] [14:49:34.305850 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.378999927520752, Samples from start = 6.376, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110010100100100010000000000000, correlation is 0.5904565
+[ff ff 18 c0 10 00 00 ];
+[info] [14:49:34.309123 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.401000095367432, Samples from start = 6.4, Slots from samples from start = 1 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110001100000000010000000000000, correlation is 0.6828487
+[ff ff 19 4c 10 00 00 ];
+[info] [14:49:34.309924 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.381999927520752, Samples from start = 6.376, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110010100110000010000000000000, correlation is 0.47766995
+[ff ff 19 05 10 00 00 ];
+[info] [14:49:34.312526 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.395000198364258, Samples from start = 6.392, Slots from samples from start = 3 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110010000010100010000000000000, correlation is 0.71611875
+[ff ff 19 0e 10 00 00 ];
+[info] [14:49:34.314519 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.35700023651123, Samples from start = 6.352, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110010000111000010000000000000, correlation is 0.55301434
+[ff ff 19 4f 10 00 00 ];
+[info] [14:49:34.322868 thread 18125] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.376999927520752, Samples from start = 6.376, Slots from samples from start = 1 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110010100111100010000000000000, correlation is 0.531658
+[c0 01 18 8b 10 00 00 ];
+[info] [14:49:34.322934 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.394000198364258, Samples from start = 6.392, Slots from samples from start = 2 Slot within frame = 5, Symbol within slot = 0, binary dci is 1100000000000001000110001000101100010000000000000, correlation is 0.51535624
+[ff ff 19 09 10 00 00 ];
+[info] [14:49:34.325697 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.400000198364258, Samples from start = 6.392, Slots from samples from start = 8 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110010000100100010000000000000, correlation is 0.703344
+[ff fe 18 4a 10 00 00 ];
+[info] [14:49:34.333554 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.393000198364258, Samples from start = 6.392, Slots from samples from start = 1 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111110000110000100101000010000000000000, correlation is 0.7085983
+[info] [14:49:34.336510 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 482, SCS: 0 
+[info] [14:49:34.346181 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 484, SCS: 0 
+[ff ff 19 0e 10 00 00 ];
+[info] [14:49:34.346473 thread 18122] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.397000198364258, Samples from start = 6.392, Slots from samples from start = 5 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110010000111000010000000000000, correlation is 0.66670525
+[cd b2 1f 63 10 00 00 ];
+[info] [14:49:34.352862 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.43679020690918, Samples from start = 6.43379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100110110110010000111110110001100010000000000000, correlation is 0.677833
+[ff ff 18 8b 10 00 00 ];
+[info] [14:49:34.356618 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.43979020690918, Samples from start = 6.43379, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110001000101100010000000000000, correlation is 0.481026
+[ff ff 18 89 10 00 00 ];
+[info] [14:49:34.356717 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.437790206909179, Samples from start = 6.43379, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110001000100100010000000000000, correlation is 0.6279577
+[info] [14:49:34.358090 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 486, SCS: 0 
+[ff ff 18 cc 10 00 00 ];
+[info] [14:49:34.358553 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.4567901878356935, Samples from start = 6.45379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110001100110000010000000000000, correlation is 0.32772774
+[ff ff 18 4a 10 00 00 ];
+[info] [14:49:34.358653 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.43879020690918, Samples from start = 6.43379, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110000100101000010000000000000, correlation is 0.6816221
+[info] [14:49:34.369324 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 488, SCS: 0 
+[ff 7f 18 ce 10 00 00 ];
+[info] [14:49:34.371910 thread 18110] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.467000225067139, Samples from start = 6.464, Slots from samples from start = 3 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111101111111000110001100111000010000000000000, correlation is 0.51024723
+[ff ff 18 0e 10 00 00 ];
+[info] [14:49:34.378520 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.449999954223633, Samples from start = 6.448, Slots from samples from start = 2 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110000000111000010000000000000, correlation is 0.6454608
+[ff ff 18 4a 10 00 00 ];
+[info] [14:49:34.381033 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.476790168762207, Samples from start = 6.47379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110000100101000010000000000000, correlation is 0.740433
+[ff ff 18 0b 10 00 00 ];
+[info] [14:49:34.382029 thread 18116] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.479790168762207, Samples from start = 6.47379, Slots from samples from start = 6 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110000000101100010000000000000, correlation is 0.6033438
+[d2 48 18 a6 10 00 00 ];
+[info] [14:49:34.382554 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.477790168762207, Samples from start = 6.47379, Slots from samples from start = 4 Slot within frame = 3, Symbol within slot = 0, binary dci is 1101001001001000000110001010011000010000000000000, correlation is 0.76461196
+[ed 92 19 27 10 00 00 ];
+[info] [14:49:34.384437 thread 18119] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.478790168762207, Samples from start = 6.47379, Slots from samples from start = 5 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110110110010010000110010010011100010000000000000, correlation is 0.69535935
+[c0 20 18 47 10 00 00 ];
+[info] [14:49:34.388454 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.496790149688721, Samples from start = 6.49379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1100000000100000000110000100011100010000000000000, correlation is 0.6025906
+[ff ff 18 83 10 00 00 ];
+[info] [14:49:34.393270 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.4549999542236325, Samples from start = 6.448, Slots from samples from start = 7 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110001000001100010000000000000, correlation is 0.5722431
+[ef fa 17 84 10 00 00 ];
+[info] [14:49:34.394792 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.455999954223633, Samples from start = 6.448, Slots from samples from start = 8 Slot within frame = 4, Symbol within slot = 0, binary dci is 1110111111111010000101111000010000010000000000000, correlation is 0.5696798
+[42 46 46 4e 81 ];
+[info] [14:49:34.396599 thread 18107] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.479000122070312, Samples from start = 6.472, Slots from samples from start = 7 Slot within frame = 9, Symbol within slot = 1, binary dci is 0100001001000110010001100100111010000001, correlation is 0.5813422
+[ff ff 17 8a 10 00 00 ];
+[info] [14:49:34.401523 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.498999813079834, Samples from start = 6.496, Slots from samples from start = 3 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000101111000101000010000000000000, correlation is 0.5333217
+[ff ff 18 48 10 00 00 ];
+[info] [14:49:34.403454 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.496999813079834, Samples from start = 6.496, Slots from samples from start = 1 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111111111111111000110000100100000010000000000000, correlation is 0.48723936
+[info] [14:49:34.405048 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 490, SCS: 0 
+[ff ff 18 49 10 00 00 ];
+[info] [14:49:34.406739 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.497999813079834, Samples from start = 6.496, Slots from samples from start = 2 Slot within frame = 4, Symbol within slot = 0, binary dci is 1111111111111111000110000100100100010000000000000, correlation is 0.52277505
+[f6 4c 18 c4 10 00 00 ];
+[info] [14:49:34.408130 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.475000122070313, Samples from start = 6.472, Slots from samples from start = 3 Slot within frame = 3, Symbol within slot = 0, binary dci is 1111011001001100000110001100010000010000000000000, correlation is 0.6754493
+[db ff 18 c8 10 00 00 ];
+[info] [14:49:34.411948 thread 18101] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.451999954223632, Samples from start = 6.448, Slots from samples from start = 4 Slot within frame = 8, Symbol within slot = 0, binary dci is 1101101111111111000110001100100000010000000000000, correlation is 0.6296973
+[ff ff 18 4d 10 00 00 ];
+[info] [14:49:34.422401 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.501999813079834, Samples from start = 6.496, Slots from samples from start = 6 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111111111111111000110000100110100010000000000000, correlation is 0.5368075
+[info] [14:49:34.422420 thread 18088] [syncer.cc:369] Got MIB
+SSB 
+ Cell ID: 673 
+ MIB: SFN: 492, SCS: 0 
+[ff ff 18 c5 10 00 00 ];
+[info] [14:49:34.425207 thread 18095] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.448999954223633, Samples from start = 6.448, Slots from samples from start = 1 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110001100010100010000000000000, correlation is 0.5112342
+[f6 4c 19 07 10 00 00 ];
+[info] [14:49:34.426739 thread 18113] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.4800001220703125, Samples from start = 6.472, Slots from samples from start = 8 Slot within frame = 8, Symbol within slot = 0, binary dci is 1111011001001100000110010000011100010000000000000, correlation is 0.7524579
+[43 12 4e 58 81 ];
+[info] [14:49:34.427900 thread 18098] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.49399991607666, Samples from start = 6.488, Slots from samples from start = 6 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100001100010010010011100101100010000001, correlation is 0.64753014
+[41 c6 50 20 81 ];
+[info] [14:49:34.437245 thread 18092] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 40, Time = 6.536790111541748, Samples from start = 6.53379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 1, binary dci is 0100000111000110010100000010000010000001, correlation is 0.6363908
+[ff ff 18 c7 10 00 00 ];
+[info] [14:49:34.439682 thread 18143] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.536790111541748, Samples from start = 6.53379, Slots from samples from start = 3 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110001100011100010000000000000, correlation is 0.6631292
+[ff ff 18 43 10 00 00 ];
+[info] [14:49:34.439958 thread 18131] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.51700008392334, Samples from start = 6.512, Slots from samples from start = 5 Slot within frame = 5, Symbol within slot = 0, binary dci is 1111111111111111000110000100001100010000000000000, correlation is 0.6452964
+[ff ff 18 01 10 00 00 ];
+[info] [14:49:34.440073 thread 18134] [pdcch.cc:451] Found DCI PDCCH DCI: RNTI = 29606, AL = 2, DCI size 49, Time = 6.51400008392334, Samples from start = 6.512, Slots from samples from start = 2 Slot within frame = 2, Symbol within slot = 0, binary dci is 1111111111111111000110000000000100010000000000000, correlation is 0.5657821
