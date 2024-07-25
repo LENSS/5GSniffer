@@ -1,4 +1,11 @@
 #%%
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import tensorflow as tf
+import numpy as np
+import random
+
 TimeDomainAllocationList = {0:13, 1:12, 2: 11, 3:12, 4: 11, 5: 10, 6:11, 7:10, 8:9}
 mcs_table = {
     'MCS Index': {
@@ -46,79 +53,129 @@ def allocated_bits_in_DCI_1_1(raw_dci, corr):
     try: 
         RBs = RBs * TimeDomainAllocationList[int(time_res,2)]
     except:
-        print(f"[Warning] Wrong value for TimeDomainAllocationList. There are 0-8 entries but got {int(time_res,2)}.\n\t DCI correlation is {corr}")
+        #print(f"[Warning] Wrong value for TimeDomainAllocationList. There are 0-8 entries but got {int(time_res,2)}.\n\t DCI correlation is {corr}")
         return -1
     # Apply MCS table
     try:
         allocated_bits = RBs * mcs_table['Effective Bits per RB'][int(mcs_scheme,2)]
     except:
-        print(f"[Warning] Wrong value for MCS index. There are 27 entries but got {int(mcs_scheme,2)}.\n\t DCI correlation is {corr}")
+        #print(f"[Warning] Wrong value for MCS index. There are 27 entries but got {int(mcs_scheme,2)}.\n\t DCI correlation is {corr}")
         return -1
 
     return allocated_bits
+#%%
+def preprocess_dci1_1(filepath="../collected_data/output", vn = 0, dn =0):
+    dci_info = {"size":[], "time":[], "rawDCI":[], "corr":[], "entry_cnt":0}
+    with open(f'{filepath}_{vn}_{dn}.txt', 'r') as file:
+        for line in file:
+            if "Found DCI" in line:
+                dci_info['size'].append(int(line.split(',')[2][-2:])) # DCI size
+                dci_info['time'].append(float(line.split(',')[3][8:])) # Time stamp
+                dci_info['rawDCI'].append(line.split(',')[-2].split(' ')[-1]) # Raw DCI    
+                dci_info['corr'].append(line.split(',')[-1].split(" ")[-1][:-1]) # Correlation 
+                dci_info['entry_cnt'] += 1
+    downlink = {"time":[], "allocated_bits":[]}
+    for i in range(dci_info['entry_cnt']):
+        if dci_info['size'][i] == 49 :
+            allocated_bits = allocated_bits_in_DCI_1_1(dci_info["rawDCI"][i], dci_info["corr"][i])
+            if allocated_bits != -1:
+                downlink["time"].append(dci_info["time"][i])
+                downlink["allocated_bits"].append(allocated_bits)
 
+    downlink_df = pd.DataFrame(downlink) # Handle data as dataFrame
+    downlink_df['datetime'] = pd.to_datetime(downlink_df['time'], unit='s')
+    downlink_df.set_index('datetime', inplace=True) # Set the datetime column as the index
+    downlink_df = downlink_df.resample('10L').sum() # Resample the DataFrame to 0.01 second frequency
+
+    moving_window = 5
+    sec_in_sf = 100 # one value= 10ms -> 100 values = 1s  
+    how_long = 60 # This represents time length of one data feature. If it is 15, then one feature includes 15 seconds of traffic info. 
+    features = []
+    labels=[]
+    for idx in range(0, len(downlink_df), moving_window):
+        # Check if there is an enough number of datapoints for one feature        
+        if idx + sec_in_sf*how_long > len(downlink_df):
+            #print(sec_in_sf*how_long)
+            #print(len(downlink_df))
+            break
+        # Get feature
+        features.append(downlink_df["allocated_bits"][idx:idx+(sec_in_sf*how_long)])        
+        #features.append(df["Byte"][idx:idx+(sec_in_sf*how_long)].to_numpy().reshape(sec_in_sf,how_long))        
+        # Get label
+        label = [0 for i in range(5)]
+        label[vn] = 1
+        labels.append(label)
+    return features, labels, downlink_df
+#%%
+def draw_dci1_1_figure(downlink_df):
+    # Plotting
+    plt.rcParams['font.family'] = 'serif'
+    plt.rcParams['font.serif'] = 'Times New Roman'
+
+    fig, ax = plt.subplots()
+    ax.plot(downlink_df.index, downlink_df['allocated_bits'])
+    # Set the x-axis limits
+    start_time = downlink_df.index.min()
+    end_time = downlink_df.index.max()
+    ax.set_xlim([start_time, end_time])
+    # Create custom ticks at every 5 seconds starting from zero
+    tick_times = pd.date_range(start=start_time, end=end_time, freq='5S')
+    ax.set_xticks(tick_times)
+    # Set format for the x-axis
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%S')) # Format: Hours:Minutes:Seconds
+
+    plt.xlabel('Time(s)', fontsize=14)
+    plt.ylabel('Allocated Bits', fontsize=14)
+    plt.title('DCI 1_1 Allocated Resource', fontsize=14)
+    # Set the font size for tick labels
+    ax.tick_params(axis='both', which='major', labelsize=12)
+    plt.grid(True)
+    plt.show()
+
+def shuffle_lists_together(list1, list2):
+#Shuffles two lists, keeping the correspondence between the elements.
+    if len(list1) != len(list2):
+        raise ValueError("Both lists must have the same length")
+    # Zip the lists together
+    zipped_list = list(zip(list1, list2))
+    # Shuffle the zipped list
+    random.shuffle(zipped_list)
+    # Unzip the shuffled list|
+    list1_shuffled, list2_shuffled = zip(*zipped_list)
+    # Convert the tuples back to lists, if necessary
+    return list(list1_shuffled), list(list2_shuffled)
+
+def serialize_example(feature, label):
+  feature_dict = {
+      'feature': float_feature(feature),
+      'label': float_feature(label),
+  }
+  # Create a Feature message using tf.train.Example.
+  example_proto = tf.train.Example(features=tf.train.Features(feature=feature_dict))
+  return example_proto.SerializeToString()
+
+def float_feature(value):
+  return tf.train.Feature(float_list=tf.train.FloatList(value=value))
 
 #%%
-# if __name__=="__main__": 
-dci_info = {"size":[], "time":[], "rawDCI":[], "corr":[], "entry_cnt":0}
-with open('../collected_data/output_0.txt', 'r') as file:
-    for line in file:
-        if "Found DCI" in line:
-            dci_info['size'].append(int(line.split(',')[2][-2:])) # DCI size
-            dci_info['time'].append(float(line.split(',')[3][8:])) # Time stamp
-            dci_info['rawDCI'].append(line.split(',')[-2].split(' ')[-1]) # Raw DCI    
-            dci_info['corr'].append(line.split(',')[-1].split(" ")[-1][:-1]) # Correlation 
-            dci_info['entry_cnt'] += 1
-
-downlink = {"time":[], "allocated_bits":[]}
-uplink = {}
-
-for i in range(dci_info['entry_cnt']):
-    if dci_info['size'][i] == 49 :
-        allocated_bits = allocated_bits_in_DCI_1_1(dci_info["rawDCI"][i], dci_info["corr"][i])
-        if allocated_bits != -1:
-            downlink["time"].append(dci_info["time"][i])
-            downlink["allocated_bits"].append(allocated_bits)
-#%%
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-
-downlink_df = pd.DataFrame(downlink)
-
-downlink_df['datetime'] = pd.to_datetime(downlink_df['time'], unit='s')
-
-# Set the datetime column as the index
-downlink_df.set_index('datetime', inplace=True)
-
-# Resample the DataFrame to 0.2 second frequency
-resampled_df = downlink_df.resample('200L').sum()
-
-
-#%%
-# Plotting
-plt.rcParams['font.family'] = 'serif'
-plt.rcParams['font.serif'] = 'Times New Roman'
-
-fig, ax = plt.subplots()
-ax.plot(resampled_df.index, resampled_df['allocated_bits'])
-# Set the x-axis limits
-start_time = resampled_df.index.min()
-end_time = resampled_df.index.max()
-ax.set_xlim([start_time, end_time])
-# Create custom ticks at every 5 seconds starting from zero
-tick_times = pd.date_range(start=start_time, end=end_time, freq='5S')
-ax.set_xticks(tick_times)
-# Set format for the x-axis
-ax.xaxis.set_major_formatter(mdates.DateFormatter('%S')) # Format: Hours:Minutes:Seconds
-
-plt.xlabel('Time(s)', fontsize=14)
-plt.ylabel('Allocated Bits', fontsize=14)
-plt.title('DCI 1_1 Allocated Resource', fontsize=14)
-# Set the font size for tick labels
-ax.tick_params(axis='both', which='major', labelsize=12)
-plt.grid(True)
-plt.show()
+for dn in range(5):
+    features = []
+    labels = []
+    for vn in range(5):
+        try:
+            f, l, _ = preprocess_dci1_1(vn=vn, dn=dn)
+            features = features + f
+            labels = labels + l
+        except:
+            print(f"Error occured when processing video {vn}'s {dn}-th data")
+    shuffled_features, shuffled_label = shuffle_lists_together(features, labels)
+    ###################################################################
+    #PLEASE change the address below when you save the tfrecord file!!#
+    ###################################################################
+    with tf.io.TFRecordWriter('./preprocessed_60s_%d'%(dn)+".tfrecord") as writer:
+        for feature, label in zip(shuffled_features, shuffled_label):
+            example = serialize_example(feature, label)
+            writer.write(example)
 
 
 #%%
@@ -180,3 +237,5 @@ MCS: 5 bits
 #     effective_bits = raw_bits * R
 #     return effective_bits
 # mcs_df["Effective Bits per RB"] = mcs_df.apply(calculate_effective_bits_per_rb, axis=1)
+
+# %%
