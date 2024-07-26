@@ -63,7 +63,6 @@ def allocated_bits_in_DCI_1_1(raw_dci, corr):
         return -1
 
     return allocated_bits
-#%%
 def preprocess_dci1_1(filepath="../collected_data/output", vn = 0, dn =0):
     dci_info = {"size":[], "time":[], "rawDCI":[], "corr":[], "entry_cnt":0}
     with open(f'{filepath}_{vn}_{dn}.txt', 'r') as file:
@@ -106,7 +105,6 @@ def preprocess_dci1_1(filepath="../collected_data/output", vn = 0, dn =0):
         label[vn] = 1
         labels.append(label)
     return features, labels, downlink_df
-#%%
 def draw_dci1_1_figure(downlink_df):
     # Plotting
     plt.rcParams['font.family'] = 'serif'
@@ -158,6 +156,7 @@ def float_feature(value):
   return tf.train.Feature(float_list=tf.train.FloatList(value=value))
 
 #%%
+max_value = 0
 for dn in range(5):
     features = []
     labels = []
@@ -172,11 +171,15 @@ for dn in range(5):
     ###################################################################
     #PLEASE change the address below when you save the tfrecord file!!#
     ###################################################################
+    for fea in features:
+        m = max(fea)
+        if max_value < m:
+            max_value = m
     with tf.io.TFRecordWriter('./preprocessed_60s_%d'%(dn)+".tfrecord") as writer:
         for feature, label in zip(shuffled_features, shuffled_label):
             example = serialize_example(feature, label)
             writer.write(example)
-
+print(max)
 
 #%%
 """

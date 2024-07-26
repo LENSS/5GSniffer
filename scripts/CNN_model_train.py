@@ -71,7 +71,7 @@ def cnn_model_1d(input_length):
     input = layers.Input(shape=(input_length, 1), name='Input')
 
     # Normalize Input
-    normalization = layers.Lambda(lambda x: x / 60000.0)(input)
+    normalization = layers.Lambda(lambda x: x / 7500000.00)(input)
 
     # Convolution Layer
     conv1 = layers.Conv1D(filters=150, kernel_size=40, strides=1, padding='valid',
@@ -105,7 +105,7 @@ model = cnn_model_1d(input_length=6000)
 print(model.summary())
 
 # Compile the model
-opt = Adam(learning_rate=0.001)
+opt = Adam(learning_rate=0.01)
 model.compile(optimizer=opt,
               loss='categorical_crossentropy',
               metrics=['accuracy'])
@@ -113,7 +113,7 @@ model.compile(optimizer=opt,
 #################################################################################
 # Step 4. Train the model #######################################################
 #################################################################################
-history = model.fit(train_dataset, epochs=20, validation_data=val_dataset) 
+history = model.fit(train_dataset, epochs=5, validation_data=val_dataset) 
 
  #%%
 #################################################################################
